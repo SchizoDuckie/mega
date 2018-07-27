@@ -1,0 +1,1297 @@
+test_id,ref_utterance,ref_utterance_artist,script,type,expected_name,expected_id,asr_pass,e2e_asr_pass,e2e_ref_pass
+309294,嘿Siri播放GOT7的歌,GOT7,,,GOT7,802694659,True,True,True
+308682,嘿Siri播放Sarah McLachlan的歌,Sarah McLachlan,,,Sarah McLachlan,111192,True,True,True
+309359,嘿Siri播放雪瑞兒可洛的歌,雪瑞兒可洛,,,Sheryl Crow,58757,True,True,True
+310280,嘿Siri播放The Beach Boys的歌,The Beach Boys,,,The Beach Boys,562555,True,True,True
+309343,嘿Siri播放李克勤的歌,李克勤,,,李克勤,368904535,True,False,False
+308707,嘿Siri播放朴燦烈的歌,朴燦烈,,,朴燦烈,935192676,True,True,True
+310296,嘿Siri播放張敬軒的歌,張敬軒,,,張敬軒,647198652,True,True,True
+309825,嘿Siri播放歡樂合唱團的歌,歡樂合唱團,,,Glee Cast,315816847,True,False,False
+309292,嘿Siri播放Skylar Grey的歌,Skylar Grey,,,Skylar Grey,403746928,True,True,True
+309949,嘿Siri播放土岐麻子的歌,土岐麻子,,,土岐麻子,73378108,True,True,True
+308760,嘿Siri播放Idina Menzel的歌,Idina Menzel,,,Idina Menzel,3297504,True,True,True
+308802,嘿Siri播放John Newman的歌,John Newman,,,John Newman,649230577,True,True,True
+309044,嘿Siri播放陶喆的歌,陶喆,,,陶喆,16789930,True,True,True
+309694,嘿Siri播放 天命真女 的歌,Destiny's Child,,,Destiny's Child,634287,True,True,True
+310227,嘿Siri播放Yann Tiersen的歌,Yann Tiersen,,,Yann Tiersen,16401316,True,True,True
+308861,嘿Siri播放小賈斯汀的歌,小賈斯汀,,,小賈斯汀,320569549,True,False,False
+309492,嘿Siri播放國際首席愛樂樂團的歌,國際首席愛樂樂團,,,國際首席愛樂樂團,1207744080,True,True,True
+309806,嘿Siri播放Music Together的歌,Music Together,,,Music Together,267555327,True,True,True
+308410,嘿Siri播放Foster the People的歌,Foster the People,,,Foster the People,414023649,True,True,True
+310292,嘿Siri播放OneRepublic的歌,OneRepublic,,,OneRepublic,260414340,True,True,True
+309565,嘿Siri播放Kisum的歌,Kisum,,,키썸,878969509,True,False,False
+309104,嘿Siri播放Oasis的歌,Oasis,,,Oasis,512633,True,True,True
+309725,嘿Siri播放倫敦愛樂樂團的歌,倫敦愛樂樂團,,,倫敦愛樂樂團,498052,True,True,True
+308765,嘿Siri播放香香的歌,香香,,,香香,955401779,True,True,True
+309957,嘿Siri播放The Cardigans的歌,The Cardigans,,,The Cardigans,259828,True,True,True
+309042,嘿Siri播放龍飄飄的歌,龍飄飄,,,龍飄飄,777512063,True,True,True
+308614,嘿Siri播放陳粒的歌,陳粒,,,陳粒,1138469250,True,True,True
+309329,嘿Siri播放邱勝翊的歌,邱勝翊,,,邱勝翊,462254016,True,True,True
+309754,嘿Siri播放信樂團的歌,信樂團,,,信樂團,820255331,True,True,True
+309242,嘿Siri播放JOY的歌,JOY,,,JOY,510902856,True,True,True
+309549,嘿Siri播放Shania Twain的歌,Shania Twain,,,Shania Twain,129974,True,True,True
+308822,嘿Siri播放聶琳的歌,聶琳,,,聶琳,510862505,True,True,True
+309615,嘿Siri播放Michael Giacchino的歌,Michael Giacchino,,,Michael Giacchino,27462369,True,True,True
+309209,嘿Siri播放蘇志燮的歌,蘇志燮,,,蘇志燮,512158850,True,True,True
+308836,嘿Siri播放Super Simple Songs的歌,Super Simple Songs,,,Super Simple Songs,1220065281,True,True,True
+306623,嘿Siri播放MK的歌,MK,,,MK,63097617,True,True,True
+308379,嘿Siri播放莊心妍的歌,莊心妍,,,莊心妍,928329959,True,True,True
+309528,嘿Siri播放Becky G的歌,Becky G,,,Becky G,550411604,True,True,True
+309772,嘿Siri播放David Garrett的歌,David Garrett,,,David Garrett,4698889,True,True,True
+310281,嘿Siri播放韓紅的歌,韓紅,,,韓紅,217321239,True,True,True
+309992,嘿Siri播放Fall Out Boy的歌,Fall Out Boy,,,Fall Out Boy,28673423,True,True,True
+308384,嘿Siri播放劉德華的歌,劉德華,,,劉德華,19345683,True,True,True
+310309,嘿Siri播放朱宗慶打擊樂團的歌,朱宗慶打擊樂團,,,朱宗慶打擊樂團,641045469,True,True,True
+310077,嘿Siri播放Glass Animals的歌,Glass Animals,,,Glass Animals,528928008,True,True,True
+309276,嘿Siri播放will.i.am的歌,will.i.am,,,will.i.am,3495273,True,True,True
+308942,嘿Siri播放郁可唯的歌,郁可唯,,,郁可唯,369227516,True,True,True
+308445,嘿Siri播放Diplo的歌,Diplo,,,Diplo,4527097,True,False,False
+309022,嘿Siri播放Feist的歌,Feist,,,Feist,13453308,True,True,True
+310215,嘿Siri播放Arlissa的歌,Arlissa,,,Arlissa,553435139,True,True,True
+309662,嘿Siri播放鳳凰傳奇的歌,鳳凰傳奇,,,鳳凰傳奇,478745331,True,True,True
+309883,嘿Siri播放Wayne Gratz的歌,Wayne Gratz,,,Wayne Gratz,16458481,True,True,True
+310108,嘿Siri播放Robyn的歌,Robyn,,,Robyn,535211,True,True,True
+309138,嘿Siri播放DJ Snake的歌,DJ Snake,,,DJ Snake,125742557,True,True,True
+309450,嘿Siri播放辛曉琪的歌,辛曉琪,,,辛曉琪,152417217,True,True,True
+308382,嘿Siri播放蛋堡的歌,蛋堡,,,蛋堡,403689551,True,True,True
+308546,嘿Siri播放Alessia Cara的歌,Alessia Cara,,,Alessia Cara,991444375,True,True,True
+308569,嘿Siri播放游鴻明的歌,游鴻明,,,游鴻明,158190532,True,True,True
+308363,嘿Siri播放韋禮安的歌,韋禮安,,,韋禮安,441921723,True,True,True
+309264,嘿Siri播放黎明的歌,黎明,,,黎明,41756143,True,True,True
+309993,嘿Siri播放金范秀的歌,金范秀,,,金范秀,549055025,True,True,True
+310023,嘿Siri播放蔣卓嘉的歌,蔣卓嘉,,,蔣卓嘉,741988446,True,True,True
+308462,嘿Siri播放The Big 鋼琴的歌,The Big 鋼琴,,,The Big 鋼琴,621756366,True,True,True
+309674,嘿Siri播放甄妮的歌,甄妮,,,甄妮,320005684,True,True,True
+308607,嘿Siri播放周傳雄的歌,周傳雄,,,周傳雄,41867774,True,True,True
+310235,嘿Siri播放胡立歐的歌,胡立歐,,,胡立歐,540287,True,True,True
+309982,嘿Siri播放Omi的歌,Omi,,,Omi,960750491,True,True,True
+308867,嘿Siri播放A Great Big World的歌,A Great Big World,,,A Great Big World,569333045,True,True,True
+309688,嘿Siri播放劉惜君的歌,劉惜君,,,劉惜君,411430517,True,True,True
+308797,嘿Siri播放Kim Na Young的歌,Kim Na Young,,,Kim Na Young,533032420,True,True,True
+308731,嘿Siri播放Céline Dion的歌,Céline Dion,,,Céline Dion,63729,True,True,True
+309870,嘿Siri播放孫子涵的歌,孫子涵,,,孫子涵,892276680,True,True,True
+310165,嘿Siri播放Dua Lipa的歌,Dua Lipa,,,Dua Lipa,1031397873,True,True,True
+310179,嘿Siri播放Lawson的歌,Lawson,,,Lawson,2627885,True,True,True
+309693,嘿Siri播放安心亞的歌,安心亞,,,安心亞,875198478,True,True,True
+309017,嘿Siri播放糯米糰的歌,糯米糰,,,糯米糰,254549288,True,True,True
+309978,嘿Siri播放羅志祥的歌,羅志祥,,,羅志祥,448253585,True,True,True
+309652,嘿Siri播放 卡莉怪妞 的歌,Kyary Pamyu Pamyu,,,Kyary Pamyu Pamyu,448331160,True,False,True
+309312,嘿Siri播放太妍的歌,太妍,,,太妍,435966642,True,True,True
+309184,嘿Siri播放亨利·傑克曼的歌,亨利·傑克曼,,,亨利·傑克曼,209087057,True,True,True
+309700,嘿Siri播放鹿晗的歌,鹿晗,,,鹿晗,1039367382,True,True,True
+308634,嘿Siri播放Diana Ross的歌,Diana Ross,,,Diana Ross,47566,True,True,True
+310244,嘿Siri播放小球的歌,小球,,,小球,1207388343,True,True,True
+308908,嘿Siri播放陳彥允的歌,陳彥允,,,陳彥允,880776292,True,True,True
+308716,嘿Siri播放Mike Perry的歌,Mike Perry,,,Mike Perry,214891583,True,True,True
+308478,嘿Siri播放Music Box的歌,Music Box,,,Music Box,259511690,True,True,True
+308715,嘿Siri播放Jax Jones的歌,Jax Jones,,,Jax Jones,781088995,True,True,True
+309818,嘿Siri播放Lasse Lindh的歌,Lasse Lindh,,,Lasse Lindh,5179595,True,True,True
+309183,嘿Siri播放Cyndi Lauper的歌,Cyndi Lauper,,,Cyndi Lauper,59291142,True,True,True
+308435,嘿Siri播放麻吉弟弟的歌,麻吉弟弟,,,麻吉弟弟 MACHI DIDI,1287533810,True,False,False
+309613,嘿Siri播放秋山公良的歌,秋山公良,,,秋山公良,181735665,True,True,True
+309893,嘿Siri播放Alesso的歌,Alesso,,,Alesso,432464201,True,True,True
+309211,嘿Siri播放Jaden Smith的歌,Jaden Smith,,,Jaden Smith,280708839,True,True,True
+309686,嘿Siri播放錦繡二重唱的歌,錦繡二重唱,,,錦繡二重唱,160747872,True,True,True
+310106,嘿Siri播放MONKEY MAJIK的歌,MONKEY MAJIK,,,MONKEY MAJIK,93093570,True,True,True
+309610,嘿Siri播放Austyn Johnson的歌,Austyn Johnson,,,Austyn Johnson,1299844952,True,True,True
+309937,嘿Siri播放許嵩的歌,許嵩,,,許嵩,601736777,True,True,True
+308693,嘿Siri播放Rita Ora的歌,Rita Ora,,,Rita Ora,355898104,True,True,True
+309856,嘿Siri播放蘇盈之的歌,蘇盈之,,,蘇盈之,759959369,True,True,True
+309197,嘿Siri播放Stars的歌,Stars,,,Stars,336944256,True,True,True
+309532,嘿Siri播放吳映潔的歌,吳映潔,,,吳映潔,895314237,True,True,True
+308781,嘿Siri播放陳綺貞的歌,陳綺貞,,,陳綺貞,462564117,True,True,True
+310083,嘿Siri播放斯維亞托斯拉夫·里赫特的歌,斯維亞托斯拉夫·里赫特,,,斯維亞托斯拉夫·里赫特,279594,True,True,True
+308412,嘿Siri播放法蘭黛樂團的歌,法蘭黛樂團,,,法蘭黛樂團,541840967,True,True,True
+309176,嘿Siri播放Snakehips的歌,Snakehips,,,Snakehips,974255216,True,True,True
+308945,嘿Siri播放八三夭的歌,八三夭,,,八三夭,904192340,True,True,True
+310139,嘿Siri播放雷光夏的歌,雷光夏,,,雷光夏,312506169,True,True,True
+309910,嘿Siri播放Juju的歌,Juju,,,Juju,3821489,True,True,True
+308399,嘿Siri播放李權哲的歌,李權哲,,,李權哲,1103128620,True,True,True
+308955,嘿Siri播放Tinie Tempah的歌,Tinie Tempah,,,Tinie Tempah,250081539,True,True,True
+308436,嘿Siri播放Clean Bandit的歌,Clean Bandit,,,Clean Bandit,463049461,True,True,True
+309214,嘿Siri播放Machine Gun Kelly的歌,Machine Gun Kelly,,,Machine Gun Kelly,1308317898,True,True,True
+308449,嘿Siri播放許美靜的歌,許美靜,,,許美靜,216595236,True,True,True
+309398,嘿Siri播放樂童音樂家的歌,樂童音樂家,,,樂童音樂家,747306596,True,True,True
+309698,嘿Siri播放絢香的歌,絢香,,,絢香,121061666,True,True,True
+308455,嘿Siri播放克里斯汀·貝爾的歌,克里斯汀·貝爾,,,克里斯汀·貝爾,214552914,True,True,True
+310265,嘿Siri播放Machine Gun Kelly的歌,Machine Gun Kelly,,,Machine Gun Kelly,465954501,True,True,True
+309553,嘿Siri播放Meghan Trainor的歌,Meghan Trainor,,,Meghan Trainor,348580754,True,True,True
+308639,嘿Siri播放Madison Beer的歌,Madison Beer,,,Madison Beer,696146587,True,True,True
+309787,嘿Siri播放洪安妮的歌,洪安妮,,,洪安妮,1325507771,True,True,True
+309502,嘿Siri播放倪安東的歌,倪安東,,,倪安東,648198526,True,True,True
+308479,嘿Siri播放劉佳的歌,劉佳,,,劉佳,569333989,True,True,True
+308910,嘿Siri播放龍俊亨的歌,龍俊亨,,,龍俊亨,385087571,True,True,True
+309560,嘿Siri播放馬修·連恩的歌,馬修·連恩,,,馬修·連恩,774368863,True,True,True
+308673,嘿Siri播放Johnny Cash的歌,Johnny Cash,,,Johnny Cash,70936,True,True,True
+309235,嘿Siri播放米津玄師的歌,米津玄師,,,米津玄師,530814268,True,True,True
+309691,嘿Siri播放葉倩文的歌,葉倩文,,,葉倩文,68399581,True,True,True
+309897,嘿Siri播放黃妃的歌,黃妃,,,黃妃,285374603,True,True,True
+309996,嘿Siri播放李遐怡的歌,李遐怡,,,李遐怡,568756654,True,True,True
+310232,嘿Siri播放王心凌的歌,王心凌,,,王心凌,347815083,True,True,True
+309366,嘿Siri播放No Doubt的歌,No Doubt,,,No Doubt,1016512,True,True,True
+309756,嘿Siri播放阿牛的歌,阿牛,,,阿牛,278246151,True,True,True
+309635,嘿Siri播放Nina Simone的歌,Nina Simone,,,Nina Simone,79798,True,True,True
+309334,嘿Siri播放Duffy的歌,Duffy,,,Duffy,272521020,True,True,True
+309843,嘿Siri播放Dr. Dre的歌,Dr. Dre,,,Dr. Dre,35315,True,True,True
+309930,嘿Siri播放Judy Kuhn的歌,Judy Kuhn,,,Judy Kuhn,271962414,True,True,True
+309566,嘿Siri播放布魯斯史普林斯汀的歌,布魯斯史普林斯汀,,,Bruce Springsteen,178834,True,True,True
+308944,嘿Siri播放西野加奈的歌,西野加奈,,,西野加奈,410542403,True,False,False
+309391,嘿Siri播放潘瑋柏的歌,潘瑋柏,,,潘瑋柏,260955153,True,True,True
+309213,嘿Siri播放睡眠音楽の巨匠的歌,睡眠音楽の巨匠,,,睡眠音楽の巨匠,986063378,True,True,True
+310245,嘿Siri播放Twins的歌,Twins,,,Twins,157607218,True,True,True
+309552,嘿Siri播放聖結石的歌,聖結石,,,聖結石,1241163254,True,False,False
+309364,嘿Siri播放Blonde的歌,Blonde,,,Blonde,4823382,True,True,True
+308443,嘿Siri播放Selena Gomez的歌,Selena Gomez,,,Selena Gomez,280215834,True,True,True
+308463,嘿Siri播放Nicky Romero的歌,Nicky Romero,,,Nicky Romero,285266258,True,True,True
+309300,嘿Siri播放Snow Patrol的歌,Snow Patrol,,,Snow Patrol,5327254,True,True,True
+309807,嘿Siri播放CeeLo Green的歌,CeeLo Green,,,CeeLo Green,174680978,True,True,True
+308887,嘿Siri播放BLOCK B的歌,BLOCK B,,,BLOCK B,673862599,True,True,True
+309716,嘿Siri播放Red Hot Chili Peppers的歌,Red Hot Chili Peppers,,,Red Hot Chili Peppers,889780,True,True,True
+309322,嘿Siri播放Stereophonics的歌,Stereophonics,,,Stereophonics,2579656,True,True,True
+310314,嘿Siri播放金太佑的歌,金太佑,,,金太佑,429335513,True,True,True
+309108,嘿Siri播放Beyond的歌,Beyond,,,Beyond,79668659,True,True,True
+309341,嘿Siri播放Superfly的歌,Superfly,,,Superfly,150974880,True,True,True
+310206,嘿Siri播放久保田利伸的歌,久保田利伸,,,久保田利伸,250048663,True,True,True
+309848,嘿Siri播放YUKA的歌,YUKA,,,YUKA,603760477,True,True,True
+308378,嘿Siri播放劉若英的歌,劉若英,,,劉若英,16027938,True,True,True
+308532,嘿Siri播放Ciara的歌,Ciara,,,Ciara,14317116,True,True,True
+308405,嘿Siri播放Ronan Keating的歌,Ronan Keating,,,Ronan Keating,85927,True,True,True
+310249,嘿Siri播放Ennio Morricone的歌,Ennio Morricone,,,Ennio Morricone,281035,True,True,True
+309328,嘿Siri播放GRAY的歌,GRAY,,,GRAY,732708878,True,True,True
+309215,嘿Siri播放凱瑟琳‧詹金斯的歌,凱瑟琳‧詹金斯,,,凱瑟琳‧詹金斯,15157667,True,True,True
+309759,嘿Siri播放DJ Khaled的歌,DJ Khaled,,,DJ Khaled,157749142,True,True,True
+308835,嘿Siri播放大自然的聲音的歌,大 自然 的 聲音,,,大 自然 的 聲音,1205957361,True,True,True
+309188,嘿Siri播放Boyz II Men的歌,Boyz II Men,,,Boyz II Men,256514,True,True,True
+308460,嘿Siri播放Katy Perry的歌,Katy Perry,,,Katy Perry,64387566,True,True,True
+308663,嘿Siri播放John Lennon的歌,John Lennon,,,John Lennon,4416594,True,True,True
+309852,嘿Siri播放Alicia Keys的歌,Alicia Keys,,,Alicia Keys,316069,True,True,True
+309150,嘿Siri播放江美琪的歌,江美琪,,,江美琪,15809507,True,True,True
+309324,嘿Siri播放GTA的歌,GTA,,,GTA,202095113,True,True,True
+308868,嘿Siri播放薛凱琪的歌,薛凱琪,,,薛凱琪,201542612,True,True,True
+310037,嘿Siri播放解偉苓的歌,解偉苓,,,解偉苓,951747302,True,True,True
+309353,嘿Siri播放Charice的歌,Charice,,,Charice,276468244,True,True,True
+309032,嘿Siri播放Echosmith的歌,Echosmith,,,Echosmith,529352559,True,True,True
+308856,嘿Siri播放巫啟賢的歌,巫啟賢,,,巫啟賢,14380048,True,True,True
+309046,嘿Siri播放桑布伊的歌,桑布伊,,,桑布伊,643635329,True,True,True
+308973,嘿Siri播放童安格的歌,童安格,,,童安格,41641639,True,True,True
+309207,嘿Siri播放Björk的歌,Björk,,,Björk,295015,True,True,True
+310256,嘿Siri播放張碧晨的歌,張碧晨,,,張碧晨,1019445030,True,True,True
+310123,嘿Siri播放Nickelback的歌,Nickelback,,,Nickelback,5280361,True,True,True
+309225,嘿Siri播放BewhY的歌,BewhY,,,BewhY,738959155,True,True,True
+308486,嘿Siri播放小蓓蕾組合的歌,小蓓蕾組合,,,小蓓蕾組合,1029540804,True,True,True
+308970,嘿Siri播放Herbie Hancock的歌,Herbie Hancock,,,Herbie Hancock,51639,True,True,True
+308926,嘿Siri播放Chris Brown的歌,Chris Brown,,,Chris Brown,95705522,True,True,True
+309333,嘿Siri播放Petit Biscuit的歌,Petit Biscuit,,,Petit Biscuit,978442302,True,True,True
+310000,嘿Siri播放江蕙的歌,江蕙,,,江蕙,395158183,True,True,True
+310302,嘿Siri播放許巍的歌,許巍,,,許巍,84941709,True,True,True
+309548,嘿Siri播放四分衛的歌,四分衛,,,四分衛,703274906,True,True,True
+308947,嘿Siri播放曲婉婷的歌,曲婉婷,,,曲婉婷,511465685,True,True,True
+309950,嘿Siri播放Gareth Gates的歌,Gareth Gates,,,Gareth Gates,33527639,True,True,True
+310072,嘿Siri播放王詩安的歌,王詩安,,,王詩安,684235287,True,True,True
+309614,嘿Siri播放落日飛車的歌,落日飛車,,,落日飛車,1230293264,True,True,True
+308779,嘿Siri播放Elton John的歌,Elton John,,,Elton John,54657,True,True,True
+309885,嘿Siri播放衛蘭的歌,衛蘭,,,衛蘭,304187594,True,True,True
+309271,嘿Siri播放Tony Bennett的歌,Tony Bennett,,,Tony Bennett,484980,True,True,True
+308472,嘿Siri播放Taio Cruz的歌,Taio Cruz,,,Taio Cruz,200407915,True,True,True
+308540,嘿Siri播放李玟的歌,李玟,,,李玟,15772775,True,True,True
+310124,嘿Siri播放魯柏葛雷森威廉斯的歌,魯柏葛雷森威廉斯,,,魯柏葛雷森威廉斯,41576563,True,True,True
+308831,嘿Siri播放Jack Johnson的歌,Jack Johnson,,,Jack Johnson,909253,True,True,True
+309557,嘿Siri播放Dash Berlin的歌,Dash Berlin,,,Dash Berlin,264403540,True,True,True
+309354,嘿Siri播放光澤的歌,光澤,,,光澤,1163695362,True,True,True
+309262,嘿Siri播放Relaxing Piano的歌,Relaxing Piano,,,Relaxing Piano,400445703,True,True,True
+310066,嘿Siri播放脆樂團的歌,脆樂團,,,脆樂團,1183831644,True,True,True
+308729,嘿Siri播放陳淑樺的歌,陳淑樺,,,陳淑樺,14620498,True,True,True
+309722,嘿Siri播放陳慧琳的歌,陳慧琳,,,陳慧琳,274097576,True,True,True
+309474,嘿Siri播放Jewel的歌,Jewel,,,Jewel,163711259,True,True,True
+309815,嘿Siri播放Primary的歌,Primary,,,Primary,674192858,True,True,True
+308501,嘿Siri播放Cashmere Cat的歌,Cashmere Cat,,,Cashmere Cat,567455167,True,True,True
+310010,嘿Siri播放那英的歌,那英,,,那英,15930315,True,True,True
+309024,嘿Siri播放陳昇的歌,陳昇,,,陳昇,42053233,True,True,True
+308714,嘿Siri播放朴樹的歌,朴樹,,,朴樹,539598007,True,True,True
+308912,嘿Siri播放辻井伸行的歌,辻井伸行,,,辻井伸行,293126576,True,True,True
+309649,嘿Siri播放陳偉霆的歌,陳偉霆,,,陳偉霆,543119215,True,True,True
+309709,嘿Siri播放地球樂團的歌,地球樂團,,,地球樂團,74089787,True,True,True
+308842,嘿Siri播放李玉剛的歌,李玉剛,,,李玉剛,918464763,True,True,True
+309838,嘿Siri播放清水翔太的歌,清水翔太,,,清水翔太,386255092,True,True,True
+310145,嘿Siri播放袁婭維的歌,袁婭維,,,袁婭維,638018821,True,True,True
+308939,嘿Siri播放The Pussycat Dolls的歌,The Pussycat Dolls,,,The Pussycat Dolls,23331509,True,True,True
+308701,嘿Siri播放D'Angelo的歌,D'Angelo,,,D'Angelo,640286,True,True,True
+308777,嘿Siri播放普萊亞的歌,普萊亞,,,普萊亞,3543123,True,True,True
+308724,嘿Siri播放陳芳語的歌,陳芳語,,,陳芳語,520340425,True,False,False
+309928,嘿Siri播放姜育恆的歌,姜育恆,,,姜育恆,938020237,True,True,True
+308323,嘿Siri播放The Piano Guys的歌,The Piano Guys,,,The Piano Guys,498030399,True,True,True
+309147,嘿Siri播放林強的歌,林強,,,林強,380626237,True,True,True
+309524,嘿Siri播放Hilary Duff的歌,Hilary Duff,,,Hilary Duff,3296003,True,True,True
+308719,嘿Siri播放林芯儀的歌,林芯儀,,,林芯儀,616598523,True,True,True
+309080,嘿Siri播放丁世光的歌,丁世光,,,丁世光,289040724,True,True,True
+309452,嘿Siri播放Aerosmith的歌,Aerosmith,,,Aerosmith,115386,True,True,True
+309763,嘿Siri播放林依晨的歌,林依晨,,,林依晨,594423286,True,True,True
+309482,嘿Siri播放藍井艾露的歌,藍井艾露,,,藍井艾露,569938402,True,True,True
+308578,嘿Siri播放吳汶芳的歌,吳汶芳,,,吳汶芳,739674696,True,True,True
+309054,嘿Siri播放冷漠的歌,冷漠,,,冷漠,651936015,True,True,True
+309966,嘿Siri播放Bebe Rexha的歌,Bebe Rexha,,,Bebe Rexha,466059563,True,True,True
+308757,嘿Siri播放Urban Zakapa的歌,Urban Zakapa,,,Urban Zakapa,438874798,True,True,True
+308812,嘿Siri播放二珂的歌,二珂,,,二珂,1278259485,True,True,True
+308339,嘿Siri播放Rejjie Snow的歌,Rejjie Snow,,,Rejjie Snow,658461929,True,True,True
+309202,嘿Siri播放藍心湄的歌,藍心湄,,,藍心湄,316588317,True,True,True
+308329,嘿Siri播放Chace的歌,Chace,,,Chace,207633892,True,True,True
+310242,嘿Siri播放Why Don't We的歌,Why Don't We,,,Why Don't We,1161814111,True,True,True
+310253,嘿Siri播放陳潔儀的歌,陳潔儀,,,陳潔儀,367423741,True,True,True
+309094,嘿Siri播放信的歌,信,,,信,838339499,True,True,True
+308728,嘿Siri播放尹美萊的歌,尹美萊,,,尹美萊,326451219,True,True,True
+309669,嘿Siri播放雅尼的歌,雅尼,,,雅尼,17971,True,True,True
+310099,嘿Siri播放BEAST的歌,BEAST,,,BEAST,424366185,True,True,True
+309268,嘿Siri播放李玉璽的歌,李玉璽,,,李玉璽,840778723,True,True,True
+310063,嘿Siri播放Royal Blood的歌,Royal Blood,,,Royal Blood,809772445,True,True,True
+308709,嘿Siri播放gugudan的歌,gugudan,,,gugudan,1128322298,True,True,True
+309299,嘿Siri播放慢慢說樂團的歌,慢慢說樂團,,,慢慢說樂團,798506089,True,True,True
+309519,嘿Siri播放林忠諭的歌,林忠諭,,,林忠諭,1008266756,True,True,True
+310295,嘿Siri播放王雁盟的歌,王雁盟,,,王雁盟,636441861,True,True,True
+309954,嘿Siri播放弦子的歌,弦子,,,弦子,681639010,True,True,True
+308421,嘿Siri播放Christopher的歌,Christopher,,,Christopher,502578404,True,True,True
+308880,嘿Siri播放克里斯泰爾的歌,克里斯泰爾,,,克里斯泰爾,290643627,True,True,True
+309658,嘿Siri播放Billy Joel的歌,Billy Joel,,,Billy Joel,485953,True,True,True
+309647,嘿Siri播放Icona Pop的歌,Icona Pop,,,Icona Pop,398345158,True,True,True
+308978,嘿Siri播放方泂鑌的歌,方泂鑌,,,方炯鑌,395185481,True,True,True
+310029,嘿Siri播放Lupe Fiasco的歌,Lupe Fiasco,,,Lupe Fiasco,2851441,True,True,True
+308543,嘿Siri播放泫雅的歌,泫雅,,,泫雅,384855556,True,True,True
+309833,嘿Siri播放齊豫的歌,齊豫,,,齊豫,368676287,True,True,True
+309882,嘿Siri播放亞歷山卓·戴斯普雷特的歌,亞歷山卓·戴斯普雷特,,,亞歷山卓·戴斯普雷特,267126119,True,True,True
+309429,嘿Siri播放G.NA的歌,G.NA,,,G.NA,300051773,True,True,True
+309644,嘿Siri播放陳以桐的歌,陳以桐,,,陳以桐,389143992,True,True,True
+308687,嘿Siri播放呂士軒的歌,呂士軒,,,呂士軒,1183553947,True,True,True
+310161,嘿Siri播放Daniela Andrade的歌,Daniela Andrade,,,Daniela Andrade,434670871,True,True,True
+309110,嘿Siri播放Mike Posner的歌,Mike Posner,,,Mike Posner,333687585,True,True,True
+309505,嘿Siri播放Mario的歌,Mario,,,Mario,3849133,True,True,True
+308507,嘿Siri播放猛虎巧克力的歌,猛虎巧克力,,,猛虎巧克力,673852807,True,True,True
+309135,嘿Siri播放Bob Marley的歌,Bob Marley,,,Bob Marley,121982,True,True,True
+309590,嘿Siri播放Guns N' Roses的歌,Guns N' Roses,,,Guns N' Roses,106621,True,True,True
+309655,嘿Siri播放Slash的歌,Slash,,,Slash,115556,True,True,True
+308958,嘿Siri播放倖田來未的歌,倖田來未,,,倖田來未,73972014,True,True,True
+309149,嘿Siri播放生命河靈糧堂的歌,生命河靈糧堂,,,生命河靈糧堂,655843021,True,True,True
+309880,嘿Siri播放鼓鼓的歌,鼓鼓,,,鼓鼓,592113508,True,True,True
+309187,嘿Siri播放邰正宵的歌,邰正宵,,,邰正宵,339379824,True,True,True
+308372,嘿Siri播放葛仲珊的歌,葛仲珊,,,葛仲珊,675955038,True,True,True
+309020,嘿Siri播放Ryan Adams的歌,Ryan Adams,,,Ryan Adams,1010602,True,True,True
+309775,嘿Siri播放HAIM的歌,HAIM,,,HAIM,164483115,True,True,True
+309681,嘿Siri播放李碧華的歌,李碧華,,,李碧華,779579645,True,True,True
+309379,嘿Siri播放朴志敏的歌,朴志敏,,,朴志敏,715442377,True,True,True
+308995,嘿Siri播放蕭敬騰的歌,蕭敬騰,,,蕭敬騰,283971013,True,True,True
+306621,嘿Siri播放AI的歌,AI,,,AI,74381958,True,True,True
+308596,嘿Siri播放李千娜的歌,李千娜,,,李千娜,354832681,True,True,True
+308919,嘿Siri播放黃大煒的歌,黃大煒,,,黃大煒,774623347,True,False,False
+309315,嘿Siri播放Coldplay的歌,Coldplay,,,Coldplay,471744,True,True,True
+309569,嘿Siri播放原子邦妮的歌,原子邦妮,,,原子邦妮,798549963,True,True,True
+308717,嘿Siri播放任賢齊的歌,任賢齊,,,任賢齊,368372834,True,False,False
+309935,嘿Siri播放Syn Cole的歌,Syn Cole,,,Syn Cole,594222889,True,True,True
+309726,嘿Siri播放Nelly Furtado的歌,Nelly Furtado,,,Nelly Furtado,1260160,True,True,True
+309087,嘿Siri播放許茹芸的歌,許茹芸,,,許茹芸,14933577,True,True,True
+309410,嘿Siri播放鄭容和的歌,鄭容和,,,鄭容和,469864783,True,True,True
+308957,嘿Siri播放何韻詩的歌,何韻詩,,,何韻詩,156481011,True,True,True
+308776,嘿Siri播放Kings of Convenience的歌,Kings of Convenience,,,Kings of Convenience,14791619,True,True,True
+309667,嘿Siri播放Death Cab for Cutie的歌,Death Cab for Cutie,,,Death Cab for Cutie,5448636,True,True,True
+309577,嘿Siri播放拉敏賈瓦帝的歌,拉敏賈瓦帝,,,拉敏賈瓦帝,5581431,True,True,True
+310257,嘿Siri播放楊千嬅的歌,楊千嬅,,,楊千嬅,19433132,True,True,True
+308628,嘿Siri播放Ingrid Michaelson的歌,Ingrid Michaelson,,,Ingrid Michaelson,157692029,True,True,True
+308952,嘿Siri播放Yu Takahashi的歌,Yu Takahashi,,,Yu Takahashi,382312646,True,True,True
+309129,嘿Siri播放周興哲的歌,周興哲,,,周興哲,903273139,True,True,True
+309435,嘿Siri播放X JAPAN的歌,X JAPAN,,,X JAPAN,254545979,True,True,True
+310159,嘿Siri播放m-flo的歌,m-flo,,,m-flo,74119502,True,True,True
+308577,嘿Siri播放Standing Egg的歌,Standing Egg,,,스탠딩 에그,369145205,True,True,True
+308485,嘿Siri播放孝琳的歌,孝琳,,,孝琳,766141963,True,True,True
+309260,嘿Siri播放帕爾曼的歌,帕爾曼,,,帕爾曼,77853,True,True,True
+308819,嘿Siri播放曾沛慈的歌,曾沛慈,,,曾沛慈,596933364,True,True,True
+309219,嘿Siri播放Seal的歌,Seal,,,Seal,156209,True,True,True
+309632,嘿Siri播放拍謝少年的歌,拍謝少年,,,拍謝少年,546492743,True,True,True
+308695,嘿Siri播放滅火器的歌,滅火器,,,滅火器,850327761,True,True,True
+309383,嘿Siri播放鄭基高的歌,鄭基高,,,鄭基高,378277888,True,True,True
+309072,嘿Siri播放純音樂的歌,純音樂,,,純音樂,81694741,True,True,True
+308319,嘿Siri播放I.O.I的歌,I.O.I,,,I.O.I,1110816583,True,True,True
+309106,嘿Siri播放李玖哲的歌,李玖哲,,,李玖哲,289040110,True,True,True
+309967,嘿Siri播放柴克艾弗的歌,柴克艾弗,,,柴克艾弗,253406605,True,True,True
+309874,嘿Siri播放順子的歌,順子,,,順子,14815551,True,True,True
+308495,嘿Siri播放劉在錫的歌,劉在錫,,,劉在錫,449632863,True,True,True
+308514,嘿Siri播放Maluma的歌,Maluma,,,Maluma,448916501,True,True,True
+309345,嘿Siri播放Baby Sleep Music的歌,Baby Sleep Music,,,Baby Sleep Music,1087150270,True,True,True
+309512,嘿Siri播放蔡旻佑的歌,蔡旻佑,,,蔡旻佑,286780716,True,True,True
+309168,嘿Siri播放Justin Timberlake的歌,Justin Timberlake,,,Justin Timberlake,398128,True,True,True
+309904,嘿Siri播放風格童星組合的歌,風格童星組合,,,風格童星組合,1123669876,True,True,True
+310142,嘿Siri播放Lady Gaga的歌,Lady Gaga,,,Lady Gaga,277293880,True,True,True
+308799,嘿Siri播放Randy Newman的歌,Randy Newman,,,Randy Newman,200900,True,True,True
+310032,嘿Siri播放李健的歌,李健,,,李健,159211091,True,False,False
+310160,嘿Siri播放徐良的歌,徐良,,,徐良,657692607,True,True,True
+308986,嘿Siri播放汪峰的歌,汪峰,,,汪峰,166694332,True,True,True
+309476,嘿Siri播放Fly by Midnight的歌,Fly by Midnight,,,Fly by Midnight,1046396707,True,True,True
+309238,嘿Siri播放蔡佩軒的歌,蔡佩軒,,,蔡佩軒,1219224564,True,True,True
+309501,嘿Siri播放Aqua的歌,Aqua,,,Aqua,62978,True,True,True
+310135,嘿Siri播放謝和弦的歌,謝和弦,,,謝和弦,420372665,True,True,True
+309109,嘿Siri播放約書亞樂團的歌,約書亞樂團,,,約書亞樂團,976498453,True,True,True
+310300,嘿Siri播放Lykke Li的歌,Lykke Li,,,Lykke Li,263435943,True,True,True
+309057,嘿Siri播放麥浚龍的歌,麥浚龍,,,麥浚龍,720628741,True,True,True
+310140,嘿Siri播放吳思賢的歌,吳思賢,,,吳思賢,893871425,True,True,True
+309089,嘿Siri播放大壯的歌,大壯,,,大壯,1046720596,True,False,False
+308990,嘿Siri播放Take That的歌,Take That,,,Take That,13653352,True,True,True
+309991,嘿Siri播放Anne-Marie的歌,Anne-Marie,,,Anne-Marie,474724108,True,True,True
+309165,嘿Siri播放Every Little Thing的歌,Every Little Thing,,,Every Little Thing,73957328,True,True,True
+309597,嘿Siri播放坂本龍一的歌,坂本龍一,,,坂本龍一,271593168,True,True,True
+308758,嘿Siri播放Far East Movement的歌,Far East Movement,,,Far East Movement,159256095,True,True,True
+308563,嘿Siri播放Arctic Monkeys的歌,Arctic Monkeys,,,Arctic Monkeys,62820413,True,True,True
+308476,嘿Siri播放Vanessa Carlton的歌,Vanessa Carlton,,,Vanessa Carlton,111238,True,True,True
+308491,嘿Siri播放T.M.Revolution的歌,T.M.Revolution,,,T.M.Revolution,326645508,True,True,True
+308902,嘿Siri播放鄭晟河的歌,鄭晟河,,,鄭晟河,480089701,True,True,True
+308816,嘿Siri播放約翰貝瑞的歌,約翰貝瑞,,,約翰貝瑞,251072,True,True,True
+309230,嘿Siri播放Christina Grimmie的歌,Christina Grimmie,,,Christina Grimmie,441742009,True,True,True
+310091,嘿Siri播放Kelly Clarkson的歌,Kelly Clarkson,,,Kelly Clarkson,316265,True,True,True
+309795,嘿Siri播放呂薔Amuyi的歌,呂薔Amuyi,,,呂薔Amuyi,1249985897,True,True,True
+309457,嘿Siri播放周杰倫的歌,周杰倫,,,周杰倫,300117743,True,True,True
+309455,嘿Siri播放陳奕迅的歌,陳奕迅,,,陳奕迅,137938148,True,True,True
+309701,嘿Siri播放TEEN TOP的歌,TEEN TOP,,,TEEN TOP,415785922,True,True,True
+308488,嘿Siri播放張芸京的歌,張芸京,,,張芸京,327615035,True,True,True
+310101,嘿Siri播放梁文音的歌,梁文音,,,梁文音,303214431,True,True,True
+309987,嘿Siri播放放浪兄弟的歌,放浪兄弟,,,放浪兄弟,74067869,True,True,True
+309740,嘿Siri播放Michael Jackson的歌,Michael Jackson,,,Michael Jackson,32940,True,True,True
+308643,嘿Siri播放王嘉爾的歌,王嘉爾,,,王嘉爾,1219157172,True,True,True
+309115,嘿Siri播放亞細亞功夫世代的歌,亞細亞功夫世代,,,亞細亞功夫世代,295201343,True,True,True
+308497,嘿Siri播放鄭興的歌,鄭興,,,鄭興,1203632104,True,True,True
+309504,嘿Siri播放奧斯卡的歌,奧斯卡,,,奧斯卡,945625281,True,True,True
+308388,嘿Siri播放Sabrina Carpenter的歌,Sabrina Carpenter,,,Sabrina Carpenter,390647681,True,True,True
+308838,嘿Siri播放The Calling的歌,The Calling,,,The Calling,1706169,True,True,True
+309430,嘿Siri播放Gregory Porter的歌,Gregory Porter,,,Gregory Porter,3437037,True,True,True
+308650,嘿Siri播放告五人的歌,告五人,,,告五人,1284151651,True,True,True
+309702,嘿Siri播放Daniel Caesar的歌,Daniel Caesar,,,Daniel Caesar,1019899019,True,True,True
+309899,嘿Siri播放Leonard Cohen的歌,Leonard Cohen,,,Leonard Cohen,485677,True,True,True
+309888,嘿Siri播放莫文蔚的歌,莫文蔚,,,莫文蔚,162585630,True,True,True
+309542,嘿Siri播放張國榮的歌,張國榮,,,張國榮,41759136,True,True,True
+309822,嘿Siri播放Lenka的歌,Lenka,,,Lenka,284076566,True,True,True
+308851,嘿Siri播放杜德偉的歌,杜德偉,,,杜德偉,74233978,True,True,True
+309387,嘿Siri播放SHINee的歌,SHINee,,,SHINee,433371033,True,True,True
+308921,嘿Siri播放Glen Hansard的歌,Glen Hansard,,,Glen Hansard,99200052,True,True,True
+310251,嘿Siri播放謝霆鋒的歌,謝霆鋒,,,謝霆鋒,312502178,True,True,True
+309473,嘿Siri播放安迪威廉斯的歌,安迪威廉斯,,,安迪威廉斯,466691,True,True,True
+310054,嘿Siri播放Boyzone的歌,Boyzone,,,Boyzone,417639,True,True,True
+309164,嘿Siri播放Black Atlass的歌,Black Atlass,,,Black Atlass,660284136,True,True,True
+310158,嘿Siri播放白智英的歌,白智英,,,白智英,298785780,True,True,True
+309498,嘿Siri播放Muffin Songs的歌,Muffin Songs,,,Muffin Songs,492247042,True,True,True
+309369,嘿Siri播放The Bangles的歌,The Bangles,,,The Bangles,3932789,True,True,True
+309220,嘿Siri播放臺灣福音書房的歌,臺灣福音書房,,,臺灣福音書房,1049272662,True,True,True
+309687,嘿Siri播放邱振哲的歌,邱振哲,,,邱振哲,937130810,True,True,True
+310258,嘿Siri播放黃鴻升的歌,黃鴻升,,,黃鴻升,543460036,True,True,True
+308968,嘿Siri播放黃小琥的歌,黃小琥,,,黃小琥,367991488,True,True,True
+308936,嘿Siri播放柯有倫的歌,柯有倫,,,柯有倫,306799807,True,True,True
+308572,嘿Siri播放EXO-K的歌,EXO-K,,,EXO-K,498450522,True,True,True
+309958,嘿Siri播放Conor Maynard的歌,Conor Maynard,,,Conor Maynard,413594421,True,True,True
+310097,嘿Siri播放獅子合唱團的歌,獅子合唱團,,,獅子合唱團,1112739143,True,True,True
+309837,嘿Siri播放Frank Ocean的歌,Frank Ocean,,,Frank Ocean,442122051,True,True,True
+309084,嘿Siri播放GARNiDELiA的歌,GARNiDELiA,,,GARNiDELiA,449080818,True,True,True
+308795,嘿Siri播放HRVY的歌,HRVY,,,HRVY,1253012200,True,True,True
+310003,嘿Siri播放My Chemical Romance的歌,My Chemical Romance,,,My Chemical Romance,14748659,True,True,True
+308324,嘿Siri播放Samuel E. Wright的歌,Samuel E. Wright,,,Samuel E. Wright,6656835,True,True,True
+310274,嘿Siri播放Dido的歌,Dido,,,Dido,20646,True,True,True
+308403,嘿Siri播放Yellow Claw的歌,Yellow Claw,,,Yellow Claw,503862382,True,True,True
+308854,嘿Siri播放羊毛和花的歌,羊毛和花,,,羊毛和花,265838134,True,True,True
+310078,嘿Siri播放旺褔的歌,旺褔,,,旺褔,382371840,True,True,True
+309045,嘿Siri播放Samuel的歌,Samuel,,,Samuel,1292724952,True,False,False
+308988,嘿Siri播放Super Simple Learning的歌,Super Simple Learning,,,Super Simple Learning,429247660,True,False,False
+308821,嘿Siri播放Milky Chance的歌,Milky Chance,,,Milky Chance,611146795,True,True,True
+309073,嘿Siri播放黃鶯鶯的歌,黃鶯鶯,,,黃鶯鶯,644680598,True,True,True
+309270,嘿Siri播放ENERGY的歌,ENERGY,,,ENERGY,78871265,True,True,True
+309342,嘿Siri播放Barbra Streisand的歌,Barbra Streisand,,,Barbra Streisand,249646,True,False,False
+309191,嘿Siri播放Matoma的歌,Matoma,,,Matoma,915444636,True,True,True
+308755,嘿Siri播放Baauer的歌,Baauer,,,Baauer,526199085,True,True,True
+309261,嘿Siri播放董運昌的歌,董運昌,,,董運昌,386265009,True,True,True
+310201,嘿Siri播放Gavin James的歌,Gavin James,,,Gavin James,955693116,True,True,True
+310166,嘿Siri播放艾怡良的歌,艾怡良,,,艾怡良,571294820,True,True,True
+309488,嘿Siri播放American Authors的歌,American Authors,,,American Authors,557564979,True,True,True
+309586,嘿Siri播放胡夏的歌,胡夏,,,胡夏,408937662,True,True,True
+308494,嘿Siri播放鄉城兒童合唱團的歌,鄉城兒童合唱團,,,鄉城兒童合唱團,1159533013,True,True,True
+310290,嘿Siri播放卡特伯威的歌,卡特伯威,,,卡特伯威,240144,True,True,True
+309896,嘿Siri播放U-KISS的歌,U-KISS,,,U-KISS,410587085,True,True,True
+308565,嘿Siri播放亞倫曼肯的歌,亞倫曼肯,,,亞倫曼肯,393023,True,True,True
+309884,嘿Siri播放彩虹樂團的歌,彩虹樂團,,,L'Arc〜en〜Ciel,80486557,True,False,False
+309114,嘿Siri播放Mat Kearney的歌,Mat Kearney,,,Mat Kearney,27491554,True,True,True
+309086,嘿Siri播放John Mayer的歌,John Mayer,,,John Mayer,472054,True,True,True
+309015,嘿Siri播放禅宗花园 按摩的歌,禅宗花园 按摩,,,禅宗花园 按摩,1119088827,True,True,True
+309296,嘿Siri播放蕭煌奇的歌,蕭煌奇,,,蕭煌奇,441717593,True,True,True
+309144,嘿Siri播放戴佩妮的歌,戴佩妮,,,戴佩妮,14721232,True,True,True
+309496,嘿Siri播放德永英明的歌,德永英明,,,德永英明,41759725,True,True,True
+309595,嘿Siri播放圈圈兒童的歌,圈圈兒童,,,圈圈兒童,912300299,True,True,True
+310049,嘿Siri播放Grace VanderWaal的歌,Grace VanderWaal,,,Grace VanderWaal,1175539534,True,True,True
+309706,嘿Siri播放品冠的歌,品冠,,,品冠,368373220,True,True,True
+308956,嘿Siri播放史汀的歌,史汀,,,史汀,94804,True,True,True
+308547,嘿Siri播放Michael Bublé的歌,Michael Bublé,,,Michael Bublé,799597,True,True,True
+308553,嘿Siri播放Radiohead的歌,Radiohead,,,Radiohead,657515,True,True,True
+310225,嘿Siri播放9MUSES的歌,9MUSES,,,9MUSES,404135177,True,True,True
+309113,嘿Siri播放Diego Frenkel的歌,Diego Frenkel,,,Diego Frenkel,92097229,True,True,True
+309317,嘿Siri播放Mark Ronson的歌,Mark Ronson,,,Mark Ronson,1806833,True,True,True
+310005,嘿Siri播放雨宗林的歌,雨宗林,,,雨宗林,937060430,True,True,True
+309004,嘿Siri播放楊培安的歌,楊培安,,,楊培安,455646018,True,True,True
+310043,嘿Siri播放Thirty Seconds to Mars的歌,Thirty Seconds to Mars,,,Thirty Seconds to Mars,2307416,True,True,True
+309697,嘿Siri播放LiSA的歌,LiSA,,,LiSA,573943518,True,True,True
+308526,嘿Siri播放Josh Groban的歌,Josh Groban,,,Josh Groban,170344,True,True,True
+309449,嘿Siri播放MOMOLAND的歌,MOMOLAND,,,MOMOLAND,1174745559,True,True,True
+308641,嘿Siri播放荒山亮的歌,荒山亮,,,荒山亮,662001698,True,True,True
+308762,嘿Siri播放熊天平的歌,熊天平,,,熊天平,381438739,True,True,True
+309396,嘿Siri播放Disclosure的歌,Disclosure,,,Disclosure,520848228,True,True,True
+309036,嘿Siri播放連詩雅的歌,連詩雅,,,連詩雅,525135094,True,True,True
+308772,嘿Siri播放秦基博的歌,秦基博,,,秦基博,293454653,True,True,True
+308390,嘿Siri播放袁詠琳的歌,袁詠琳,,,袁詠琳,339036975,True,True,True
+310132,嘿Siri播放Sia的歌,Sia,,,Sia,13493906,True,True,True
+309267,嘿Siri播放Rudimental的歌,Rudimental,,,Rudimental,474022504,True,True,True
+308481,嘿Siri播放徐若瑄的歌,徐若瑄,,,徐若瑄,716614678,True,True,True
+308404,嘿Siri播放Of Monsters and Men的歌,Of Monsters and Men,,,Of Monsters and Men,487906750,True,True,True
+309994,嘿Siri播放休·傑克曼的歌,休·傑克曼,,,休·傑克曼,3677919,True,True,True
+309043,嘿Siri播放萬妮達的歌,萬妮達,,,萬妮達,1185461302,True,True,True
+309154,嘿Siri播放Girl's Day的歌,Girl's Day,,,Girl's Day,429348919,True,True,True
+308737,嘿Siri播放Tove Lo的歌,Tove Lo,,,Tove Lo,570136838,True,True,True
+309123,嘿Siri播放Cheat Codes的歌,Cheat Codes,,,Cheat Codes,957521979,True,True,True
+309750,嘿Siri播放兄弟本色的歌,兄弟本色,,,兄弟本色,1045881505,True,True,True
+309284,嘿Siri播放梅豔芳的歌,梅豔芳,,,梅豔芳,376186753,True,True,True
+308747,嘿Siri播放Madilyn Bailey的歌,Madilyn Bailey,,,Madilyn Bailey,463191657,True,True,True
+309971,嘿Siri播放徐懷鈺的歌,徐懷鈺,,,徐懷鈺,368448374,True,True,True
+309021,嘿Siri播放PSY的歌,PSY,,,PSY,554290495,True,True,True
+309849,嘿Siri播放溫嵐的歌,溫嵐,,,溫嵐,420105401,True,True,True
+309989,嘿Siri播放蘇運瑩的歌,蘇運瑩,,,蘇運瑩,810852908,True,True,True
+310137,嘿Siri播放Ariana Grande的歌,Ariana Grande,,,Ariana Grande,412778295,True,True,True
+309630,嘿Siri播放Meek Mill的歌,Meek Mill,,,Meek Mill,313865761,True,True,True
+310219,嘿Siri播放李笛的歌,李笛,,,李笛,166744434,True,True,True
+310294,嘿Siri播放讚美之泉的歌,讚美之泉,,,讚美之泉,267461612,True,True,True
+308556,嘿Siri播放鄭秀文的歌,鄭秀文,,,鄭秀文,68360813,True,True,True
+308704,嘿Siri播放R. Kelly的歌,R. Kelly,,,R. Kelly,140083,True,True,True
+308475,嘿Siri播放白安的歌,白安,,,白安,904392836,True,True,True
+308586,嘿Siri播放隨性樂團的歌,隨性樂團,,,隨性樂團,998847128,True,True,True
+308493,嘿Siri播放Joseph Williams的歌,Joseph Williams,,,Joseph Williams,522418,True,True,True
+308924,嘿Siri播放Whitney Houston的歌,Whitney Houston,,,Whitney Houston,13952,True,True,True
+309274,嘿Siri播放PRETTYMUCH的歌,PRETTYMUCH,,,PRETTYMUCH,1253595276,True,True,True
+310233,嘿Siri播放Queens of the Stone Age的歌,Queens of the Stone Age,,,Queens of the Stone Age,857919,True,True,True
+310092,嘿Siri播放Passenger的歌,Passenger,,,Passenger,396255033,True,True,True
+308792,嘿Siri播放柴崎幸的歌,柴崎幸,,,柴崎幸,74495298,True,True,True
+309865,嘿Siri播放Highlight的歌,Highlight,,,하이라이트,1221833558,True,True,True
+308506,嘿Siri播放Nicky Jam的歌,Nicky Jam,,,Nicky Jam,33987470,True,True,True
+309853,嘿Siri播放黃露儀的歌,黃露儀,,,黃露儀,96342732,True,True,True
+309611,嘿Siri播放Gorgon City的歌,Gorgon City,,,Gorgon City,504531222,True,True,True
+308917,嘿Siri播放Matchbox Twenty的歌,Matchbox Twenty,,,Matchbox Twenty,711111,True,True,True
+310148,嘿Siri播放張藝興的歌,張藝興,,,張藝興,1118027719,True,True,True
+309142,嘿Siri播放小野麗莎的歌,小野麗莎,,,小野麗莎,388255891,True,True,True
+309912,嘿Siri播放藝聲的歌,藝聲,,,藝聲,452177629,True,False,False
+308832,嘿Siri播放Alex Goot的歌,Alex Goot,,,Alex Goot,359057499,True,True,True
+308827,嘿Siri播放Air Supply的歌,Air Supply,,,Air Supply,13563,True,True,True
+310014,嘿Siri播放李宗盛的歌,李宗盛,,,李宗盛,152417293,True,True,True
+309462,嘿Siri播放LÉON的歌,LÉON,,,LÉON,1065692205,True,True,True
+309779,嘿Siri播放Keith Urban的歌,Keith Urban,,,Keith Urban,549836,True,True,True
+309095,嘿Siri播放林凡的歌,林凡,,,林凡,312532734,True,True,True
+308322,嘿Siri播放阿肆的歌,阿肆,,,阿肆,708069100,True,False,False
+308911,嘿Siri播放Daughter的歌,Daughter,,,Daughter,469701923,True,True,True
+308833,嘿Siri播放miss A的歌,miss A,,,miss A,312076995,True,True,True
+310040,嘿Siri播放茱蒂·班森的歌,茱蒂·班森,,,茱蒂·班森,6656830,True,True,True
+308890,嘿Siri播放Kesha的歌,Kesha,,,Kesha,334854763,True,True,True
+308439,嘿Siri播放G-DRAGON的歌,G-DRAGON,,,G-DRAGON,320373708,True,True,True
+309451,嘿Siri播放ABBA的歌,ABBA,,,ABBA,372976,True,True,True
+310073,嘿Siri播放Wanna One的歌,Wanna One,,,Wanna One,1268507013,True,True,True
+308949,嘿Siri播放Under Lover的歌,Under Lover,,,Under Lover,960941959,True,True,True
+310241,嘿Siri播放ATB的歌,ATB,,,ATB,4317519,True,True,True
+309460,嘿Siri播放Loud Luxury的歌,Loud Luxury,,,Loud Luxury,829284879,True,True,True
+309313,嘿Siri播放薛之謙的歌,薛之謙,,,薛之謙,160809474,True,True,True
+308920,嘿Siri播放NELL的歌,NELL,,,NELL,660177479,True,True,True
+308685,嘿Siri播放MeloMance的歌,MeloMance,,,MeloMance,975450659,True,True,True
+309157,嘿Siri播放黃耀明的歌,黃耀明,,,黃耀明,137937857,True,True,True
+308752,嘿Siri播放崔維麥考伊的歌,崔維麥考伊,,,Travie McCoy,357963571,True,False,False
+309385,嘿Siri播放Avril Lavigne的歌,Avril Lavigne,,,Avril Lavigne,459885,True,True,True
+308433,嘿Siri播放Tiger JK的歌,Tiger JK,,,Tiger JK,841167642,True,True,True
+310034,嘿Siri播放AAA的歌,AAA,,,AAA,79789358,True,True,True
+309724,嘿Siri播放Evanescence的歌,Evanescence,,,Evanescence,42102393,True,True,True
+309788,嘿Siri播放許哲珮的歌,許哲珮,,,許哲珮,479070780,True,True,True
+309869,嘿Siri播放美聲男伶的歌,美聲男伶,,,美聲男伶,27827819,True,True,True
+309680,嘿Siri播放黃義達的歌,黃義達,,,黃義達,283454183,True,True,True
+308419,嘿Siri播放陳曉東的歌,陳曉東,,,陳曉東,41759641,True,True,True
+309602,嘿Siri播放張惠妹的歌,張惠妹,,,張惠妹,422255649,True,True,True
+309927,嘿Siri播放歐陽娜娜的歌,歐陽娜娜,,,歐陽娜娜,1095505181,True,True,True
+309065,嘿Siri播放尹鍾信的歌,尹鍾信,,,尹鍾信,359836648,True,True,True
+310279,嘿Siri播放Illenium的歌,Illenium,,,Illenium,645420096,True,True,True
+310304,嘿Siri播放洪大光的歌,洪大光,,,洪大光,688109573,True,True,True
+309397,嘿Siri播放飛兒樂團的歌,飛兒樂團,,,飛兒樂團,205561210,True,False,False
+308374,嘿Siri播放張信哲的歌,張信哲,,,張信哲,14619979,True,True,True
+308669,嘿Siri播放丹尼·葉夫曼的歌,丹尼·葉夫曼,,,丹尼·葉夫曼,486493,True,True,True
+309773,嘿Siri播放克莉絲朵凱兒的歌,克莉絲朵凱兒,,,克莉絲朵凱兒,79096058,True,True,True
+309601,嘿Siri播放蔡依林的歌,蔡依林,,,蔡依林,152678183,True,True,True
+308907,嘿Siri播放M2M的歌,M2M,,,M2M,150385,True,True,True
+310144,嘿Siri播放克里斯托弗貝克的歌,克里斯托弗貝克,,,Christophe Beck,5449239,True,False,False
+310276,嘿Siri播放阿爆的歌,阿爆,,,阿爆,1149993208,True,True,True
+309789,嘿Siri播放Juicy J的歌,Juicy J,,,Juicy J,6392055,True,True,True
+308660,嘿Siri播放Placebo的歌,Placebo,,,Placebo,649817,True,True,True
+310020,嘿Siri播放全烋星的歌,全烋星,,,全烋星,591040040,True,True,True
+309019,嘿Siri播放老王樂隊的歌,老王樂隊,,,老王樂隊,1289608973,True,True,True
+308670,嘿Siri播放Julia Michaels的歌,Julia Michaels,,,Julia Michaels,378430797,True,True,True
+309803,嘿Siri播放Isaac Shepard的歌,Isaac Shepard,,,Isaac Shepard,288594498,True,True,True
+310047,嘿Siri播放MIKA的歌,MIKA,,,MIKA,184932871,True,True,True
+309650,嘿Siri播放Shallou的歌,Shallou,,,Shallou,940109730,True,True,True
+308999,嘿Siri播放蔡健雅的歌,蔡健雅,,,蔡健雅,387313548,True,False,False
+309826,嘿Siri播放阿杜的歌,阿杜,,,阿杜,599515753,True,True,True
+308877,嘿Siri播放秀智的歌,秀智,,,秀智,950640685,True,True,True
+308708,嘿Siri播放gnash的歌,gnash,,,gnash,299209053,True,True,True
+309122,嘿Siri播放Roy Kim的歌,Roy Kim,,,Roy Kim,572430917,True,True,True
+308534,嘿Siri播放林隆璇的歌,林隆璇,,,林隆璇,450433835,True,True,True
+309665,嘿Siri播放台北市立國樂團的歌,台北市立國樂團,,,台北市立國樂團,964375434,True,False,False
+308551,嘿Siri播放濱崎步的歌,濱崎步,,,濱崎步,73951471,True,True,True
+310261,嘿Siri播放鄭伊健的歌,鄭伊健,,,鄭伊健,217319381,True,True,True
+308848,嘿Siri播放Ohashi Trio的歌,Ohashi Trio,,,Ohashi Trio,269436639,True,True,True
+309770,嘿Siri播放amazarashi的歌,amazarashi,,,amazarashi,342419284,True,True,True
+309914,嘿Siri播放4Minute的歌,4Minute,,,4Minute,371898647,True,True,True
+309371,嘿Siri播放deadmau5的歌,deadmau5,,,deadmau5,78011850,True,True,True
+309285,嘿Siri播放SG Wannabe的歌,SG Wannabe,,,SG Wannabe,390605605,True,True,True
+308837,嘿Siri播放李宇春的歌,李宇春,,,李宇春,1336426733,True,True,True
+308889,嘿Siri播放DNCE的歌,DNCE,,,DNCE,1040595108,True,True,True
+310238,嘿Siri播放Capital Cities的歌,Capital Cities,,,Capital Cities,398949430,True,True,True
+308521,嘿Siri播放張震嶽的歌,張震嶽,,,張震嶽,369289818,True,False,False
+308935,嘿Siri播放倫敦交響樂團的歌,倫敦交響樂團,,,倫敦交響樂團,29893,True,True,True
+308718,嘿Siri播放James Bay的歌,James Bay,,,James Bay,369659529,True,False,False
+308503,嘿Siri播放華麗菲娜的歌,華麗菲娜,,,華麗菲娜,315159189,True,True,True
+309441,嘿Siri播放謝安琪的歌,謝安琪,,,謝安琪,194032752,True,True,True
+308537,嘿Siri播放Zara Larsson的歌,Zara Larsson,,,Zara Larsson,570372593,True,True,True
+310095,嘿Siri播放Craig David的歌,Craig David,,,Craig David,772093,True,True,True
+309470,嘿Siri播放GoldLink的歌,GoldLink,,,GoldLink,894731178,True,True,True
+309280,嘿Siri播放帕華洛帝的歌,帕華洛帝,,,帕華洛帝,219627,True,False,False
+309400,嘿Siri播放Kenny G的歌,Kenny G,,,Kenny G,17026,True,True,True
+308862,嘿Siri播放黃明志的歌,黃明志,,,黃明志,600866763,True,True,True
+309005,嘿Siri播放麋先生的歌,麋先生,,,麋先生,976685640,True,True,True
+309282,嘿Siri播放范曉萱的歌,范曉萱,,,范曉萱,440110980,True,True,True
+308876,嘿Siri播放海飛茲的歌,海飛茲,,,海飛茲,262892,True,True,True
+308376,嘿Siri播放蔡琴的歌,蔡琴,,,蔡琴,357033986,True,True,True
+308554,嘿Siri播放宇宙人的歌,宇宙人,,,宇宙人,369125109,True,True,True
+310150,嘿Siri播放香奈兒的歌,香奈兒,,,Che'Nelle,259040841,True,False,False
+310112,嘿Siri播放Loren Allred的歌,Loren Allred,,,Loren Allred,560195338,True,False,False
+309146,嘿Siri播放Bryson Tiller的歌,Bryson Tiller,,,Bryson Tiller,642591128,True,True,True
+308989,嘿Siri播放梁耀燮的歌,梁耀燮,,,梁耀燮,418334076,True,True,True
+308564,嘿Siri播放Rixton的歌,Rixton,,,Rixton,727851055,True,True,True
+310071,嘿Siri播放吳克群的歌,吳克群,,,吳克群,400171473,True,True,True
+310085,嘿Siri播放陳勢安的歌,陳勢安,,,陳勢安,156423522,True,True,True
+309704,嘿Siri播放光良的歌,光良,,,光良,152368592,True,True,True
+309821,嘿Siri播放張智成的歌,張智成,,,張智成,262255269,True,True,True
+309384,嘿Siri播放S.H.E的歌,S.H.E,,,S.H.E,104129527,True,False,False
+310015,嘿Siri播放張宇的歌,張宇,,,張宇,14639216,True,True,True
+309965,嘿Siri播放Aimer的歌,Aimer,,,Aimer,434213313,True,True,True
+308948,嘿Siri播放林育群的歌,林育群,,,林育群,390606607,True,False,False
+309891,嘿Siri播放謝震廷的歌,謝震廷,,,謝震廷,595922598,True,True,True
+309600,嘿Siri播放李英宏的歌,李英宏,,,李英宏,738352695,True,True,True
+309370,嘿Siri播放Miike Snow的歌,Miike Snow,,,Miike Snow,304172433,True,True,True
+308621,嘿Siri播放欣暐的歌,欣暐,,,欣暐,1012288434,True,True,True
+309256,嘿Siri播放Goose house的歌,Goose house,,,Goose house,458533095,True,True,True
+308609,嘿Siri播放Logic的歌,Logic,,,Logic,30865945,True,True,True
+309842,嘿Siri播放許志安的歌,許志安,,,許志安,156481287,True,True,True
+309830,嘿Siri播放舒米恩的歌,舒米恩,,,舒米恩,791417384,True,True,True
+309365,嘿Siri播放張大光的歌,張大光,,,張大光,744972343,True,True,True
+308408,嘿Siri播放許慧欣的歌,許慧欣,,,許慧欣,368666425,True,True,True
+308355,嘿Siri播放Jack Garratt的歌,Jack Garratt,,,Jack Garratt,895155327,True,True,True
+310210,嘿Siri播放James Blake的歌,James Blake,,,James Blake,59504818,True,True,True
+309919,嘿Siri播放Backstreet Boys的歌,Backstreet Boys,,,Backstreet Boys,217039,True,True,True
+309244,嘿Siri播放Hozier的歌,Hozier,,,Hozier,342260741,True,True,True
+309344,嘿Siri播放Fetty Wap的歌,Fetty Wap,,,Fetty Wap,872900424,True,True,True
+309906,嘿Siri播放BIGBANG的歌,BIGBANG,,,BIGBANG,318754656,True,True,True
+309585,嘿Siri播放小男孩樂團的歌,小男孩樂團,,,小男孩樂團,993127774,True,True,True
+309968,嘿Siri播放范宗沛的歌,范宗沛,,,范宗沛,598095275,True,True,True
+310182,嘿Siri播放MIYAVI的歌,MIYAVI,,,MIYAVI,76063095,True,True,True
+309730,嘿Siri播放Skillet的歌,Skillet,,,Skillet,1750802,True,True,True
+308863,嘿Siri播放Carpenters的歌,Carpenters,,,Carpenters,117982008,True,True,True
+308508,嘿Siri播放50 Cent的歌,50 Cent,,,50 Cent,112058,True,True,True
+309432,嘿Siri播放陳一郎的歌,陳一郎,,,陳一郎,471754383,True,True,True
+308690,嘿Siri播放蜜雪兒威廉的歌,蜜雪兒威廉,,,蜜雪兒威廉,549176,True,True,True
+309380,嘿Siri播放I Love Music Box的歌,I Love Music Box,,,I Love Music Box,1193202535,True,True,True
+309526,嘿Siri播放約夏貝爾的歌,約夏貝爾,,,約夏貝爾,549020,True,True,True
+309434,嘿Siri播放柯智棠的歌,柯智棠,,,柯智棠,1028448136,True,True,True
+309916,嘿Siri播放*NSYNC的歌,*NSYNC,,,*NSYNC,398120,True,True,True
+310307,嘿Siri播放宇宙少女的歌,宇宙少女,,,宇宙少女,1087651007,True,True,True
+308694,嘿Siri播放CNBLUE的歌,CNBLUE,,,CNBLUE,469864779,True,False,True
+308468,嘿Siri播放JoJo的歌,JoJo,,,JoJo,5519840,True,True,True
+310183,嘿Siri播放陳政文的歌,陳政文,,,陳政文,1280371247,True,True,True
+308866,嘿Siri播放SAM KIM的歌,SAM KIM,,,SAM KIM,833027253,True,True,True
+308852,嘿Siri播放星星樂團的歌,星星樂團,,,星星樂團,432519274,True,True,True
+308352,嘿Siri播放Secret Garden的歌,Secret Garden,,,Secret Garden,3678420,True,True,True
+308623,嘿Siri播放亦帆的歌,亦帆,,,亦帆,654936158,True,True,True
+309743,嘿Siri播放久石讓的歌,久石讓,,,久石讓,74486938,True,True,True
+310109,嘿Siri播放Robbie Williams的歌,Robbie Williams,,,Robbie Williams,17973,True,True,True
+309753,嘿Siri播放盛曉玫的歌,盛曉玫,,,盛曉玫,255479615,True,True,True
+310118,嘿Siri播放Felix Jaehn的歌,Felix Jaehn,,,Felix Jaehn,677647437,True,True,True
+309161,嘿Siri播放Massive Attack的歌,Massive Attack,,,Massive Attack,526404,True,True,True
+308600,嘿Siri播放David Bowie的歌,David Bowie,,,David Bowie,551695,True,True,True
+308549,嘿Siri播放Westlife的歌,Westlife,,,Westlife,807028,True,True,True
+308826,嘿Siri播放Marian Hill的歌,Marian Hill,,,Marian Hill,803178977,True,True,True
+309808,嘿Siri播放胡歌的歌,胡歌,,,胡歌,207687894,True,True,True
+309536,嘿Siri播放Dave Brubeck的歌,Dave Brubeck,,,Dave Brubeck,545242,True,True,True
+308725,嘿Siri播放向蕙玲的歌,向蕙玲,,,向蕙玲,976075090,True,True,True
+310211,嘿Siri播放楊錦聰的歌,楊錦聰,,,楊錦聰,598522246,True,True,True
+309259,嘿Siri播放Natasha Bedingfield的歌,Natasha Bedingfield,,,Natasha Bedingfield,17768486,True,True,True
+308480,嘿Siri播放EXO-CBX的歌,EXO-CBX,,,EXO-CBX,1170408504,True,True,True
+308734,嘿Siri播放丁噹的歌,丁噹,,,丁噹,453466412,True,True,True
+309711,嘿Siri播放高潤荷的歌,高潤荷,,,高潤荷,366264156,True,True,True
+310031,嘿Siri播放Afterschool的歌,Afterschool,,,Afterschool,338814090,True,True,True
+309466,嘿Siri播放林奕匡的歌,林奕匡,,,林奕匡,394019554,True,True,True
+309774,嘿Siri播放Jordin Sparks的歌,Jordin Sparks,,,Jordin Sparks,199181208,True,True,True
+310122,嘿Siri播放鄭恩地的歌,鄭恩地,,,鄭恩地,558359377,True,True,True
+310216,嘿Siri播放CNCO的歌,CNCO,,,CNCO,1077567887,True,True,True
+308657,嘿Siri播放草東沒有派對的歌,草東沒有派對,,,草東沒有派對,1110664089,True,True,True
+310282,嘿Siri播放David Archuleta的歌,David Archuleta,,,David Archuleta,274232650,True,True,True
+309622,嘿Siri播放胡彥斌的歌,胡彥斌,,,胡彥斌,29431462,True,True,True
+309401,嘿Siri播放伍佰的歌,伍佰,,,伍佰,327469111,True,True,False
+309388,嘿Siri播放Mariah Carey的歌,Mariah Carey,,,Mariah Carey,91853,True,True,True
+310125,嘿Siri播放愷樂的歌,愷樂,,,愷樂,1140421920,True,True,True
+309249,嘿Siri播放沉睡的歌,沉睡,,,沉睡,1209949921,True,True,True
+309712,嘿Siri播放陳惠婷的歌,陳惠婷,,,陳惠婷,878922234,True,True,True
+308603,嘿Siri播放郭富城的歌,郭富城,,,郭富城,369025305,True,True,True
+309952,嘿Siri播放NU'EST的歌,NU'EST,,,NU'EST,510883930,True,True,True
+309587,嘿Siri播放傷心欲絕的歌,傷心欲絕,,,傷心欲絕,1257006599,True,True,True
+309012,嘿Siri播放Shungudzo的歌,Shungudzo,,,Shungudzo,1237662027,True,True,True
+309975,嘿Siri播放Shakira的歌,Shakira,,,Shakira,889327,True,True,True
+310041,嘿Siri播放 特雷西 查普曼 的歌,Tracy Chapman,,,Tracy Chapman,5796121,True,False,True
+309735,嘿Siri播放郭采潔的歌,郭采潔,,,郭采潔,324949704,True,True,True
+309008,嘿Siri播放青山黛瑪的歌,青山黛瑪,,,青山黛瑪,256733298,True,True,True
+309464,嘿Siri播放飛輪海的歌,飛輪海,,,飛輪海,279252119,True,True,True
+309947,嘿Siri播放Baby Sleep Music的歌,Baby Sleep Music,,,Baby Sleep Music,307163141,True,True,True
+308653,嘿Siri播放Chet Faker的歌,Chet Faker,,,Chet Faker,439036555,True,True,True
+309255,嘿Siri播放吳宗憲的歌,吳宗憲,,,吳宗憲,216585402,True,True,True
+309098,嘿Siri播放Ricky Martin的歌,Ricky Martin,,,Ricky Martin,217142,True,True,True
+308611,嘿Siri播放周柏豪的歌,周柏豪,,,周柏豪,269735061,True,True,True
+309330,嘿Siri播放貴族樂團的歌,貴族樂團,,,貴族樂團,996896553,True,True,True
+308726,嘿Siri播放Drake的歌,Drake,,,Drake,271256,True,True,True
+308676,嘿Siri播放Knock的歌,Knock,,,Knock,1244044363,True,False,False
+310050,嘿Siri播放黃美珍的歌,黃美珍,,,黃美珍,303211605,True,True,True
+309010,嘿Siri播放Amy Shark的歌,Amy Shark,,,Amy Shark,1083179259,True,True,True
+309431,嘿Siri播放Roxette的歌,Roxette,,,Roxette,2397346,True,True,True
+309732,嘿Siri播放李代沫的歌,李代沫,,,李代沫,638017436,True,True,True
+308542,嘿Siri播放AOA的歌,AOA,,,AOA,1080563762,True,True,True
+308780,嘿Siri播放Tegan and Sara的歌,Tegan and Sara,,,Tegan and Sara,3204427,True,True,True
+308969,嘿Siri播放Bon Jovi的歌,Bon Jovi,,,Bon Jovi,122782,True,True,True
+309078,嘿Siri播放宮閣的歌,宮閣,,,宮閣,1097728207,True,True,True
+308601,嘿Siri播放Naughty Boy的歌,Naughty Boy,,,Naughty Boy,110357036,True,True,True
+308680,嘿Siri播放Birdy的歌,Birdy,,,Birdy,416879038,True,True,True
+308599,嘿Siri播放Daniel Powter的歌,Daniel Powter,,,Daniel Powter,25451036,True,True,True
+308751,嘿Siri播放謝宜君的歌,謝宜君,,,謝宜君,437273440,True,True,True
+309747,嘿Siri播放白娥娟的歌,白娥娟,,,白娥娟,562225181,True,True,True
+309130,嘿Siri播放徐佳瑩的歌,徐佳瑩,,,徐佳瑩,387317532,True,True,True
+308467,嘿Siri播放譚詠麟的歌,譚詠麟,,,譚詠麟,320148563,True,True,True
+309163,嘿Siri播放DEAMN的歌,DEAMN,,,DEAMN,1043706327,True,True,True
+309517,嘿Siri播放SPICY CHOCOLATE的歌,SPICY CHOCOLATE,,,SPICY CHOCOLATE,296877232,True,False,False
+309420,嘿Siri播放Dynamic Duo的歌,Dynamic Duo,,,Dynamic Duo,412564585,True,True,True
+309777,嘿Siri播放Andy Grammer的歌,Andy Grammer,,,Andy Grammer,395772279,True,True,True
+308429,嘿Siri播放棉花糖的歌,棉花糖,,,棉花糖,387311768,True,True,True
+310147,嘿Siri播放B.o.B的歌,B.o.B,,,B.o.B,259700865,True,True,True
+310224,嘿Siri播放The Neighbourhood的歌,The Neighbourhood,,,The Neighbourhood,219350813,True,True,True
+308962,嘿Siri播放徐仁國的歌,徐仁國,,,徐仁國,386265621,True,False,False
+310017,嘿Siri播放Wilco的歌,Wilco,,,Wilco,147603,True,True,True
+309876,嘿Siri播放BOBBY的歌,BOBBY,,,BOBBY,1148163234,True,True,True
+309628,嘿Siri播放蔡恩雨的歌,蔡恩雨,,,蔡恩雨,1262885033,True,True,True
+308815,嘿Siri播放Astrid S的歌,Astrid S,,,Astrid S,987085593,True,True,True
+308616,嘿Siri播放Flux的歌,Flux,,,Flux,818712411,True,True,True
+309281,嘿Siri播放Joel Adams的歌,Joel Adams,,,Joel Adams,1053557925,True,True,True
+309525,嘿Siri播放JUN. K的歌,JUN. K,,,JUN. K,419353014,True,True,True
+309023,嘿Siri播放吳亦凡的歌,吳亦凡,,,吳亦凡,947329205,True,True,True
+310044,嘿Siri播放曾靜玟的歌,曾靜玟,,,曾靜玟,535041873,True,True,True
+310198,嘿Siri播放楊曉的歌,楊曉,,,楊曉,1062264266,True,True,True
+308899,嘿Siri播放孔令奇的歌,孔令奇,,,孔令奇,612724986,True,True,True
+310231,嘿Siri播放馬丁·夏布洛的歌,馬丁·夏布洛,,,馬丁·夏布洛,293589040,True,True,True
+308967,嘿Siri播放朴寶藍的歌,朴寶藍,,,朴寶藍,880651881,True,True,True
+309212,嘿Siri播放Gavin DeGraw的歌,Gavin DeGraw,,,Gavin DeGraw,1776919,True,True,True
+308791,嘿Siri播放KT Tunstall的歌,KT Tunstall,,,KT Tunstall,23556846,True,True,True
+309002,嘿Siri播放潘嘉麗的歌,潘嘉麗,,,潘嘉麗,547154499,True,True,True
+308742,嘿Siri播放SURAN的歌,SURAN,,,SURAN,953413471,True,True,True
+309134,嘿Siri播放孫燕姿的歌,孫燕姿,,,孫燕姿,83405200,True,True,True
+309178,嘿Siri播放韶宥的歌,韶宥,,,SOYOU,540096854,True,False,False
+309663,嘿Siri播放詹姆斯·紐頓·霍華的歌,詹姆斯·紐頓·霍華,,,詹姆斯·紐頓·霍華,914753,True,True,True
+308425,嘿Siri播放曹格的歌,曹格,,,曹格,513448219,True,True,True
+308886,嘿Siri播放劉力揚的歌,劉力揚,,,劉力揚,545234363,True,True,True
+309493,嘿Siri播放Joni Mitchell的歌,Joni Mitchell,,,Joni Mitchell,203373,True,True,True
+310288,嘿Siri播放Bassjackers的歌,Bassjackers,,,Bassjackers,277100418,True,True,True
+309887,嘿Siri播放The National的歌,The National,,,The National,51075707,True,True,True
+308434,嘿Siri播放ONE OK ROCK的歌,ONE OK ROCK,,,ONE OK ROCK,252239625,True,True,True
+309921,嘿Siri播放Skrillex的歌,Skrillex,,,Skrillex,356545647,True,True,True
+308940,嘿Siri播放圭賢的歌,圭賢,,,圭賢,579176112,True,True,True
+309056,嘿Siri播放金布里克曼的歌,金布里克曼,,,金布里克曼,11955,True,True,True
+309039,嘿Siri播放DJ OKAWARI的歌,DJ OKAWARI,,,DJ OKAWARI,267095525,True,True,True
+309297,嘿Siri播放Beyoncé的歌,Beyoncé,,,Beyoncé,1419227,True,True,True
+308963,嘿Siri播放文慧如的歌,文慧如,,,文慧如,1058845828,True,True,True
+309061,嘿Siri播放Cat Power的歌,Cat Power,,,Cat Power,2959120,True,True,True
+308505,嘿Siri播放Elle King的歌,Elle King,,,Elle King,395811135,True,True,True
+308591,嘿Siri播放李毓芬的歌,李毓芬,,,李毓芬,1101306919,True,True,True
+309443,嘿Siri播放邁爾士 戴維斯的歌,邁爾士 戴維斯,,,Miles Davis,44984,True,True,True
+308929,嘿Siri播放許冠傑的歌,許冠傑,,,許冠傑,41642722,True,True,True
+309081,嘿Siri播放Lost Frequencies的歌,Lost Frequencies,,,Lost Frequencies,877792512,True,True,True
+310236,嘿Siri播放楊乃文的歌,楊乃文,,,楊乃文,150204768,True,True,True
+309970,嘿Siri播放Noah Cyrus的歌,Noah Cyrus,,,Noah Cyrus,333158887,True,True,True
+309111,嘿Siri播放家風兒童合唱團的歌,家風兒童合唱團,,,家風兒童合唱團,947213267,True,True,True
+308875,嘿Siri播放Ben Howard的歌,Ben Howard,,,Ben Howard,432957499,True,True,True
+310214,嘿Siri播放永邦的歌,永邦,,,永邦,899768374,True,True,True
+309905,嘿Siri播放謝金燕的歌,謝金燕,,,謝金燕,406292125,True,True,True
+309175,嘿Siri播放田馥甄的歌,田馥甄,,,田馥甄,417691809,True,True,True
+308635,嘿Siri播放Macy Gray的歌,Macy Gray,,,Macy Gray,217068,True,True,True
+308630,嘿Siri播放The Black Keys的歌,The Black Keys,,,The Black Keys,5893059,True,True,True
+309327,嘿Siri播放方大同的歌,方大同,,,方大同,201549024,True,True,True
+309484,嘿Siri播放T.I.的歌,T.I.,,,T.I.,14967,True,False,False
+308527,嘿Siri播放游學志的歌,游學志,,,游學志,508325868,True,True,True
+310169,嘿Siri播放Kids Party Music Players的歌,Kids Party Music Players,,,Kids Party Music Players,549274039,True,True,True
+309107,嘿Siri播放鋼琴心情的歌,鋼琴心情,,,鋼琴心情,1195425407,True,True,True
+308548,嘿Siri播放潘越雲的歌,潘越雲,,,潘越雲,152297993,True,True,True
+309118,嘿Siri播放郭靜的歌,郭靜,,,郭靜,535054776,True,True,True
+308994,嘿Siri播放Adele的歌,Adele,,,Adele,262836961,True,True,True
+309594,嘿Siri播放郭美美的歌,郭美美,,,郭美美,280876349,True,True,True
+309964,嘿Siri播放和樂器樂團的歌,和樂器樂團,,,和樂器樂團,860461540,True,True,True
+308520,嘿Siri播放孫盛希的歌,孫盛希,,,孫盛希,878542994,True,True,True
+309793,嘿Siri播放Michael Learns to Rock的歌,Michael Learns to Rock,,,Michael Learns to Rock,13817820,True,True,True
+308706,嘿Siri播放CHEN的歌,CHEN,,,CHEN,902290176,True,True,True
+309463,嘿Siri播放Sleep Music Academy的歌,Sleep Music Academy,,,Sleep Music Academy,382585635,True,True,True
+309831,嘿Siri播放四葉草的歌,四葉草,,,四葉草,1064343685,True,True,True
+309389,嘿Siri播放Marshmello的歌,Marshmello,,,Marshmello,980795202,True,True,True
+308825,嘿Siri播放魯向卉的歌,魯向卉,,,魯向卉,937112091,True,False,False
+309534,嘿Siri播放MOBB的歌,MOBB,,,MOBB,1152419170,True,False,False
+310190,嘿Siri播放Limp Bizkit的歌,Limp Bizkit,,,Limp Bizkit,105544,True,True,True
+309633,嘿Siri播放勝利的歌,勝利,,,勝利,519682907,True,True,True
+310009,嘿Siri播放Green Day的歌,Green Day,,,Green Day,954266,True,True,True
+310046,嘿Siri播放小賈姬的歌,小賈姬,,,小賈姬,334346533,True,True,True
+309854,嘿Siri播放Mad Clown的歌,Mad Clown,,,Mad Clown,478253828,True,True,True
+309266,嘿Siri播放戴愛玲的歌,戴愛玲,,,戴愛玲,284032739,True,True,True
+308604,嘿Siri播放王靖雯的歌,王靖雯,,,王靖雯,1100041757,True,True,True
+309231,嘿Siri播放椎名林檎的歌,椎名林檎,,,椎名林檎,74576999,True,False,False
+308893,嘿Siri播放伯賢的歌,伯賢,,,Baekhyun,987357639,True,True,True
+309670,嘿Siri播放Bonobo的歌,Bonobo,,,Bonobo,416281071,True,True,True
+309592,嘿Siri播放黃致列的歌,黃致列,,,黃致列,1013682121,True,True,True
+308576,嘿Siri播放貓頭鷹之城的歌,貓頭鷹之城,,,Owl City,264481094,True,False,False
+308727,嘿Siri播放小宇-宋念宇的歌,小宇-宋念宇,,,小宇-宋念宇,311541510,True,True,True
+308778,嘿Siri播放MUSIC BOX COLLECTION的歌,MUSIC BOX COLLECTION,,,MUSIC BOX COLLECTION,267428567,True,True,True
+308723,嘿Siri播放AKB48的歌,AKB48,,,AKB48,292706922,True,True,True
+309411,嘿Siri播放黃立行的歌,黃立行,,,黃立行,15826839,True,True,True
+309454,嘿Siri播放林俊傑的歌,林俊傑,,,林俊傑,216635866,True,True,True
+309895,嘿Siri播放T-ara的歌,T-ara,,,T-ara,471900661,True,True,True
+308625,嘿Siri播放宋智恩的歌,宋智恩,,,宋智恩,427731625,True,True,True
+308356,嘿Siri播放福山雅治的歌,福山雅治,,,福山雅治,120889904,True,True,True
+310173,嘿Siri播放SECRET的歌,SECRET,,,SECRET,414425656,True,False,False
+309606,嘿Siri播放Taylor Swift的歌,Taylor Swift,,,Taylor Swift,159260351,True,True,True
+309206,嘿Siri播放Slipknot的歌,Slipknot,,,Slipknot,6907568,True,True,True
+308981,嘿Siri播放Rich Brian的歌,Rich Brian,,,Rich Brian,1023207266,True,True,True
+309169,嘿Siri播放彭佳慧的歌,彭佳慧,,,彭佳慧,690432144,True,True,True
+309392,嘿Siri播放Paul Desmond的歌,Paul Desmond,,,Paul Desmond,295401,True,True,True
+309527,嘿Siri播放唐禹哲的歌,唐禹哲,,,唐禹哲,594394972,True,True,True
+310057,嘿Siri播放Jake Bugg的歌,Jake Bugg,,,Jake Bugg,445598869,True,True,True
+310153,嘿Siri播放張雨生的歌,張雨生,,,張雨生,202968045,True,True,True
+308332,嘿Siri播放Mura Masa的歌,Mura Masa,,,Mura Masa,876778612,True,True,True
+308892,嘿Siri播放娃娃的歌,娃娃,,,娃娃,41760557,True,True,True
+309286,嘿Siri播放James Arthur的歌,James Arthur,,,James Arthur,193502798,True,True,True
+308788,嘿Siri播放The Goo Goo Dolls的歌,The Goo Goo Dolls,,,The Goo Goo Dolls,147559,True,True,True
+309985,嘿Siri播放吳建豪的歌,吳建豪,,,吳建豪,289040072,True,True,True
+308368,嘿Siri播放1976的歌,1976,,,1976,299664590,True,True,True
+309218,嘿Siri播放新垣結衣的歌,新垣結衣,,,新垣結衣,268882984,True,True,True
+310178,嘿Siri播放彭羚的歌,彭羚,,,彭羚,213411091,True,True,True
+310079,嘿Siri播放柚子的歌,柚子,,,柚子,99087089,True,True,True
+309199,嘿Siri播放趙詠華的歌,趙詠華,,,趙詠華,402479374,True,True,True
+310141,嘿Siri播放IU的歌,IU,,,IU,409076743,True,True,True
+308721,嘿Siri播放金玟岐的歌,金玟岐,,,金玟岐,937130745,True,True,True
+309203,嘿Siri播放Rockabye Baby!的歌,Rockabye Baby!,,,Rockabye Baby!,216123617,True,True,True
+309523,嘿Siri播放關淑怡的歌,關淑怡,,,關淑怡,373916326,True,True,True
+310121,嘿Siri播放林淑容的歌,林淑容,,,林淑容,691015867,True,True,True
+308448,嘿Siri播放黃玠的歌,黃玠,,,黃玠,656689595,True,True,True
+308846,嘿Siri播放動力火車的歌,動力火車,,,動力火車,593436026,True,True,True
+309582,嘿Siri播放Papa Roach的歌,Papa Roach,,,Papa Roach,3445763,True,True,True
+309997,嘿Siri播放周蕙的歌,周蕙,,,周蕙,312520358,True,True,True
+309332,嘿Siri播放Toby Fox的歌,Toby Fox,,,Toby Fox,1060915053,True,True,True
+309509,嘿Siri播放王宏恩的歌,王宏恩,,,王宏恩,398315676,True,True,True
+309251,嘿Siri播放Britney Spears的歌,Britney Spears,,,Britney Spears,217005,True,True,True
+309101,嘿Siri播放Regina Spektor的歌,Regina Spektor,,,Regina Spektor,20006408,True,True,True
+310268,嘿Siri播放龍千玉的歌,龍千玉,,,龍千玉,976090098,True,True,True
+308659,嘿Siri播放Angela Aki的歌,Angela Aki,,,Angela Aki,255053150,True,True,True
+308369,嘿Siri播放Nursery Rhymes的歌,Nursery Rhymes,,,Nursery Rhymes,260857135,True,True,True
+308711,嘿Siri播放Foxes的歌,Foxes,,,Foxes,476901652,True,True,True
+309051,嘿Siri播放怕胖團的歌,怕胖團,,,怕胖團,1173395704,True,True,True
+310114,嘿Siri播放那對夫妻的歌,那對夫妻,,,那對夫妻,1238151934,True,True,True
+309208,嘿Siri播放Kevin Gates的歌,Kevin Gates,,,Kevin Gates,298383551,True,True,True
+308358,嘿Siri播放James Morrison的歌,James Morrison,,,James Morrison,2473332,True,True,True
+309193,嘿Siri播放Maggie Rogers的歌,Maggie Rogers,,,Maggie Rogers,536790978,True,True,True
+309554,嘿Siri播放F4的歌,F4,,,F4,137635396,True,True,True
+308820,嘿Siri播放Wiz Khalifa的歌,Wiz Khalifa,,,Wiz Khalifa,201714418,True,True,True
+309031,嘿Siri播放王儷婷的歌,王儷婷,,,王儷婷,98067629,True,True,True
+310026,嘿Siri播放施文彬的歌,施文彬,,,施文彬,449590536,True,True,True
+309568,嘿Siri播放任然的歌,任然,,,任然,950546264,True,True,True
+309245,嘿Siri播放閃靈的歌,閃靈,,,閃靈,205696708,True,True,True
+309699,嘿Siri播放巴倫波因的歌,巴倫波因,,,巴倫波因,77867,True,True,True
+309755,嘿Siri播放Hans Zimmer的歌,Hans Zimmer,,,Hans Zimmer,111203,True,True,True
+310011,嘿Siri播放黃乙玲的歌,黃乙玲,,,黃乙玲,404105101,True,True,True
+310171,嘿Siri播放金鐘國的歌,金鐘國,,,金鐘國,578548964,True,True,True
+309988,嘿Siri播放Robin Thicke的歌,Robin Thicke,,,Robin Thicke,290491,True,True,True
+308703,嘿Siri播放何真真的歌,何真真,,,何真真,291996196,True,True,True
+308642,嘿Siri播放Late Night Alumni的歌,Late Night Alumni,,,Late Night Alumni,2900820,True,True,True
+310128,嘿Siri播放Jimmy Chan的歌,Jimmy Chan,,,Jimmy Chan,474037436,True,True,True
+309942,嘿Siri播放劉嘉亮的歌,劉嘉亮,,,劉嘉亮,651928370,True,True,True
+309879,嘿Siri播放Big Sean的歌,Big Sean,,,Big Sean,302533564,True,True,True
+309189,嘿Siri播放Tobu的歌,Tobu,,,Tobu,611180201,True,True,True
+308658,嘿Siri播放張瑋伽的歌,張瑋伽,,,張瑋伽,892623926,True,True,True
+309645,嘿Siri播放Songs For Children的歌,Songs For Children,,,Songs For Children,313538320,True,True,True
+308909,嘿Siri播放安那的歌,安那,,,安那,1271443152,True,True,True
+309368,嘿Siri播放Suchmos的歌,Suchmos,,,Suchmos,977044086,True,True,True
+309058,嘿Siri播放The Cast of High School Musical的歌,The Cast of High School Musical,,,The Cast of High School Musical,159276257,True,False,False
+308794,嘿Siri播放Ray Charles的歌,Ray Charles,,,Ray Charles,160926,True,True,True
+308333,嘿Siri播放縱貫線的歌,縱貫線,,,縱貫線,305735294,True,True,True
+309834,嘿Siri播放吳金黛的歌,吳金黛,,,吳金黛,268883408,True,True,True
+309940,嘿Siri播放Ji-min的歌,Ji-min,,,Ji-min,572968530,True,False,False
+308697,嘿Siri播放Miley Cyrus的歌,Miley Cyrus,,,Miley Cyrus,137057909,True,True,True
+308972,嘿Siri播放DREAMCATCHER的歌,DREAMCATCHER,,,DREAMCATCHER,1194912387,True,True,True
+308538,嘿Siri播放周華健的歌,周華健,,,周華健,380376028,True,True,True
+310115,嘿Siri播放Seeb的歌,Seeb,,,Seeb,1038385423,True,True,True
+309729,嘿Siri播放Oh Wonder的歌,Oh Wonder,,,Oh Wonder,951123601,True,True,True
+309720,嘿Siri播放王大文的歌,王大文,,,王大文,273736326,True,False,False
+309331,嘿Siri播放何維健的歌,何維健,,,何維健,411003499,True,True,True
+309733,嘿Siri播放Kenny Loggins的歌,Kenny Loggins,,,Kenny Loggins,59300023,True,True,True
+309589,嘿Siri播放Harry Styles的歌,Harry Styles,,,Harry Styles,471260289,True,True,True
+308392,嘿Siri播放JYJ的歌,JYJ,,,JYJ,404932576,True,True,True
+309752,嘿Siri播放孫露的歌,孫露,,,孫露,262680810,True,True,True
+308418,嘿Siri播放林海的歌,林海,,,林海,431449084,True,True,True
+309507,嘿Siri播放王俊凱的歌,王俊凱,,,王俊凱,1166635247,True,True,True
+308573,嘿Siri播放FTISLAND的歌,FTISLAND,,,FTISLAND,424488670,True,True,True
+309248,嘿Siri播放優客李林的歌,優客李林,,,優客李林,357031885,True,True,True
+310113,嘿Siri播放George Michael的歌,George Michael,,,George Michael,894337,True,True,True
+309258,嘿Siri播放Rachel Platten的歌,Rachel Platten,,,Rachel Platten,431528675,True,True,True
+309579,嘿Siri播放Relaxing Piano的歌,リラクシング・ピアノ,,,リラクシング・ピアノ,259301361,True,False,False
+309192,嘿Siri播放李承哲的歌,李承哲,,,李承哲,377873411,True,True,True
+309875,嘿Siri播放Tiffany的歌,Tiffany,,,Tiffany,995156410,True,True,True
+308739,嘿Siri播放陳星翰的歌,陳星翰,,,陳星翰,1049828482,True,True,True
+308905,嘿Siri播放帝國之子的歌,帝國之子,,,帝國之子,541931766,True,True,True
+308841,嘿Siri播放太陽的歌,太陽,,,太陽,485528881,True,True,True
+308971,嘿Siri播放布拉格愛樂樂團的歌,布拉格愛樂樂團,,,布拉格愛樂樂團,6787947,True,True,True
+310156,嘿Siri播放自由發揮的歌,自由發揮,,,自由發揮,407647121,True,True,True
+310259,嘿Siri播放Sarah Brightman的歌,Sarah Brightman,,,Sarah Brightman,132517,True,True,True
+310096,嘿Siri播放Gummy的歌,Gummy,,,Gummy,623396843,True,True,True
+310176,嘿Siri播放Spa的歌,Spa,,,Spa,285727086,True,True,True
+309252,嘿Siri播放馬友友的歌,馬友友,,,馬友友,275557,True,True,True
+309170,嘿Siri播放BLACKPINK的歌,BLACKPINK,,,BLACKPINK,1141774019,True,True,True
+309858,嘿Siri播放Priscilla Ahn的歌,Priscilla Ahn,,,Priscilla Ahn,136933307,True,True,True
+309335,嘿Siri播放秀蘭瑪雅的歌,秀蘭瑪雅,,,秀蘭瑪雅,421259344,True,True,True
+308409,嘿Siri播放Nokto Music的歌,Nokto Music,,,Nokto Music,600657584,True,True,True
+309352,嘿Siri播放周筆暢的歌,周筆暢,,,周筆暢,286784852,True,True,True
+309026,嘿Siri播放SCANDAL的歌,SCANDAL,,,SCANDAL,1161046,True,False,False
+309105,嘿Siri播放Halsey的歌,Halsey,,,Halsey,324916925,True,True,True
+309190,嘿Siri播放謝欣芷的歌,謝欣芷,,,謝欣芷,589293579,True,True,True
+308900,嘿Siri播放李心潔的歌,李心潔,,,李心潔,538471748,True,True,True
+308430,嘿Siri播放梁詠琪的歌,梁詠琪,,,梁詠琪,137938636,True,True,True
+310247,嘿Siri播放The Fray的歌,The Fray,,,The Fray,31239777,True,True,True
+308396,嘿Siri播放NEIKED的歌,NEIKED,,,NEIKED,1053426262,True,True,True
+309718,嘿Siri播放樸孝信的歌,樸孝信,,,樸孝信,292946954,True,True,True
+309067,嘿Siri播放阿桑的歌,阿桑,,,阿桑,365963445,True,True,True
+309741,嘿Siri播放Jason Mraz的歌,Jason Mraz,,,Jason Mraz,156987,True,True,True
+308915,嘿Siri播放金莎的歌,金莎,,,金莎,947681014,True,True,True
+309855,嘿Siri播放SUNMI的歌,SUNMI,,,SUNMI,693899983,True,True,True
+310056,嘿Siri播放洪榮宏的歌,洪榮宏,,,洪榮宏,417429273,True,True,True
+308511,嘿Siri播放白日夢的歌,白日夢,,,白日夢,706751118,True,False,False
+309955,嘿Siri播放Aloe Blacc的歌,Aloe Blacc,,,Aloe Blacc,4750752,True,True,True
+309239,嘿Siri播放Spice Girls的歌,Spice Girls,,,Spice Girls,646793,True,True,True
+310202,嘿Siri播放Pia Mia的歌,Pia Mia,,,Pia Mia,483071062,True,True,True
+309758,嘿Siri播放孟庭葦的歌,孟庭葦,,,孟庭葦,368987121,True,True,True
+309810,嘿Siri播放Electric Light Orchestra的歌,Electric Light Orchestra,,,Electric Light Orchestra,471528,True,True,True
+309469,嘿Siri播放Frances的歌,Frances,,,Frances,205579599,True,True,True
+309070,嘿Siri播放鄧麗君的歌,鄧麗君,,,鄧麗君,156423736,True,True,True
+308450,嘿Siri播放張杰的歌,張杰,,,張杰,368669716,True,True,True
+308677,嘿Siri播放Lost Kings的歌,Lost Kings,,,Lost Kings,972752212,True,True,True
+308557,嘿Siri播放街頭霸王的歌,街頭霸王,,,Gorillaz,567072,True,True,True
+309894,嘿Siri播放陳慧嫻的歌,陳慧嫻,,,陳慧嫻,42059214,True,True,True
+310263,嘿Siri播放Against The Current的歌,Against The Current,,,Against The Current,545086911,True,True,True
+309472,嘿Siri播放Tez Cadey的歌,Tez Cadey,,,Tez Cadey,416619641,True,True,True
+308644,嘿Siri播放Pay money To my Pain的歌,Pay money To my Pain,,,Pay money To my Pain,263571696,True,True,True
+308550,嘿Siri播放古巨基的歌,古巨基,,,古巨基,19346598,True,True,True
+309273,嘿Siri播放JJ Project的歌,JJ Project,,,JJ Project,289868735,True,True,True
+309132,嘿Siri播放TWICE的歌,TWICE,,,TWICE,1203816887,True,True,True
+308589,嘿Siri播放南拳媽媽的歌,南拳媽媽,,,南拳媽媽,781379524,True,True,True
+309485,嘿Siri播放霍洛維茲的歌,霍洛維茲,,,霍洛維茲,218918,True,True,True
+309439,嘿Siri播放Paloma Faith的歌,Paloma Faith,,,Paloma Faith,298591627,True,True,True
+308584,嘿Siri播放Yo La Tengo的歌,Yo La Tengo,,,Yo La Tengo,2959228,True,True,True
+308536,嘿Siri播放宇多田光的歌,宇多田光,,,宇多田光,18756224,True,True,True
+308904,嘿Siri播放Tuxedo的歌,Tuxedo,,,Tuxedo,955993538,True,True,True
+309009,嘿Siri播放Tyga的歌,Tyga,,,Tyga,268893121,True,True,True
+310278,嘿Siri播放王俊琪的歌,王俊琪,,,王俊琪,1291274286,True,True,True
+309977,嘿Siri播放雷恩·葛斯林的歌,雷恩·葛斯林,,,雷恩·葛斯林,279372425,True,True,True
+309746,嘿Siri播放蕭亞軒的歌,蕭亞軒,,,蕭亞軒,14892084,True,True,True
+309038,嘿Siri播放Air的歌,Air,,,Air,5641488,True,True,True
+310287,嘿Siri播放盧巧音的歌,盧巧音,,,盧巧音,41755786,True,True,True
+309436,嘿Siri播放佛利伍麥克的歌,佛利伍麥克,,,Fleetwood Mac,158038,True,True,True
+309862,嘿Siri播放Keala Settle的歌,Keala Settle,,,Keala Settle,268060762,True,True,True
+309541,嘿Siri播放Eric Nam的歌,Eric Nam,,,Eric Nam,595893565,True,True,True
+308874,嘿Siri播放Nas的歌,Nas,,,Nas,35307,True,True,True
+309373,嘿Siri播放脫拉庫的歌,脫拉庫,,,脫拉庫,316588311,True,True,True
+308427,嘿Siri播放陳零九的歌,陳零九,,,陳零九,689945280,True,True,True
+308748,嘿Siri播放Erika的歌,Erika,,,Erika,1112617918,True,True,True
+309673,嘿Siri播放Sigma的歌,Sigma,,,Sigma,466744579,True,True,True
+310155,嘿Siri播放KARD的歌,KARD,,,KARD,1215832588,True,True,True
+308566,嘿Siri播放Phil Collins的歌,Phil Collins,,,Phil Collins,153718,True,True,True
+308504,嘿Siri播放BuskerBusker的歌,BuskerBusker,,,BuskerBusker,514808441,True,True,True
+309350,嘿Siri播放Scorpions的歌,Scorpions,,,Scorpions,602212,True,True,True
+309956,嘿Siri播放LUNA SEA的歌,LUNA SEA,,,LUNA SEA,76035150,True,True,True
+308640,嘿Siri播放Lulu黃路梓茵的歌,Lulu黃路梓茵,,,Lulu黃路梓茵,1096442643,True,True,True
+308458,嘿Siri播放防彈少年團的歌,防彈少年團,,,防彈少年團,883131348,True,True,True
+309819,嘿Siri播放John Williams的歌,John Williams,,,John Williams,63748,True,True,True
+309556,嘿Siri播放Matt Johnson的歌,Matt Johnson,,,Matt Johnson,920112701,True,True,True
+308983,嘿Siri播放翁立友的歌,翁立友,,,翁立友,976085673,True,True,True
+310175,嘿Siri播放Tory Lanez的歌,Tory Lanez,,,Tory Lanez,440458549,True,True,True
+309836,嘿Siri播放Kaskade的歌,Kaskade,,,Kaskade,2827464,True,True,True
+309000,嘿Siri播放EXO的歌,EXO,,,EXO,657630070,True,True,True
+308740,嘿Siri播放Amy Winehouse的歌,Amy Winehouse,,,Amy Winehouse,13125609,True,True,True
+309892,嘿Siri播放Empire of the Sun的歌,Empire of the Sun,,,Empire of the Sun,284433289,True,True,True
+308823,嘿Siri播放西村由紀江的歌,西村由紀江,,,西村由紀江,136051420,True,True,True
+310310,嘿Siri播放曼蒂魔兒的歌,曼蒂魔兒,,,曼蒂魔兒,464984,True,True,True
+309162,嘿Siri播放安德魯·勞埃德·韋伯的歌,安德魯·勞埃德·韋伯,,,安德魯·勞埃德·韋伯,16407,True,True,True
+308631,嘿Siri播放金在中的歌,金在中,,,金在中,291573698,True,True,True
+309403,嘿Siri播放Olly Murs的歌,Olly Murs,,,Olly Murs,382815022,True,True,True
+309442,嘿Siri播放草蜢的歌,草蜢,,,草蜢,41754538,True,True,True
+309603,嘿Siri播放The Chainsmokers的歌,The Chainsmokers,,,The Chainsmokers,580391756,True,True,True
+308366,嘿Siri播放INDIIA的歌,INDIIA,,,INDIIA,1235471759,True,True,True
+308451,嘿Siri播放東方神起的歌,東方神起,,,東方神起,540125745,True,True,True
+308894,嘿Siri播放張艾嘉的歌,張艾嘉,,,張艾嘉,153331036,True,True,True
+309311,嘿Siri播放Bruno Mars的歌,Bruno Mars,,,Bruno Mars,278873078,True,True,True
+309402,嘿Siri播放Passion Pit的歌,Passion Pit,,,Passion Pit,288340229,True,True,True
+308651,嘿Siri播放張蓉蓉的歌,張蓉蓉,,,張蓉蓉,976090106,True,True,True
+309479,嘿Siri播放Dagny的歌,Dagny,,,Dagny,465319798,True,True,True
+309510,嘿Siri播放Don McLean的歌,Don McLean,,,Don McLean,733872,True,True,True
+308803,嘿Siri播放玉置浩二的歌,玉置浩二,,,玉置浩二,220147092,True,True,True
+309624,嘿Siri播放G.Soul的歌,G.Soul,,,G.Soul,959595948,True,True,True
+308637,嘿Siri播放Iron Maiden的歌,Iron Maiden,,,Iron Maiden,546381,True,True,True
+309546,嘿Siri播放Pentatonix的歌,Pentatonix,,,Pentatonix,466047278,True,True,True
+309377,嘿Siri播放小関佳宏的歌,小関佳宏,,,小関佳宏,591703251,True,True,True
+309962,嘿Siri播放中孝介的歌,中孝介,,,中孝介,569968881,True,True,True
+310303,嘿Siri播放夏天的歌,夏天,,,夏天,829446520,True,True,True
+306622,嘿Siri播放CL的歌,CL,,,CL,655853528,True,True,True
+309731,嘿Siri播放奇蹟女孩的歌,奇蹟女孩,,,奇蹟女孩,289029151,True,True,True
+309782,嘿Siri播放Paul McCartney的歌,Paul McCartney,,,Paul McCartney,12224,True,True,True
+309240,嘿Siri播放miwa的歌,miwa,,,miwa,410547012,True,True,True
+309421,嘿Siri播放鄭承煥的歌,鄭承煥,,,鄭承煥,949319364,True,True,True
+308342,嘿Siri播放柳昇佑的歌,柳昇佑,,,柳昇佑,693051617,True,True,True
+310204,嘿Siri播放 山形瑞秋 的歌,Rachael Yamagata,,,Rachael Yamagata,2426748,True,True,True
+309533,嘿Siri播放WEDNESDAY CAMPANELLA的歌,WEDNESDAY CAMPANELLA,,,WEDNESDAY CAMPANELLA,658145772,True,True,True
+310162,嘿Siri播放P!nk的歌,P!nk,,,P!nk,4488522,True,True,True
+308539,嘿Siri播放費玉清的歌,費玉清,,,費玉清,369206337,True,True,True
+308518,嘿Siri播放畢書盡的歌,畢書盡,,,畢書盡,449081841,True,True,True
+310170,嘿Siri播放李雲迪的歌,李雲迪,,,李雲迪,4698973,True,True,True
+309075,嘿Siri播放蘇慧倫的歌,蘇慧倫,,,蘇慧倫,152149547,True,True,True
+309703,嘿Siri播放華晨宇的歌,華晨宇,,,華晨宇,919255386,True,True,True
+309406,嘿Siri播放Future的歌,Future,,,Future,128050210,True,True,True
+309829,嘿Siri播放容祖兒的歌,容祖兒,,,容祖兒,370528896,True,True,True
+308860,嘿Siri播放少女時代的歌,少女時代,,,少女時代,357463500,True,True,True
+310271,嘿Siri播放Travis的歌,Travis,,,Travis,475835,True,True,True
+309561,嘿Siri播放BEN的歌,BEN,,,BEN,762062873,True,True,True
+308482,嘿Siri播放汪蘇瀧的歌,汪蘇瀧,,,汪蘇瀧,657686835,True,True,True
+309481,嘿Siri播放Adam Lambert的歌,Adam Lambert,,,Adam Lambert,305371030,True,True,True
+309174,嘿Siri播放Camila Cabello的歌,Camila Cabello,,,Camila Cabello,935727853,True,True,True
+308347,嘿Siri播放黃慧音的歌,黃慧音,,,黃慧音,760157805,True,True,True
+308530,嘿Siri播放MAX的歌,MAX,,,MAX,838142640,True,False,False
+309069,嘿Siri播放G-Eazy的歌,G-Eazy,,,G-Eazy,275649746,True,True,True
+308667,嘿Siri播放My First Music的歌,My First Music,,,My First Music,663779570,True,True,True
+309320,嘿Siri播放湯瑪斯·紐曼的歌,湯瑪斯·紐曼,,,湯瑪斯·紐曼,62931406,True,True,True
+310107,嘿Siri播放郭頂的歌,郭頂,,,郭頂,354859382,True,True,True
+308559,嘿Siri播放最好的時光三重奏的歌,最好的時光三重奏,,,最好的時光三重奏,747611187,True,False,False
+308665,嘿Siri播放LeAnn Rimes的歌,LeAnn Rimes,,,LeAnn Rimes,521500,True,True,True
+309809,嘿Siri播放傑米道南的歌,傑米道南,,,傑米·道南,79791598,True,True,True
+308454,嘿Siri播放Billie Holiday的歌,Billie Holiday,,,Billie Holiday,37299,True,True,True
+309960,嘿Siri播放井柏然的歌,井柏然,,,井柏然,804586346,True,True,True
+308882,嘿Siri播放金泰亨的歌,金泰亨,,,金泰亨,1191852113,True,True,True
+309200,嘿Siri播放Moby的歌,Moby,,,Moby,789023,True,True,True
+308570,嘿Siri播放螢火蟲的歌,螢火蟲,,,螢火蟲,623782296,True,True,True
+308927,嘿Siri播放柏林愛樂樂團的歌,柏林愛樂樂團,,,柏林愛樂樂團,579853,True,True,True
+308473,嘿Siri播放洪佩瑜的歌,洪佩瑜,,,洪佩瑜,437273420,True,True,True
+308413,嘿Siri播放蕭閎仁的歌,蕭閎仁,,,蕭閎仁,329009207,True,True,True
+309155,嘿Siri播放Charli XCX的歌,Charli XCX,,,Charli XCX,432942256,True,True,True
+308398,嘿Siri播放Sam Feldt的歌,Sam Feldt,,,Sam Feldt,890558420,True,True,True
+308502,嘿Siri播放Marilyn Manson的歌,Marilyn Manson,,,Marilyn Manson,251375,True,True,True
+309562,嘿Siri播放雷蒙拉普的歌,雷蒙拉普,,,Raimond Lap,202209790,True,False,False
+309608,嘿Siri播放李榮浩的歌,李榮浩,,,李榮浩,307674970,True,True,True
+309279,嘿Siri播放傅又宣的歌,傅又宣,,,傅又宣,929519488,True,True,True
+309769,嘿Siri播放Blue的歌,Blue,,,Blue,6750434,True,True,True
+308878,嘿Siri播放鄭中基的歌,鄭中基,,,鄭中基,105171075,True,True,True
+308340,嘿Siri播放Erykah Badu的歌,Erykah Badu,,,Erykah Badu,54556,True,True,True
+309814,嘿Siri播放Queen的歌,Queen,,,Queen,3296287,True,True,True
+309522,嘿Siri播放陳盈潔的歌,陳盈潔,,,陳盈潔,389287222,True,True,True
+310264,嘿Siri播放張靚穎的歌,張靚穎,,,張靚穎,276363061,True,True,True
+309583,嘿Siri播放申彗星的歌,申彗星,,,申彗星,394441592,True,True,True
+309751,嘿Siri播放Bastille的歌,Bastille,,,Bastille,420203509,True,True,True
+310194,嘿Siri播放Bring Me the Horizon的歌,Bring Me the Horizon,,,Bring Me the Horizon,121043936,True,False,False
+309596,嘿Siri播放Higher Brothers的歌,Higher Brothers,,,Higher Brothers,1149096753,True,True,True
+309082,嘿Siri播放AC/DC的歌,AC/DC,,,AC/DC,5040714,True,True,True
+309358,嘿Siri播放Missy Elliott的歌,Missy Elliott,,,Missy Elliott,162802,True,True,True
+309695,嘿Siri播放朱俐靜的歌,朱俐靜,,,朱俐靜,597756650,True,True,True
+308337,嘿Siri播放橋本芽生的歌,橋本芽生,,,May J.,299091012,True,True,True
+310164,嘿Siri播放Ellie Goulding的歌,Ellie Goulding,,,Ellie Goulding,338264227,True,True,True
+308913,嘿Siri播放許仁杰的歌,許仁杰,,,许仁杰,1304833586,True,False,False
+309233,嘿Siri播放JP Cooper的歌,JP Cooper,,,JP Cooper,576710545,True,True,True
+309918,嘿Siri播放Brian McKnight的歌,Brian McKnight,,,Brian McKnight,87447,True,True,True
+310084,嘿Siri播放李聖傑的歌,李聖傑,,,李聖傑,735931601,True,True,True
+309068,嘿Siri播放John Legend的歌,John Legend,,,John Legend,16586443,True,True,True
+309907,嘿Siri播放Avicii的歌,Avicii,,,Avicii,298496035,True,True,True
+310240,嘿Siri播放音樂戀曲的歌,音樂戀曲,,,音樂戀曲,1208078695,True,True,True
+309511,嘿Siri播放Muse的歌,Muse,,,Muse,1093360,True,True,True
+308732,嘿Siri播放蘇永康的歌,蘇永康,,,蘇永康,465258615,True,True,True
+309593,嘿Siri播放WALK THE MOON的歌,WALK THE MOON,,,WALK THE MOON,451783136,True,True,True
+309025,嘿Siri播放史嘉蕾.喬韓森的歌,史嘉蕾.喬韓森,,,史嘉蕾.喬韓森,2082973,True,True,True
+309360,嘿Siri播放SPYAIR的歌,SPYAIR,,,SPYAIR,308131412,True,True,True
+309877,嘿Siri播放生物股長的歌,生物股長,,,生物股長,550412714,True,True,True
+310103,嘿Siri播放王傑的歌,王傑,,,王傑,368672310,True,True,True
+308541,嘿Siri播放Epik High的歌,Epik High,,,Epik High,139334133,True,True,True
+309727,嘿Siri播放Paramore的歌,Paramore,,,Paramore,75950796,True,True,True
+309459,嘿Siri播放六哲的歌,六哲,,,六哲,478821276,True,True,True
+309338,嘿Siri播放MGMT的歌,MGMT,,,MGMT,251553551,True,True,True
+308683,嘿Siri播放蔡小虎的歌,蔡小虎,,,蔡小虎,976095178,True,True,True
+310270,嘿Siri播放Opetaia Foa'i的歌,Opetaia Foa'i,,,Opetaia Foa'i,404790441,True,True,True
+310080,嘿Siri播放金誌文的歌,金誌文,,,金誌文,638034749,True,True,True
+308754,嘿Siri播放范安婷的歌,范安婷,,,范安婷,899456257,True,True,True
+310116,嘿Siri播放Walk Off the Earth的歌,Walk Off the Earth,,,Walk Off the Earth,271356617,True,True,True
+308686,嘿Siri播放ScHoolboy Q的歌,ScHoolboy Q,,,ScHoolboy Q,333097675,True,True,True
+309458,嘿Siri播放鄧紫棋的歌,鄧紫棋,,,鄧紫棋,425208570,True,True,True
+309456,嘿Siri播放五月天的歌,五月天,,,五月天,369211611,True,True,True
+308588,嘿Siri播放Brian Crain的歌,Brian Crain,,,Brian Crain,29498138,True,False,False
+309321,嘿Siri播放Dragon Pig的歌,Dragon Pig,,,Dragon Pig,1164794832,True,True,True
+308512,嘿Siri播放Tom Walker的歌,Tom Walker,,,Tom Walker,1199669456,True,True,True
+308612,嘿Siri播放Chicago的歌,Chicago,,,Chicago,197043,True,True,True
+309241,嘿Siri播放Mary J. Blige的歌,Mary J. Blige,,,Mary J. Blige,1392280,True,True,True
+309745,嘿Siri播放Super Junior的歌,Super Junior,,,Super Junior,284066214,True,True,True
+308746,嘿Siri播放Snoop Dogg的歌,Snoop Dogg,,,Snoop Dogg,21769,True,True,True
+308490,嘿Siri播放許閣的歌,許閣,,,許閣,405397926,True,True,True
+309140,嘿Siri播放林宥嘉的歌,林宥嘉,,,林宥嘉,436847316,True,True,True
+310239,嘿Siri播放Super Junior-M的歌,Super Junior-M,,,Super Junior-M,456018572,True,True,True
+308773,嘿Siri播放Zacari的歌,Zacari,,,Zacari,1027112445,True,True,True
+310131,嘿Siri播放Louisa Johnson的歌,Louisa Johnson,,,Louisa Johnson,1049961077,True,True,True
+309265,嘿Siri播放大塚愛的歌,大塚愛,,,大塚愛,74076479,True,True,True
+309847,嘿Siri播放武部聡志的歌,武部聡志,,,武部聡志,75247938,True,True,True
+309973,嘿Siri播放Jason Derulo的歌,Jason Derulo,,,Jason Derulo,259118085,True,True,True
+309734,嘿Siri播放Pinkfong的歌,Pinkfong,,,Pinkfong,1264976426,True,True,True
+310222,嘿Siri播放陳嘉樺的歌,陳嘉樺,,,陳嘉樺,543792083,True,False,True
+309767,嘿Siri播放郎朗的歌,郎朗,,,郎朗,5519614,True,True,True
+308336,嘿Siri播放John Coltrane的歌,John Coltrane,,,John Coltrane,120199,True,True,True
+308648,嘿Siri播放張秀卿的歌,張秀卿,,,張秀卿,718073088,True,True,True
+309820,嘿Siri播放水樹奈奈的歌,水樹奈奈,,,水樹奈奈,308629932,True,True,True
+308387,嘿Siri播放Martin Jensen的歌,Martin Jensen,,,Martin Jensen,1299158899,True,True,True
+309929,嘿Siri播放Benny Benassi的歌,Benny Benassi,,,Benny Benassi,15654100,True,True,True
+309001,嘿Siri播放The Spencer Lee Band的歌,The Spencer Lee Band,,,The Spencer Lee Band,1331138630,True,True,True
+308800,嘿Siri播放Cher的歌,Cher,,,Cher,106158,True,True,True
+309889,嘿Siri播放家家的歌,家家,,,家家,295060477,True,True,True
+310152,嘿Siri播放Afrojack的歌,Afrojack,,,Afrojack,211210469,True,True,True
+308666,嘿Siri播放群星的歌,群星,,,群星,618703099,True,True,True
+308633,嘿Siri播放Dear Jane的歌,Dear Jane,,,Dear Jane,381979903,True,True,True
+308980,嘿Siri播放Soyou的歌,Soyou,,,Soyou,583243072,True,True,True
+309355,嘿Siri播放喬幼的歌,喬幼,,,喬幼,976095027,True,True,True
+309314,嘿Siri播放頑童MJ116的歌,頑童MJ116,,,頑童MJ116,891265611,True,True,True
+308993,嘿Siri播放蘇打綠的歌,蘇打綠,,,蘇打綠,345954909,True,True,True
+309071,嘿Siri播放2Pac的歌,2Pac,,,2Pac,105998,True,True,True
+310200,嘿Siri播放DPR LIVE的歌,DPR LIVE,,,DPR LIVE,1216702838,True,True,True
+309475,嘿Siri播放高進的歌,高進,,,高進,1211140471,True,True,True
+310086,嘿Siri播放李佳薇的歌,李佳薇,,,李佳薇,211566950,True,True,True
+310102,嘿Siri播放王若琳的歌,王若琳,,,王若琳,280809078,True,True,True
+310272,嘿Siri播放欅坂46的歌,欅坂46,,,欅坂46,1096512501,True,True,True
+309551,嘿Siri播放Grace Carter的歌,Grace Carter,,,Grace Carter,568479002,True,True,True
+308859,嘿Siri播放張學友的歌,張學友,,,張學友,256718696,True,True,True
+308840,嘿Siri播放里歐娜的歌,里歐娜,,,里歐娜,208651273,True,True,True
+308932,嘿Siri播放維也納愛樂樂團的歌,維也納愛樂樂團,,,維也納愛樂樂團,2355964,True,True,True
+308654,嘿Siri播放Enigma的歌,Enigma,,,Enigma,3218461,True,True,True
+309902,嘿Siri播放M.C THE MAX的歌,M.C THE MAX,,,M.C THE MAX,45552401,True,True,True
+308456,嘿Siri播放Kygo的歌,Kygo,,,Kygo,635806094,True,True,True
+308457,嘿Siri播放周湯豪的歌,周湯豪,,,周湯豪,525201744,True,True,True
+309295,嘿Siri播放GFriend的歌,GFriend,,,GFriend,958416186,True,True,True
+309612,嘿Siri播放校長的歌,校長,,,校長,1273286579,True,True,True
+308359,嘿Siri播放Basick的歌,Basick,,,Basick,965070633,True,True,True
+309088,嘿Siri播放陳珊妮的歌,陳珊妮,,,陳珊妮,626023634,True,True,True
+308855,嘿Siri播放楊凱琳的歌,楊凱琳,,,楊凱琳,1032453659,True,True,True
+308961,嘿Siri播放成始璄的歌,成始璄,,,成始璄,48218076,True,True,True
+308464,嘿Siri播放Pianobar的歌,Pianobar,,,Pianobar,517118886,True,True,True
+308595,嘿Siri播放One Direction的歌,One Direction,,,One Direction,396754057,True,True,True
+309643,嘿Siri播放Sean Paul的歌,Sean Paul,,,Sean Paul,155138,True,True,True
+308406,嘿Siri播放Norah Jones的歌,Norah Jones,,,Norah Jones,1001750,True,True,True
+310074,嘿Siri播放張懸的歌,張懸,,,張懸,300117902,True,True,True
+309461,嘿Siri播放陳建年的歌,陳建年,,,陳建年,706718347,True,True,True
+308895,嘿Siri播放黃品源的歌,黃品源,,,黃品源,152329909,True,True,True
+310098,嘿Siri播放李閏珉的歌,李閏珉,,,李閏珉,73406786,True,False,False
+309133,嘿Siri播放A-Lin的歌,A-Lin,,,A-Lin,370412270,True,True,True
+309050,嘿Siri播放SEJEONG的歌,SEJEONG,,,SEJEONG,1178907631,True,True,True
+309653,嘿Siri播放alt-J的歌,alt-J,,,alt-J,494311026,True,True,True
+309040,嘿Siri播放炎亞綸的歌,炎亞綸,,,炎亞綸,453231586,True,True,True
+310021,嘿Siri播放Connie Talbot的歌,Connie Talbot,,,Connie Talbot,267722360,True,True,True
+310301,嘿Siri播放PARTYNEXTDOOR的歌,PARTYNEXTDOOR,,,PARTYNEXTDOOR,666648192,True,True,True
+310136,嘿Siri播放LINKIN PARK的歌,LINKIN PARK,,,LINKIN PARK,148662,True,True,True
+309828,嘿Siri播放神話的歌,神話,,,神話,398937836,True,True,True
+309762,嘿Siri播放MP魔幻力量的歌,MP魔幻力量,,,MP魔幻力量,368191060,True,True,True
+308440,嘿Siri播放王力宏的歌,王力宏,,,王力宏,117741179,True,True,True
+309641,嘿Siri播放乃木坂46的歌,乃木坂46,,,乃木坂46,571990937,True,True,True
+309765,嘿Siri播放Deorro的歌,Deorro,,,Deorro,539290576,True,True,True
+309648,嘿Siri播放Natalie La Rose的歌,Natalie La Rose,,,Natalie La Rose,950803910,True,True,True
+308442,嘿Siri播放Shawn Mendes的歌,Shawn Mendes,,,Shawn Mendes,890403665,True,True,True
+308741,嘿Siri播放B1A4的歌,B1A4,,,B1A4,433573050,True,True,True
+309148,嘿Siri播放東京事變的歌,東京事變,,,東京事變,74570585,True,True,True
+308843,嘿Siri播放金鐘鉉的歌,金鐘鉉,,,金鐘鉉,642677724,True,True,True
+309160,嘿Siri播放伍思凱的歌,伍思凱,,,伍思凱,368660219,True,True,True
+308979,嘿Siri播放Eagles的歌,Eagles,,,Eagles,1053549,True,True,True
+309139,嘿Siri播放岑寧兒的歌,岑寧兒,,,岑寧兒,557762016,True,True,True
+309984,嘿Siri播放國蛋的歌,國蛋,,,國蛋,929947296,True,True,True
+309186,嘿Siri播放Pet Shop Boys的歌,Pet Shop Boys,,,Pet Shop Boys,488020,True,True,True
+308759,嘿Siri播放艾瑪·史東的歌,艾瑪·史東,,,艾瑪·史東,289291936,True,True,True
+308925,嘿Siri播放KIDS BOSSA的歌,KIDS BOSSA,,,KIDS BOSSA,447852644,True,True,True
+310075,嘿Siri播放周慧敏的歌,周慧敏,,,周慧敏,41642374,True,True,True
+309077,嘿Siri播放馬頔的歌,馬頔,,,馬頔,272803892,True,False,False
+309839,嘿Siri播放Simple Plan的歌,Simple Plan,,,Simple Plan,150861,True,True,True
+310212,嘿Siri播放艾瑪·華森的歌,艾瑪·華森,,,艾瑪·華森,271500732,True,True,True
+310207,嘿Siri播放Pulp的歌,Pulp,,,Pulp,312518,True,True,True
+309196,嘿Siri播放Swedish House Mafia的歌,Swedish House Mafia,,,Swedish House Mafia,375569761,True,True,True
+308953,嘿Siri播放嬰兒 睡覺的歌,嬰兒 睡覺,,,嬰兒 睡覺,1209498091,True,True,True
+310008,嘿Siri播放Migos的歌,Migos,,,Migos,569925101,True,True,True
+309581,嘿Siri播放鳳飛飛的歌,鳳飛飛,,,鳳飛飛,388054723,True,True,True
+309125,嘿Siri播放Colbie Caillat的歌,Colbie Caillat,,,Colbie Caillat,251316699,True,True,True
+308400,嘿Siri播放EGOIST的歌,EGOIST,,,EGOIST,320345584,True,True,True
+308632,嘿Siri播放Aquilo的歌,Aquilo,,,Aquilo,517174787,True,True,True
+309112,嘿Siri播放林宇中的歌,林宇中,,,林宇中,890324308,True,True,True
+310082,嘿Siri播放林生祥的歌,林生祥,,,林生祥,651387655,True,True,True
+309301,嘿Siri播放那我懂你意思了的歌,那我懂你意思了,,,那我懂你意思了,798583449,True,True,True
+308545,嘿Siri播放Demi Lovato的歌,Demi Lovato,,,Demi Lovato,280215821,True,True,True
+310126,嘿Siri播放大嘴巴的歌,大嘴巴,,,大嘴巴,432062816,True,True,True
+309543,嘿Siri播放Bee Gees的歌,Bee Gees,,,Bee Gees,31937250,True,True,True
+309802,嘿Siri播放嚴爵的歌,嚴爵,,,嚴爵,436593986,True,True,True
+309347,嘿Siri播放Miliyah的歌,Miliyah,,,Miliyah,189953960,True,True,True
+308571,嘿Siri播放Ludovico Einaudi的歌,Ludovico Einaudi,,,Ludovico Einaudi,7420827,True,True,True
+309974,嘿Siri播放寶兒的歌,寶兒,,,寶兒,74066466,True,True,True
+308380,嘿Siri播放張韶涵的歌,張韶涵,,,張韶涵,535400872,True,True,True
+308977,嘿Siri播放Music for Baby的歌,Music for Baby,,,Music for Baby,396864566,True,True,True
+309064,嘿Siri播放Marty的歌,Marty,,,Marty,135378432,True,True,True
+308552,嘿Siri播放KARA的歌,KARA,,,KARA,385160775,True,True,True
+308898,嘿Siri播放黃子韜的歌,黃子韜,,,黃子韜,1062223485,True,True,True
+310006,嘿Siri播放Loco的歌,Loco,,,Loco,543659246,True,True,True
+309477,嘿Siri播放林京燁的歌,林京燁,,,林京燁,1015494968,True,True,True
+309412,嘿Siri播放San E的歌,San E,,,San E,332945313,True,True,True
+309490,嘿Siri播放Martin Jensen的歌,Martin Jensen,,,Martin Jensen,1082367423,True,True,True
+308806,嘿Siri播放格倫·顧爾德的歌,格倫·顧爾德,,,格倫·顧爾德,804479,True,True,True
+310193,嘿Siri播放Jennifer Hudson的歌,Jennifer Hudson,,,Jennifer Hudson,72909049,True,True,True
+309480,嘿Siri播放Sade的歌,Sade,,,Sade,475591,True,True,True
+309675,嘿Siri播放邱鋒澤的歌,邱鋒澤,,,邱鋒澤,867618465,True,True,True
+308975,嘿Siri播放Noble Band的歌,Noble Band,,,Noble Band,1178874868,True,True,True
+310055,嘿Siri播放Jasmine Thompson的歌,Jasmine Thompson,,,Jasmine Thompson,681218267,True,True,True
+308873,嘿Siri播放以莉·高露的歌,以莉·高露,,,以莉·高露,611033269,True,True,True
+308696,嘿Siri播放楊宗緯的歌,楊宗緯,,,楊宗緯,466427122,True,True,True
+308847,嘿Siri播放MAMAMOO的歌,MAMAMOO,,,MAMAMOO,818951094,True,True,True
+309629,嘿Siri播放董貞的歌,董貞,,,董貞,408335629,True,True,True
+308375,嘿Siri播放Lorde的歌,Lorde,,,Lorde,602767352,True,True,True
+308790,嘿Siri播放Matt Terry的歌,Matt Terry,,,Matt Terry,1185693000,True,True,True
+309684,嘿Siri播放橘子新樂團的歌,橘子新樂團,,,橘子新樂團,73789696,True,True,True
+308964,嘿Siri播放Carly Rae Jepsen的歌,Carly Rae Jepsen,,,Carly Rae Jepsen,284363062,True,True,True
+309995,嘿Siri播放鄭怡的歌,鄭怡,,,鄭怡,376789398,True,True,True
+309584,嘿Siri播放張棟樑的歌,張棟樑,,,張棟樑,206759976,True,True,True
+308437,嘿Siri播放王菲的歌,王菲,,,王菲,41760704,True,True,True
+308423,嘿Siri播放Kehlani的歌,Kehlani,,,Kehlani,690126399,True,True,True
+309226,嘿Siri播放筷子兄弟的歌,筷子兄弟,,,筷子兄弟,944194268,True,True,True
+309310,嘿Siri播放盧廣仲的歌,盧廣仲,,,盧廣仲,477669285,True,True,True
+310267,嘿Siri播放Academy of St. Martin in the Fields的歌,Academy of St. Martin in the Fields,,,Academy of St. Martin in the Fields,6783956,True,True,True
+308447,嘿Siri播放Emeli Sandé的歌,Emeli Sandé,,,Emeli Sandé,324008615,True,True,True
+309102,嘿Siri播放柯達線樂團的歌,柯達線樂團,,,Kodaline,553502464,True,False,False
+309307,嘿Siri播放羅大佑的歌,羅大佑,,,羅大佑,151602760,True,True,True
+309707,嘿Siri播放LMFAO的歌,LMFAO,,,LMFAO,284482668,True,True,True
+308998,嘿Siri播放楊丞琳的歌,楊丞琳,,,楊丞琳,299846702,True,True,True
+310048,嘿Siri播放吳若希的歌,吳若希,,,吳若希,638280234,True,True,True
+309034,嘿Siri播放Kenny Rogers的歌,Kenny Rogers,,,Kenny Rogers,200498,True,True,True
+308519,嘿Siri播放范瑋琪的歌,范瑋琪,,,范瑋琪,287299102,True,False,False
+309824,嘿Siri播放J Balvin的歌,J Balvin,,,J Balvin,444520760,True,True,True
+309934,嘿Siri播放陳芳語的歌,陳芳語,,,陳芳語,1314920818,True,False,False
+308579,嘿Siri播放茄子蛋的歌,茄子蛋,,,茄子蛋,1304873109,True,True,True
+309201,嘿Siri播放黃玠瑋的歌,黃玠瑋,,,黃玠瑋,820820884,True,True,True
+309766,嘿Siri播放鄭俊英的歌,鄭俊英,,,鄭俊英,570547016,True,True,True
+308918,嘿Siri播放Lauryn Hill的歌,Lauryn Hill,,,Lauryn Hill,21434,True,True,True
+308689,嘿Siri播放毛不易的歌,毛不易,,,毛不易,1280926060,True,True,True
+308320,嘿Siri播放Andrea Bocelli的歌,Andrea Bocelli,,,Andrea Bocelli,217015,True,True,True
+308750,嘿Siri播放吳卓源的歌,吳卓源,,,吳卓源,1228623274,True,True,True
+308661,嘿Siri播放大支的歌,大支,,,大支,369613677,True,True,True
+310168,嘿Siri播放David Guetta的歌,David Guetta,,,David Guetta,5557599,True,True,True
+308420,嘿Siri播放Classical Lullabies的歌,Classical Lullabies,,,Classical Lullabies,362038854,True,True,True
+309229,嘿Siri播放Jamie Cullum的歌,Jamie Cullum,,,Jamie Cullum,6934831,True,True,True
+309250,嘿Siri播放A Pink的歌,A Pink,,,A Pink,482854746,True,True,True
+309222,嘿Siri播放關詩敏的歌,關詩敏,,,關詩敏,443168569,True,True,True
+309471,嘿Siri播放甜約翰 Sweet John的歌,甜約翰 Sweet John,,,甜約翰 Sweet John,1322196237,True,True,True
+309100,嘿Siri播放Planetshakers的歌,Planetshakers,,,Planetshakers,13545609,True,True,True
+309627,嘿Siri播放新寶島康樂隊的歌,新寶島康樂隊,,,新寶島康樂隊,369497007,True,True,True
+308733,嘿Siri播放阿達的歌,阿達,,,阿達,407647144,True,True,True
+309575,嘿Siri播放鄭宜農的歌,鄭宜農,,,鄭宜農,981821881,True,True,True
+308888,嘿Siri播放J.Fla的歌,J.Fla,,,J.Fla,503806375,True,True,True
+310262,嘿Siri播放B.A.P的歌,B.A.P,,,B.A.P,710183485,True,True,True
+308558,嘿Siri播放董事長樂團的歌,董事長樂團,,,董事長樂團,645452271,True,True,True
+309661,嘿Siri播放陶晶瑩的歌,陶晶瑩,,,陶晶瑩,202971460,True,True,True
+308354,嘿Siri播放安德烈瑞歐的歌,安德烈瑞歐,,,André Rieu,2617780,True,False,False
+308786,嘿Siri播放米希亞的歌,米希亞,,,米希亞,164283721,True,True,True
+309676,嘿Siri播放竇靖童的歌,竇靖童,,,竇靖童,1065407712,True,True,True
+309126,嘿Siri播放庾澄慶的歌,庾澄慶,,,庾澄慶,306466690,True,True,True
+308517,嘿Siri播放Tycho的歌,Tycho,,,Tycho,119111355,True,True,True
+310154,嘿Siri播放Jennifer Lopez的歌,Jennifer Lopez,,,Jennifer Lopez,463009,True,True,True
+310185,嘿Siri播放MC HotDog的歌,MC HotDog,,,MC HotDog,151611994,True,True,True
+308991,嘿Siri播放劉思涵的歌,劉思涵,,,劉思涵,704186572,True,True,True
+309925,嘿Siri播放輝晟的歌,輝晟,,,輝晟,306908099,True,True,True
+309182,嘿Siri播放倫納德·伯恩斯坦的歌,倫納德·伯恩斯坦,,,倫納德·伯恩斯坦,269390,True,True,True
+309166,嘿Siri播放無印良品的歌,無印良品,,,無印良品,401478326,True,True,True
+308373,嘿Siri播放宋冬野的歌,宋冬野,,,宋冬野,701344136,True,False,False
+310305,嘿Siri播放麗亞·莎隆加的歌,麗亞·莎隆加,,,麗亞·莎隆加,271962159,True,True,True
+309514,嘿Siri播放吳雨霏的歌,吳雨霏,,,吳雨霏,161779824,True,True,True
+309926,嘿Siri播放LCD Soundsystem的歌,LCD Soundsystem,,,LCD Soundsystem,29525428,True,True,True
+309283,嘿Siri播放超脫樂團的歌,超脫樂團,,,Nirvana,112018,True,False,True
+308622,嘿Siri播放王菀之的歌,王菀之,,,王菀之,137090893,True,True,True
+308987,嘿Siri播放Kanye West的歌,Kanye West,,,Kanye West,2715720,True,True,True
+308789,嘿Siri播放The Black Skirts的歌,The Black Skirts,,,The Black Skirts,365442996,True,True,True
+309006,嘿Siri播放Portugal. The Man的歌,Portugal. The Man,,,Portugal. The Man,167649475,True,False,False
+309409,嘿Siri播放La La Land Cast的歌,La La Land Cast,,,La La Land Cast,1175665426,True,True,True
+309537,嘿Siri播放黃靜雅的歌,黃靜雅,,,黃靜雅,636440597,True,True,True
+309346,嘿Siri播放Chad Lawson的歌,Chad Lawson,,,Chad Lawson,308691571,True,True,True
+309873,嘿Siri播放林憶蓮的歌,林憶蓮,,,林憶蓮,14862436,True,True,True
+308997,嘿Siri播放梁靜茹的歌,梁靜茹,,,梁靜茹,531134701,True,True,True
+308844,嘿Siri播放Lana Del Rey的歌,Lana Del Rey,,,Lana Del Rey,464296584,True,True,True
+309813,嘿Siri播放孫楠的歌,孫楠,,,孫楠,286581782,True,True,True
+309878,嘿Siri播放林志炫的歌,林志炫,,,林志炫,312655409,True,True,True
+310234,嘿Siri播放陳小春的歌,陳小春,,,陳小春,656087484,True,True,True
+309177,嘿Siri播放伍佰 and China Blue的歌,伍佰 and China Blue,,,伍佰 & China Blue,382356207,True,True,True
+308736,嘿Siri播放萬芳的歌,萬芳,,,萬芳,150215820,True,True,True
+309744,嘿Siri播放Bryan Adams的歌,Bryan Adams,,,Bryan Adams,85932,True,True,True
+308330,嘿Siri播放喜多郎的歌,喜多郎,,,喜多郎,2382005,True,True,True
+309305,嘿Siri播放Santana的歌,Santana,,,Santana,217174,True,True,True
+309816,嘿Siri播放刀郎的歌,刀郎,,,刀郎,713446908,True,True,True
+308985,嘿Siri播放趙傳的歌,趙傳,,,趙傳,176924657,True,True,True
+310286,嘿Siri播放斯坦蒂的歌,斯坦蒂,,,斯坦蒂,4310956,True,True,True
+308943,嘿Siri播放The Beatles的歌,The Beatles,,,The Beatles,136975,True,True,True
+310007,嘿Siri播放盧凱彤的歌,盧凱彤,,,盧凱彤,311247846,True,True,True
+308560,嘿Siri播放Hurts的歌,Hurts,,,Hurts,364607851,True,False,False
+309969,嘿Siri播放閻奕格的歌,閻奕格,,,閻奕格,1057149367,True,True,True
+309623,嘿Siri播放André Previn的歌,André Previn,,,André Previn,702496,True,True,True
+309048,嘿Siri播放Beach House的歌,Beach House,,,Beach House,200823564,True,True,True
+309363,嘿Siri播放New Empire的歌,New Empire,,,New Empire,289218930,True,True,True
+308345,嘿Siri播放Arcade Fire的歌,Arcade Fire,,,Arcade Fire,23203991,True,True,True
+309318,嘿Siri播放Richard Clayderman的歌,Richard Clayderman,,,Richard Clayderman,13595039,True,True,True
+309588,嘿Siri播放譚艷的歌,譚艷,,,譚艷,892623889,True,True,True
+309981,嘿Siri播放Nick Jonas的歌,Nick Jonas,,,Nick Jonas,286541773,True,True,True
+308656,嘿Siri播放Susan Boyle的歌,Susan Boyle,,,Susan Boyle,337320501,True,True,True
+308744,嘿Siri播放Lily Allen的歌,Lily Allen,,,Lily Allen,157063999,True,True,True
+310028,嘿Siri播放布萊恩·泰勒的歌,布萊恩·泰勒,,,布萊恩·泰勒,58712771,True,True,True
+309761,嘿Siri播放The Chemical Brothers的歌,The Chemical Brothers,,,The Chemical Brothers,3726283,True,True,True
+309710,嘿Siri播放蔡淳佳的歌,蔡淳佳,,,蔡淳佳,324948448,True,True,True
+309998,嘿Siri播放JC的歌,JC,,,JC,1121523349,True,True,True
+310133,嘿Siri播放Calvin Harris的歌,Calvin Harris,,,Calvin Harris,201955086,True,True,True
+309179,嘿Siri播放The Pretty Reckless的歌,The Pretty Reckless,,,The Pretty Reckless,363203347,True,True,True
+308580,嘿Siri播放夜貓組的歌,夜貓組,,,夜貓組 (Leo王+春艷),1110664599,True,True,True
+309572,嘿Siri播放熊仔的歌,熊仔,,,熊仔,794891218,True,True,True
+310030,嘿Siri播放MAC MILLER的歌,MAC MILLER,,,MAC MILLER,419944559,True,True,True
+309033,嘿Siri播放肖恩 沃德的歌,肖恩 沃德,,,Shayne Ward,109676067,True,True,True
+308761,嘿Siri播放Stacey Kent的歌,Stacey Kent,,,Stacey Kent,86991231,True,True,True
+308590,嘿Siri播放Steve Aoki的歌,Steve Aoki,,,Steve Aoki,271066694,True,True,True
+308615,嘿Siri播放Jeremih的歌,Jeremih,,,Jeremih,303296550,True,True,True
+309558,嘿Siri播放比比‧金的歌,比比‧金,,,比比‧金,75207,True,True,True
+308365,嘿Siri播放激膚的歌,激膚,,,激膚,1255831332,True,True,True
+308679,嘿Siri播放Jonas Blue的歌,Jonas Blue,,,Jonas Blue,405728790,True,True,True
+308471,嘿Siri播放詹姆斯·霍納的歌,詹姆斯·霍納,,,詹姆斯·霍納,266740,True,True,True
+308593,嘿Siri播放魏如萱的歌,魏如萱,,,魏如萱,426913195,True,True,True
+309304,嘿Siri播放魏如昀的歌,魏如昀,,,魏如昀,676118066,True,True,True
+308783,嘿Siri播放詹森淮的歌,詹森淮,,,詹森淮,1141811815,True,True,True
+308417,嘿Siri播放卓文萱的歌,卓文萱,,,卓文萱,163301373,True,True,True
+309083,嘿Siri播放5566的歌,5566,,,5566,255921846,True,True,True
+309656,嘿Siri播放Lindsey Stirling的歌,Lindsey Stirling,,,Lindsey Stirling,403025113,True,False,False
+309447,嘿Siri播放林慧萍的歌,林慧萍,,,林慧萍,357091770,True,True,True
+308668,嘿Siri播放The Killers的歌,The Killers,,,The Killers,6483093,True,True,True
+308515,嘿Siri播放寫手的歌,寫手,,,寫手,1140278706,True,True,True
+308817,嘿Siri播放James TW的歌,James TW,,,James TW,519427443,True,True,True
+309986,嘿Siri播放葉啟田的歌,葉啟田,,,葉啟田,1114531242,True,True,True
+308561,嘿Siri播放TLC的歌,TLC,,,TLC,17360,True,True,True
+309677,嘿Siri播放張玉華的歌,張玉華,,,張玉華,216589839,True,True,True
+309911,嘿Siri播放朱興東的歌,朱興東,,,朱興東,1244305592,True,True,True
+308617,嘿Siri播放好樂團的歌,好樂團,,,好樂團,1163014602,True,True,True
+308531,嘿Siri播放李翊君的歌,李翊君,,,李翊君,321431202,True,True,True
+309692,嘿Siri播放歡樂樂團的歌,歡樂樂團,,,Fun.,138226712,True,False,False
+308348,嘿Siri播放巨石強森的歌,巨石強森,,,巨石·強森,276690802,True,False,False
+308857,嘿Siri播放OH MY GIRL的歌,OH MY GIRL,,,OH MY GIRL,987326929,True,True,True
+309659,嘿Siri播放HELLOVENUS的歌,HELLOVENUS,,,HELLOVENUS,532065477,True,True,True
+308869,嘿Siri播放劉明湘的歌,劉明湘,,,劉明湘,1160651751,True,True,True
+309372,嘿Siri播放三代目J Soul Brothers的歌,三代目J Soul Brothers,,,J Soul Brothers III,633832735,True,False,False
+308562,嘿Siri播放程璧的歌,程璧,,,程璧,925600143,True,True,True
+308441,嘿Siri播放SEVENTEEN的歌,SEVENTEEN,,,SEVENTEEN,999644772,True,True,True

@@ -1,0 +1,10 @@
+*.pyc
+*.log
+*.json
+
+albums_*
+singers_*
+singer_song_pairs*
+songs_*
+
+/data_manual_clean

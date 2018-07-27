@@ -1,0 +1,710 @@
+test_id,ref_utterance,ref_utterance_artist,script,type,expected_name,expected_id,asr_pass,e2e_asr_pass,e2e_ref_pass
+309757,嘿Siri播放Tom Misch的歌,Tom Misch,,,Tom Misch,893237941,False,False,True
+310163,嘿Siri播放ZAYN的歌,ZAYN,,,ZAYN,973181994,False,False,True
+308544,嘿Siri播放The Wanted的歌,The Wanted,,,The Wanted,3445978,False,False,True
+310293,嘿Siri播放Ra.D的歌,Ra.D,,,Ra.D,384175364,False,False,True
+308931,嘿Siri播放XIA的歌,XIA,,,XIA,389991899,False,False,True
+309374,嘿Siri播放Theodore Shapiro的歌,Theodore Shapiro,,,Theodore Shapiro,276655,False,False,True
+309574,嘿Siri播放比爾艾文斯的歌,比爾艾文斯,,,Bill Evans,117975,False,False,False
+308974,嘿Siri播放A R I Z O N A的歌,A R I Z O N A,,,A R I Z O N A,1026166335,False,False,True
+309861,嘿Siri播放中島美嘉的歌,中島美嘉,,,,,,,
+308872,嘿Siri播放Selena Gomez & The Scene的歌,Selena Gomez & The Scene,,,Selena Gomez & The Scene,327163415,False,False,True
+309913,嘿Siri播放My Little Airport的歌,My Little Airport,,,My Little Airport,254621878,False,False,False
+308465,嘿Siri播放Crayon Pop的歌,Crayon Pop,,,Crayon Pop,695312695,False,False,True
+309571,嘿Siri播放TAEMIN的歌,TAEMIN,,,TAEMIN,971826499,False,False,True
+308756,嘿Siri播放The Vamps的歌,The Vamps,,,The Vamps,691255435,False,False,True
+309538,嘿Siri播放Russ的歌,Russ,,,Russ,683622116,False,False,True
+309375,嘿Siri播放HUSH的歌,HUSH,,,HUSH,1047307955,False,False,True
+309198,嘿Siri播放Emil Gilels的歌,Emil Gilels,,,Emil Gilels,267987,False,False,True
+308764,嘿Siri播放Ne-Yo的歌,Ne-Yo,,,Ne-Yo,78257321,False,False,True
+308870,嘿Siri播放Chet Baker的歌,Chet Baker,,,Chet Baker,118257,False,False,True
+309414,嘿Siri播放GD X 太陽的歌,GD X 太陽,,,GD X 太陽,943802791,False,False,False
+310172,嘿Siri播放St. Vincent的歌,St. Vincent,,,St. Vincent,198271209,False,False,True
+308771,嘿Siri播放Cat Stevens的歌,Cat Stevens,,,Cat Stevens,107587,False,True,True
+309738,嘿Siri播放基東克雷默的歌,基東克雷默,,,Gidon Kremer,4562476,False,False,False
+309678,嘿Siri播放10cm的歌,10cm,,,10cm,448032126,False,False,True
+310220,嘿Siri播放Banks的歌,Banks,,,Banks,2775067,False,False,True
+310129,嘿Siri播放HEIZE的歌,HEIZE,,,HEIZE,805276942,False,False,True
+310167,嘿Siri播放The Weeknd的歌,The Weeknd,,,The Weeknd,479756766,False,False,True
+308881,嘿Siri播放席歐里爾的歌,席歐里爾,,,François-Joël Thiollier,3072213,False,False,False
+309607,嘿Siri播放Maroon 5的歌,Maroon 5,,,Maroon 5,1798556,False,False,True
+308499,嘿Siri播放MAN WITH A MISSION的歌,MAN WITH A MISSION,,,MAN WITH A MISSION,424817976,False,False,True
+309337,嘿Siri播放塞隆尼斯孟克的歌,塞隆尼斯孟克,,,Thelonious Monk,45058,False,False,False
+309224,嘿Siri播放Bill Evans Trio的歌,Bill Evans Trio,,,Bill Evans Trio,151188147,False,False,True
+309467,嘿Siri播放Deva Premal的歌,Deva Premal,,,Deva Premal,19067876,False,False,True
+309415,嘿Siri播放Dan Gibson's Solitudes的歌,Dan Gibson's Solitudes,,,Dan Gibson's Solitudes,146678028,False,False,True
+309079,嘿Siri播放Blur的歌,Blur,,,Blur,528564,False,False,True
+308444,嘿Siri播放Cash Cash的歌,Cash Cash,,,Cash Cash,292362693,False,False,True
+310022,嘿Siri播放SE O的歌,SE O,,,SE O,1084645032,False,False,True
+308922,嘿Siri播放BESTie的歌,BESTie,,,BESTie,830073965,False,False,True
+308864,嘿Siri播放Faye的歌,Faye,,,Faye 飛,979286583,False,False,True
+309794,嘿Siri播放High4的歌,High4,,,High4,858263213,False,True,True
+310143,嘿Siri播放羅時豐的歌,羅時豐,,,羅時豐,959462850,False,False,True
+308389,嘿Siri播放오준성的歌,오준성,,,,,,,
+308753,嘿Siri播放Mother Goose Club的歌,Mother Goose Club,,,Mother Goose Club,434664701,False,False,True
+310070,嘿Siri播放 艾拉妮絲 莫莉塞特 的歌,Alanis Morissette,,,Alanis Morissette,1092859,False,True,True
+309116,嘿Siri播放Diddy - Dirty Money的歌,Diddy - Dirty Money,,,Diddy - Dirty Money,337296125,False,False,True
+309291,嘿Siri播放Miguel的歌,Miguel,,,Miguel,29254083,False,False,True
+309074,嘿Siri播放Gryffin的歌,Gryffin,,,Gryffin,953311187,False,False,True
+339123,嘿Siri播放孫佳人的歌,孫佳人,,,가인,348732958,False,False,False
+308768,嘿Siri播放Kings of Leon的歌,Kings of Leon,,,Kings of Leon,1883403,False,False,True
+309933,嘿Siri播放toe的歌,toe,,,toe,120959326,False,False,True
+309961,嘿Siri播放Alok的歌,Alok,,,Alok,324709167,False,True,True
+308720,嘿Siri播放Niall Horan的歌,Niall Horan,,,Niall Horan,471260298,False,False,True
+308587,嘿Siri播放EXID的歌,EXID,,,EXID,503473013,False,False,True
+308466,嘿Siri播放Franz Ferdinand的歌,Franz Ferdinand,,,Franz Ferdinand,6596751,False,False,True
+310189,嘿Siri播放LEW的歌,LEW,,,LEW,1080492010,False,False,True
+309425,嘿Siri播放Years & Years的歌,Years & Years,,,Years & Years,910604189,False,False,True
+308393,嘿Siri播放Miloš Karadaglić的歌,Miloš Karadaglić,,,Miloš Karadaglić,380787485,False,False,True
+309035,嘿Siri播放The Notorious B.I.G.的歌,The Notorious B.I.G.,,,The Notorious B.I.G.,5499810,False,False,True
+309859,嘿Siri播放Costantino Catena的歌,Costantino Catena,,,Costantino Catena,200311917,False,False,True
+309598,嘿Siri播放Bazzi的歌,Bazzi,,,Bazzi,800263205,False,False,True
+308702,嘿Siri播放DOLF的歌,DOLF,,,DOLF,360578572,False,False,True
+308950,嘿Siri播放offonoff的歌,offonoff,,,offonoff,1156356376,False,False,True
+309204,嘿Siri播放 舞韻合唱團 的歌,Eurythmics,,,Eurythmics,395777,False,False,True
+310191,嘿Siri播放Babyface的歌,Babyface,,,Babyface,12113,False,True,True
+308766,嘿Siri播放Aretha Franklin的歌,Aretha Franklin,,,Aretha Franklin,98742,False,False,True
+309427,嘿Siri播放貝兒與賽巴斯汀樂團的歌,貝兒與賽巴斯汀樂團,,,Belle and Sebastian,2989382,False,False,True
+309121,嘿Siri播放BØRNS的歌,BØRNS,,,BØRNS,923255950,False,False,True
+310111,嘿Siri播放GReeeeN的歌,GReeeeN,,,GReeeeN,218171255,False,False,False
+308500,嘿Siri播放LOOΠΔ的歌,LOOΠΔ,,,,,,,
+309868,嘿Siri播放Duke Ellington的歌,Duke Ellington,,,Duke Ellington,39525,False,False,True
+309003,嘿Siri播放Girls' Generation-TTS的歌,Girls' Generation-TTS,,,Girls' Generation-TTS,905847799,False,False,True
+308649,嘿Siri播放Slowdive的歌,Slowdive,,,Slowdive,528315,False,False,True
+309018,嘿Siri播放Gym Class Heroes的歌,Gym Class Heroes,,,Gym Class Heroes,75949392,False,False,True
+310205,嘿Siri播放Poppy Ackroyd的歌,Poppy Ackroyd,,,Poppy Ackroyd,578309421,False,False,True
+309275,嘿Siri播放A$AP Ferg的歌,A$AP Ferg,,,A$AP Ferg,582346993,False,False,True
+309646,嘿Siri播放Sigur Rós的歌,Sigur Rós,,,Sigur Rós,73720797,False,False,True
+308767,嘿Siri播放yaeji的歌,yaeji,,,yaeji,1087249836,False,False,True
+308395,嘿Siri播放Fergie的歌,Fergie,,,Fergie,151910203,False,False,True
+309030,嘿Siri播放ZHU的歌,ZHU,,,ZHU,261545033,False,False,True
+309915,嘿Siri播放E-girls的歌,E-girls,,,E-girls,488070237,False,False,True
+308338,嘿Siri播放Luther Vandross的歌,Luther Vandross,,,Luther Vandross,23393,False,False,True
+309290,嘿Siri播放Trey Songz的歌,Trey Songz,,,Trey Songz,31733124,False,True,True
+309591,嘿Siri播放保羅 努提尼的歌,保羅 努提尼,,,Paolo Nutini,156669286,False,False,True
+308487,嘿Siri播放米傑羅奎爾的歌,米傑羅奎爾,,,Jamiroquai,475902,False,False,False
+308930,嘿Siri播放George Ezra的歌,George Ezra,,,George Ezra,705812852,False,False,True
+309437,嘿Siri播放RAYE的歌,RAYE,,,,,,,
+309805,嘿Siri播放APRIL的歌,APRIL,,,APRIL,1033052104,False,False,True
+309417,嘿Siri播放Gai的歌,Gai,,,,,,,
+309657,嘿Siri播放PENTAGON的歌,PENTAGON,,,PENTAGON,1346387122,False,False,True
+308424,嘿Siri播放關喆的歌,關喆,,,關喆,638034798,False,False,True
+309535,嘿Siri播放Seong-Jin Cho的歌,Seong-Jin Cho,,,Seong-Jin Cho,1053136187,False,False,True
+308416,嘿Siri播放Lauv的歌,Lauv,,,Lauv,982612996,False,False,True
+310025,嘿Siri播放Chaka Khan的歌,Chaka Khan,,,Chaka Khan,17402,False,False,False
+309210,嘿Siri播放Sleeping At Last的歌,Sleeping At Last,,,Sleeping At Last,326646632,False,False,True
+308326,嘿Siri播放Kodak Black的歌,Kodak Black,,,Kodak Black,953921140,False,False,True
+310199,嘿Siri播放Anderson .Paak的歌,Anderson .Paak,,,Anderson .Paak,855484536,False,False,True
+309550,嘿Siri播放Röyksopp的歌,Röyksopp,,,Röyksopp,3432068,False,False,True
+310060,嘿Siri播放Mischa Maisky的歌,Mischa Maisky,,,Mischa Maisky,4317514,False,False,True
+309944,嘿Siri播放AMBER的歌,AMBER,,,AMBER,965780781,False,False,True
+308361,嘿Siri播放Elevation Worship的歌,Elevation Worship,,,Elevation Worship,287874918,False,False,True
+308335,嘿Siri播放Sebastian Ingrosso的歌,Sebastian Ingrosso,,,Sebastian Ingrosso,77816993,False,False,True
+309303,嘿Siri播放趙雷的歌,趙雷,,,趙雷,937112027,False,False,True
+308602,嘿Siri播放SS501的歌,SS501,,,SS501,307494387,False,False,True
+309323,嘿Siri播放Jamie xx的歌,Jamie xx,,,Jamie xx,405563985,False,True,True
+308801,嘿Siri播放瀨葉淳的歌,瀨葉淳,,,Nujabes,679712483,False,False,False
+308555,嘿Siri播放5 Seconds of Summer的歌,5 Seconds of Summer,,,5 Seconds of Summer,538811449,False,False,True
+308712,嘿Siri播放Matteo的歌,Matteo,,,Matteo,212408986,False,False,True
+310203,嘿Siri播放Gateway Worship的歌,Gateway Worship,,,Gateway Worship,160408277,False,False,True
+309503,嘿Siri播放187 INC的歌,187 INC,,,187 INC,1090338459,False,False,True
+310061,嘿Siri播放普拉西多·多明哥的歌,普拉西多·多明哥,,,普拉西多·多明哥,375956,False,False,True
+310110,嘿Siri播放2PM的歌,2PM,,,2PM,183292586,False,False,True
+308582,嘿Siri播放Malia Civetz的歌,Malia Civetz,,,Malia Civetz,1075842217,False,False,True
+309941,嘿Siri播放Eva Cassidy的歌,Eva Cassidy,,,Eva Cassidy,1102077,False,False,True
+308664,嘿Siri播放羅德斯圖爾特的歌,羅德斯圖爾特,,,Rod Stewart,57471,False,False,True
+308879,嘿Siri播放Maria João Pires的歌,Maria João Pires,,,Maria João Pires,799747,False,False,True
+309578,嘿Siri播放Childish Gambino的歌,Childish Gambino,,,Childish Gambino,466842536,False,False,True
+308446,嘿Siri播放DAOKO的歌,DAOKO,,,DAOKO,547853144,False,False,True
+308810,嘿Siri播放Eddy Kim的歌,Eddy Kim,,,Eddy Kim,854180595,False,False,True
+309357,嘿Siri播放Angus & Julia Stone的歌,Angus & Julia Stone,,,Angus & Julia Stone,169843517,False,True,True
+309428,嘿Siri播放ウェルビーイング・シリーズ的歌,ウェルビーイング・シリーズ,,,ウェルビーイング・シリーズ,259296633,False,False,True
+309689,嘿Siri播放Daya的歌,Daya,,,Daya,1037160430,False,False,True
+309841,嘿Siri播放Sleeping Mozart Relaxing Baby的歌,Sleeping Mozart Relaxing Baby,,,Sleeping Mozart Relaxing Baby,762135616,False,False,True
+309679,嘿Siri播放By2的歌,By2,,,By2,265595963,False,False,True
+309394,嘿Siri播放Kendrick Lamar的歌,Kendrick Lamar,,,Kendrick Lamar,368183298,False,False,True
+309423,嘿Siri播放Rhye的歌,Rhye,,,Rhye,490808665,False,False,True
+309799,嘿Siri播放GARY的歌,GARY,,,GARY,797262371,False,False,True
+309128,嘿Siri播放Kylie Minogue的歌,Kylie Minogue,,,Kylie Minogue,465031,False,False,True
+309781,嘿Siri播放Claudio Arrau的歌,Claudio Arrau,,,Claudio Arrau,341077,False,False,True
+309156,嘿Siri播放Ty Dolla $ign的歌,Ty Dolla $ign,,,Ty Dolla $ign,602917745,False,False,True
+309407,嘿Siri播放Sons of People的歌,Sons of People,,,Sons of People,1244044372,False,False,True
+309053,嘿Siri播放CRAIG ARMSTRONG的歌,CRAIG ARMSTRONG,,,CRAIG ARMSTRONG,14738507,False,False,True
+308787,嘿Siri播放Jackson 5的歌,Jackson 5,,,Jackson 5,104063,False,False,True
+308937,嘿Siri播放戴米恩萊斯的歌,戴米恩萊斯,,,Damien Rice,2249490,False,False,False
+308730,嘿Siri播放Major Lazer的歌,Major Lazer,,,Major Lazer,315761934,False,False,True
+309953,嘿Siri播放JBJ的歌,JBJ,,,JBJ,1336882714,False,False,True
+310196,嘿Siri播放SF9的歌,SF9,,,SF9,1161961912,False,False,True
+308774,嘿Siri播放supercell的歌,supercell,,,supercell,631665100,False,False,True
+309529,嘿Siri播放Dean Lewis的歌,Dean Lewis,,,Dean Lewis,779085108,False,False,True
+310134,嘿Siri播放Lionel Richie的歌,Lionel Richie,,,Lionel Richie,48397,False,False,True
+310275,嘿Siri播放Bumkey的歌,Bumkey,,,범키,359828063,False,False,True
+309066,嘿Siri播放Annie Lennox的歌,Annie Lennox,,,Annie Lennox,14000,False,False,True
+309272,嘿Siri播放Alexandre Tharaud的歌,Alexandre Tharaud,,,Alexandre Tharaud,3325614,False,False,True
+310069,嘿Siri播放Timbaland的歌,Timbaland,,,Timbaland,3342627,False,False,True
+309339,嘿Siri播放Orgel Sound J-Pop的歌,Orgel Sound J-Pop,,,Orgel Sound J-Pop,259008846,False,False,True
+308853,嘿Siri播放惡魔先生的歌,惡魔先生,,,Don Diablo,76849154,False,False,False
+309243,嘿Siri播放Ballet Dance Jazz J. Company的歌,Ballet Dance Jazz J. Company,,,Ballet Dance Jazz J. Company,562220801,False,False,True
+308834,嘿Siri播放AMIT的歌,AMIT,,,AMIT,979195661,False,False,False
+309232,嘿Siri播放貓王的歌,貓王,,,Elvis Presley,197443,False,False,True
+309811,嘿Siri播放YOONA的歌,YOONA,,,YOONA,881275581,False,False,True
+310188,嘿Siri播放사이먼 도미닉的歌,사이먼 도미닉,,,,,,,
+308516,嘿Siri播放Survivor的歌,Survivor,,,Survivor,3713599,False,False,True
+308610,嘿Siri播放JUNIEL的歌,JUNIEL,,,JUNIEL,474630135,False,False,True
+310248,嘿Siri播放Martha Argerich的歌,Martha Argerich,,,Martha Argerich,319607,False,False,True
+309438,嘿Siri播放曾之喬的歌,曾之喬,,,曾之喬,786449880,False,True,True
+309860,嘿Siri播放TFBOYS的歌,TFBOYS,,,TFBOYS,1146683407,False,False,True
+309931,嘿Siri播放Zia的歌,Zia,,,Zia,412567966,False,False,True
+310228,嘿Siri播放The Bellas的歌,The Bellas,,,The Bellas,990970340,False,False,True
+309478,嘿Siri播放Jorja Smith的歌,Jorja Smith,,,Jorja Smith,1088331223,False,False,True
+309386,嘿Siri播放Madonna的歌,Madonna,,,Madonna,20044,False,False,True
+308432,嘿Siri播放Pharrell Williams的歌,Pharrell Williams,,,Pharrell Williams,14934728,False,False,True
+310051,嘿Siri播放KSHMR的歌,KSHMR,,,KSHMR,827795989,False,False,True
+310197,嘿Siri播放Woo Won Jae的歌,Woo Won Jae,,,Woo Won Jae,1267775141,False,False,True
+309263,嘿Siri播放Flume的歌,Flume,,,Flume,4275634,False,False,True
+309723,嘿Siri播放CLC的歌,CLC,,,CLC,978594123,False,False,True
+309864,嘿Siri播放Sleep Music Lullabies的歌,Sleep Music Lullabies,,,Sleep Music Lullabies,474724971,False,False,True
+309445,嘿Siri播放Billie Eilish的歌,Billie Eilish,,,Billie Eilish,1065981054,False,False,True
+308845,嘿Siri播放Jessie J的歌,Jessie J,,,Jessie J,405360400,False,True,True
+308923,嘿Siri播放Riccardo Muti的歌,Riccardo Muti,,,Riccardo Muti,322709,False,False,True
+309340,嘿Siri播放naomi & goro的歌,naomi & goro,,,naomi & goro,77858451,False,False,True
+309516,嘿Siri播放弦樂四重奏樂團的歌,弦樂四重奏樂團,,,アコルディ弦楽四重奏団,281553386,False,False,False
+308681,嘿Siri播放Susie Tallman的歌,Susie Tallman,,,Susie Tallman,30636853,False,False,True
+309298,嘿Siri播放The Lumineers的歌,The Lumineers,,,The Lumineers,350720227,False,False,True
+308431,嘿Siri播放Dave Koz的歌,Dave Koz,,,Dave Koz,529662,False,False,True
+308784,嘿Siri播放Vanilla Acoustic的歌,Vanilla Acoustic,,,Vanilla Acoustic,347261741,False,False,True
+309948,嘿Siri播放艾拉羅索勒的歌,艾拉羅索勒,,,Álvaro Soler,977177120,False,False,False
+339121,嘿Siri播放李建榮的歌,李建榮,,,이건영,373735678,False,False,False
+310001,嘿Siri播放Rihanna的歌,Rihanna,,,Rihanna,63346553,False,False,True
+309014,嘿Siri播放ONE的歌,ONE,,,ONE,1257997726,False,True,True
+309195,嘿Siri播放Clazziquai Project的歌,Clazziquai Project,,,Clazziquai Project,82012551,False,False,True
+309172,嘿Siri播放Red Velvet的歌,Red Velvet,,,Red Velvet,906961899,False,True,True
+308678,嘿Siri播放Pi Ano的歌,Pi Ano,,,Pi Ano,507889834,False,False,False
+310217,嘿Siri播放Maranatha! Music的歌,Maranatha! Music,,,Maranatha! Music,220299719,False,False,True
+308411,嘿Siri播放Iggy Azalea的歌,Iggy Azalea,,,Iggy Azalea,503970811,False,False,True
+308675,嘿Siri播放Baby Sleep Lullaby Academy的歌,Baby Sleep Lullaby Academy,,,Baby Sleep Lullaby Academy,963545464,False,False,True
+310186,嘿Siri播放Yuna的歌,Yuna,,,Yuna,508690833,False,False,True
+308896,嘿Siri播放Anne-Sophie Mutter的歌,Anne-Sophie Mutter,,,Anne-Sophie Mutter,497675,False,False,True
+309792,嘿Siri播放VIXX LR的歌,VIXX LR,,,VIXX LR,1032610440,False,False,True
+309835,嘿Siri播放Whethan的歌,Whethan,,,Whethan,1131838621,False,False,True
+310089,嘿Siri播放Liam Payne的歌,Liam Payne,,,Liam Payne,366710817,False,False,True
+309570,嘿Siri播放JAY Z的歌,JAY Z,,,JAY Z,112080,False,False,False
+310076,嘿Siri播放徐朱玄的歌,徐朱玄,,,Seohyun,502419930,False,False,False
+309254,嘿Siri播放The Script的歌,The Script,,,The Script,277228393,False,True,True
+309776,嘿Siri播放Outkast的歌,Outkast,,,Outkast,289550,False,False,True
+308483,嘿Siri播放Usher的歌,Usher,,,Usher,15885,False,False,True
+309618,嘿Siri播放blackbear的歌,blackbear,,,blackbear,521141925,False,False,True
+309812,嘿Siri播放克里斯波提的歌,克里斯波提,,,Chris Botti,38341,False,False,False
+309153,嘿Siri播放R3hab的歌,R3hab,,,R3hab,331900515,False,False,True
+309760,嘿Siri播放a-ha的歌,a-ha,,,a-ha,166566,False,False,True
+308510,嘿Siri播放Hiroyuki Sawano的歌,Hiroyuki Sawano,,,Hiroyuki Sawano,156620523,False,False,True
+309936,嘿Siri播放Al Jarreau的歌,Al Jarreau,,,Al Jarreau,155948,False,False,True
+309790,嘿Siri播放Boxing樂團的歌,Boxing樂團,,,Boxing樂團,933098436,False,False,True
+309381,嘿Siri播放Tom Odell的歌,Tom Odell,,,Tom Odell,524929515,False,False,True
+309943,嘿Siri播放SPICA的歌,SPICA,,,SPICA,179833053,False,False,True
+309325,嘿Siri播放朵薇史堤凱的歌,朵薇史堤凱,,,Tove Styrke,338875409,False,False,False
+309167,嘿Siri播放Frenship的歌,Frenship,,,Frenship,699365325,False,False,True
+308916,嘿Siri播放Original London Cast的歌,Original London Cast,,,Original London Cast,416584,False,False,True
+310058,嘿Siri播放Shiny的歌,Shiny,,,Shiny,930561852,False,False,True
+310067,嘿Siri播放 七級煉獄 的歌,Avenged Sevenfold,,,Avenged Sevenfold,6766228,False,False,True
+308811,嘿Siri播放Alfred Brendel的歌,Alfred Brendel,,,Alfred Brendel,4317211,False,False,True
+308496,嘿Siri播放Mr. Probz的歌,Mr. Probz,,,Mr. Probz,122464082,False,False,True
+308574,嘿Siri播放VaVa的歌,VaVa,,,VaVa,1278518450,False,False,True
+309419,嘿Siri播放Wham!的歌,Wham!,,,Wham!,548421,False,False,True
+308824,嘿Siri播放Jessie Reyez的歌,Jessie Reyez,,,Jessie Reyez,1043591612,False,False,True
+308933,嘿Siri播放Bishop Briggs的歌,Bishop Briggs,,,Bishop Briggs,1047012236,False,False,True
+309063,嘿Siri播放The Pig Family的歌,The Pig Family,,,The Pig Family,960773637,False,False,True
+309796,嘿Siri播放Bob Dylan的歌,Bob Dylan,,,Bob Dylan,462006,False,False,True
+309041,嘿Siri播放Blake Shelton的歌,Blake Shelton,,,Blake Shelton,189204,False,False,True
+308350,嘿Siri播放Ravi的歌,Ravi,,,Ravi,1071012555,False,False,True
+310177,嘿Siri播放Lilly Wood & The Prick的歌,Lilly Wood & The Prick,,,Lilly Wood & The Prick,306011111,False,False,True
+309319,嘿Siri播放The Him的歌,The Him,,,The Him,875207199,False,False,True
+309119,嘿Siri播放Sigrid的歌,Sigrid,,,Sigrid,1206070304,False,False,True
+309422,嘿Siri播放The Rolling Stones的歌,The Rolling Stones,,,The Rolling Stones,1249595,False,False,True
+310218,嘿Siri播放孫佳人的歌,孫佳人,,,,,,,
+309696,嘿Siri播放Macklemore的歌,Macklemore,,,Macklemore,283347662,False,False,True
+309739,嘿Siri播放RADWIMPS的歌,RADWIMPS,,,RADWIMPS,91160335,False,True,True
+310192,嘿Siri播放NF的歌,NF,,,NF,898094630,False,False,True
+309903,嘿Siri播放Junichi Kamiyama的歌,Junichi Kamiyama,,,Junichi Kamiyama,257124919,False,False,True
+308407,嘿Siri播放ASTRO的歌,ASTRO,,,ASTRO,1086927524,False,False,True
+308829,嘿Siri播放DEAN的歌,DEAN,,,DEAN,2770824,False,False,True
+309890,嘿Siri播放Weezer的歌,Weezer,,,Weezer,115234,False,False,True
+308813,嘿Siri播放安田麗的歌,安田麗,,,,,,,
+339120,嘿Siri播放鄭世雲的歌,鄭世雲,,,정세운,1277599425,False,False,False
+309620,嘿Siri播放Fatboy Slim的歌,Fatboy Slim,,,Fatboy Slim,1093405,False,False,True
+309348,嘿Siri播放Grey的歌,Grey,,,Grey,324853,False,False,True
+310052,嘿Siri播放2AM的歌,2AM,,,2AM,14063144,False,False,True
+309530,嘿Siri播放엔플라잉的歌,엔플라잉,,,,,,,
+308647,嘿Siri播放Betty Who的歌,Betty Who,,,Betty Who,660522247,False,False,True
+310119,嘿Siri播放Nursery Rhymes and Lullabies的歌,Nursery Rhymes and Lullabies,,,Nursery Rhymes and Lullabies,362238130,False,False,True
+310059,嘿Siri播放Family of the Year的歌,Family of the Year,,,Family of the Year,331169143,False,False,False
+310064,嘿Siri播放韓秀智的歌,韓秀智,,,,,,,
+309390,嘿Siri播放Hailee Steinfeld的歌,Hailee Steinfeld,,,Hailee Steinfeld,417571723,False,False,True
+309817,嘿Siri播放V.K克的歌,V.K克,,,V.K克,672612539,False,False,True
+308498,嘿Siri播放Natalie Imbruglia的歌,Natalie Imbruglia,,,Natalie Imbruglia,397997,False,False,True
+309027,嘿Siri播放MXM (BRANDNEWBOYS)的歌,MXM (BRANDNEWBOYS),,,MXM (BRANDNEWBOYS),1264253773,False,False,True
+309685,嘿Siri播放Jamie Lawson的歌,Jamie Lawson,,,Jamie Lawson,156278636,False,False,True
+310157,嘿Siri播放綺拉奈特莉的歌,綺拉奈特莉,,,綺拉·奈特莉,187698850,False,False,False
+309972,嘿Siri播放2NE1的歌,2NE1,,,2NE1,329155759,False,False,True
+310221,嘿Siri播放XXXTENTACION的歌,XXXTENTACION,,,XXXTENTACION,1082533559,False,False,True
+309090,嘿Siri播放Christina Aguilera的歌,Christina Aguilera,,,Christina Aguilera,259398,False,False,True
+308688,嘿Siri播放ODESZA的歌,ODESZA,,,ODESZA,739033803,False,False,True
+309521,嘿Siri播放KNK的歌,KNK,,,KNK,896544822,False,False,True
+309979,嘿Siri播放朴載範的歌,朴載範,,,朴載範,384641776,False,True,True
+308992,嘿Siri播放HONNE的歌,HONNE,,,HONNE,906366067,False,False,True
+309932,嘿Siri播放Kid Ink的歌,Kid Ink,,,Kid Ink,432461273,False,False,True
+308523,嘿Siri播放Audiomachine的歌,Audiomachine,,,Audiomachine,516670462,False,False,True
+310260,嘿Siri播放Jóhann Jóhannsson的歌,Jóhann Jóhannsson,,,Jóhann Jóhannsson,80591287,False,False,True
+310299,嘿Siri播放Sechs Kies的歌,Sechs Kies,,,Sechs Kies,1162613479,False,False,True
+308934,嘿Siri播放MACO的歌,MACO,,,MACO,840907343,False,False,True
+309092,嘿Siri播放Axwell Λ Ingrosso的歌,Axwell Λ Ingrosso,,,Axwell Λ Ingrosso,128864409,False,False,True
+308397,嘿Siri播放Gabrielle Aplin的歌,Gabrielle Aplin,,,Gabrielle Aplin,434657397,False,False,True
+310311,嘿Siri播放J. Cole的歌,J. Cole,,,J. Cole,73705833,False,False,True
+310297,嘿Siri播放Jon Bellion的歌,Jon Bellion,,,Jon Bellion,659289673,False,False,True
+309433,嘿Siri播放Bon Iver的歌,Bon Iver,,,Bon Iver,273428126,False,False,True
+308796,嘿Siri播放平原綾香的歌,平原綾香,,,Ayaka Hirahara,77289929,False,False,True
+309356,嘿Siri播放SE7EN的歌,SE7EN,,,SE7EN,6343223,False,False,True
+308357,嘿Siri播放雀斑的歌,雀斑,,,雀斑,1203201339,False,True,True
+308785,嘿Siri播放The New Barden Bellas的歌,The New Barden Bellas,,,The New Barden Bellas,1322998908,False,False,True
+309640,嘿Siri播放H.O.T.的歌,H.O.T.,,,H.O.T.,4691436,False,False,True
+308814,嘿Siri播放Krewella的歌,Krewella,,,Krewella,492328395,False,False,True
+310146,嘿Siri播放巴頓貝拉合唱團的歌,巴頓貝拉合唱團,,,The Barden Bellas,561460992,False,False,False
+309908,嘿Siri播放Carla Bruni的歌,Carla Bruni,,,Carla Bruni,15046518,False,False,True
+309832,嘿Siri播放Nelly的歌,Nelly,,,Nelly,351794,False,False,True
+308809,嘿Siri播放José González的歌,José González,,,José González,153417030,False,False,True
+308386,嘿Siri播放Sofi Tukker的歌,Sofi Tukker,,,Sofi Tukker,998656537,False,True,True
+309539,嘿Siri播放Sixpence None the Richer的歌,Sixpence None the Richer,,,Sixpence None the Richer,22683,False,False,True
+309059,嘿Siri播放 李建榮的歌,李建榮,,,,,,,
+309506,嘿Siri播放flumpool的歌,flumpool,,,flumpool,570402072,False,False,True
+310266,嘿Siri播放Cécile Corbel的歌,Cécile Corbel,,,Cécile Corbel,411448342,False,False,True
+309637,嘿Siri播放blink-182的歌,blink-182,,,blink-182,116851,False,False,True
+310284,嘿Siri播放Hillsong UNITED的歌,Hillsong UNITED,,,Hillsong UNITED,79437763,False,False,True
+309963,嘿Siri播放Justin Hurwitz的歌,Justin Hurwitz,,,Justin Hurwitz,918231350,False,True,True
+309846,嘿Siri播放CODE KUNST的歌,CODE KUNST,,,CODE KUNST,808626855,False,False,True
+308807,嘿Siri播放Metallica的歌,Metallica,,,Metallica,3996865,False,False,True
+308966,嘿Siri播放馬文蓋一的歌,馬文蓋一,,,Marvin Gaye,127329,False,True,False
+308318,嘿Siri播放Nicki Minaj的歌,Nicki Minaj,,,Nicki Minaj,278464538,False,False,True
+308828,嘿Siri播放Vaults的歌,Vaults,,,Vaults,865309052,False,False,True
+310045,嘿Siri播放Ty.的歌,Ty.,,,Ty.,1282949130,False,False,True
+309800,嘿Siri播放The 1975的歌,The 1975,,,The 1975,542640016,False,False,True
+308713,嘿Siri播放Beck的歌,Beck,,,Beck,312095,False,False,True
+308414,嘿Siri播放Sabrina Claudio的歌,Sabrina Claudio,,,Sabrina Claudio,1128029190,False,False,True
+309416,嘿Siri播放Led Zeppelin的歌,Led Zeppelin,,,Led Zeppelin,994656,False,False,True
+309660,嘿Siri播放Gucci Mane的歌,Gucci Mane,,,Gucci Mane,62374520,False,False,True
+310090,嘿Siri播放Davichi的歌,Davichi,,,Davichi,462672399,False,False,False
+308426,嘿Siri播放Gwen Stefani的歌,Gwen Stefani,,,Gwen Stefani,108717,False,False,True
+308321,嘿Siri播放AWOLNATION的歌,AWOLNATION,,,AWOLNATION,371362363,False,False,False
+309257,嘿Siri播放HENRY的歌,HENRY,,,HENRY,660560673,False,False,True
+310094,嘿Siri播放Hardwell的歌,Hardwell,,,Hardwell,270486655,False,False,True
+308897,嘿Siri播放Ms.OOJA的歌,Ms.OOJA,,,Ms.OOJA,417992041,False,False,True
+308951,嘿Siri播放郑世云的歌,郑世云,,,,,,,
+309672,嘿Siri播放Phoenix的歌,Phoenix,,,Phoenix,5500360,False,False,True
+309866,嘿Siri播放Armin van Buuren的歌,Armin van Buuren,,,Armin van Buuren,17976294,False,False,True
+309547,嘿Siri播放Hello Nico的歌,Hello Nico,,,Hello Nico,897779816,False,False,True
+310104,嘿Siri播放The xx的歌,The xx,,,The xx,315473044,False,False,True
+309945,嘿Siri播放Phoebe Ryan的歌,Phoebe Ryan,,,Phoebe Ryan,725170786,False,True,True
+309499,嘿Siri播放Everland Kids的歌,Everland Kids,,,Everland Kids,271937035,False,False,True
+309336,嘿Siri播放Chance the Rapper的歌,Chance the Rapper,,,Chance the Rapper,563355119,False,False,True
+310105,嘿Siri播放Russian Red的歌,Russian Red,,,Russian Red,282141245,False,False,True
+309705,嘿Siri播放Tiësto的歌,Tiësto,,,Tiësto,4091218,False,False,True
+309007,嘿Siri播放ピアノ 胎教 音楽 Masters的歌,ピアノ 胎教 音楽 Masters,,,ピアノ 胎教 音楽 Masters,630297488,False,False,True
+309625,嘿Siri播放艾拉 亨德森的歌,艾拉 亨德森,,,Ella Henderson,567487911,False,False,True
+309424,嘿Siri播放ZM Taiwan的歌,ZM Taiwan,,,ZM Taiwan,1243267752,False,False,True
+309127,嘿Siri播放Ella Vos的歌,Ella Vos,,,Ella Vos,1137107080,False,True,True
+309236,嘿Siri播放史提夫汪達的歌,史提夫汪達,,,Stevie Wonder,46726,False,False,True
+309052,嘿Siri播放Hélène Grimaud的歌,Hélène Grimaud,,,Hélène Grimaud,2676832,False,False,True
+310093,嘿Siri播放James Hype的歌,James Hype,,,James Hype,925734064,False,False,True
+308328,嘿Siri播放gesunokiwamiotome的歌,gesunokiwamiotome,,,gesunokiwamiotome,605177432,False,False,True
+309639,嘿Siri播放t.A.T.u.的歌,t.A.T.u.,,,t.A.T.u.,352317,False,False,True
+308710,嘿Siri播放Loote的歌,Loote,,,Loote,1230692924,False,False,True
+309097,嘿Siri播放Sara Bareilles的歌,Sara Bareilles,,,Sara Bareilles,64398046,False,False,True
+309664,嘿Siri播放Tritonal的歌,Tritonal,,,Tritonal,283453767,False,False,True
+308770,嘿Siri播放Hans de Back的歌,Hans de Back,,,Hans de Back,128589227,False,False,True
+309544,嘿Siri播放Leo王的歌,Leo王,,,Leo王,661953939,False,False,True
+310100,嘿Siri播放Cheeze的歌,Cheeze,,,Cheeze,411941427,False,False,True
+309898,嘿Siri播放Michael Bolton的歌,Michael Bolton,,,Michael Bolton,200151,False,False,True
+308946,嘿Siri播放Zion.T的歌,Zion.T,,,Zion.T,419393676,False,False,True
+308370,嘿Siri播放利爾龐普的歌,利爾龐普,,,Lil Pump,1129587661,False,False,False
+309137,嘿Siri播放Eminem的歌,Eminem,,,Eminem,111051,False,False,True
+309016,嘿Siri播放R.E.M.的歌,R.E.M.,,,R.E.M.,311145,False,False,True
+309448,嘿Siri播放Original Broadway Cast of Hamilton的歌,Original Broadway Cast of Hamilton,,,Original Broadway Cast of Hamilton,1031359963,False,False,True
+308850,嘿Siri播放傑西薇爾的歌,傑西薇爾,,,Jessie Ware,471286553,False,False,False
+309180,嘿Siri播放Jean-Guihen Queyras的歌,Jean-Guihen Queyras,,,Jean-Guihen Queyras,207657533,False,False,True
+309378,嘿Siri播放Lifehouse的歌,Lifehouse,,,Lifehouse,3447393,False,False,True
+309062,嘿Siri播放Do As Infinity的歌,Do As Infinity,,,Do As Infinity,73955226,False,False,True
+308334,嘿Siri播放Joey Bada$的歌,Joey Bada$$,,,Joey Bada$$,577261450,False,False,True
+308385,嘿Siri播放楊洋的歌,楊洋,,,楊洋,894465463,False,False,True
+309152,嘿Siri播放James Blunt的歌,James Blunt,,,James Blunt,27496674,False,True,True
+309351,嘿Siri播放Samantha Gongol的歌,Samantha Gongol,,,Samantha Gongol,435178483,False,False,True
+310088,嘿Siri播放Crush的歌,Crush,,,Crush,958641367,False,False,True
+310087,嘿Siri播放J.Sheon的歌,J.Sheon,,,J.Sheon,1218302959,False,False,True
+309306,嘿Siri播放Daughtry的歌,Daughtry,,,Daughtry,748174,False,False,True
+308391,嘿Siri播放Christina Perri的歌,Christina Perri,,,Christina Perri,378346343,False,False,True
+310223,嘿Siri播放Anna Kendrick的歌,Anna Kendrick,,,Anna Kendrick,331677309,False,False,True
+308608,嘿Siri播放Cardi B的歌,Cardi B,,,Cardi B,956078923,False,False,True
+310151,嘿Siri播放Relax α Wave的歌,Relax α Wave,,,Relax α Wave,923192068,False,False,True
+308453,嘿Siri播放CHVRCHES的歌,CHVRCHES,,,CHVRCHES,566867492,False,False,True
+310208,嘿Siri播放 Mental Physic Series 的歌,メンタル・フィジック・シリーズ,,,メンタル・フィジック・シリーズ,261203360,False,False,False
+309234,嘿Siri播放Lil Uzi Vert的歌,Lil Uzi Vert,,,Lil Uzi Vert,940710524,False,False,True
+309049,嘿Siri播放2 Chainz的歌,2 Chainz,,,2 Chainz,435300447,False,False,True
+308830,嘿Siri播放U2的歌,U2,,,U2,78500,False,False,True
+308691,嘿Siri播放YUI的歌,YUI,,,YUI,252604926,False,False,True
+309717,嘿Siri播放珍妮傑克遜的歌,珍妮傑克遜,,,Janet Jackson,1272779,False,False,True
+309909,嘿Siri播放John Denver的歌,John Denver,,,John Denver,208469,False,False,True
+310117,嘿Siri播放Austin Mahone的歌,Austin Mahone,,,Austin Mahone,426978015,False,False,True
+309783,嘿Siri播放高堤耶的歌,高堤耶,,,Gotye,161541223,False,False,True
+309721,嘿Siri播放Vladimir Ashkenazy的歌,Vladimir Ashkenazy,,,Vladimir Ashkenazy,491158,False,False,True
+309768,嘿Siri播放Kiiara的歌,Kiiara,,,Kiiara,1017136601,False,False,True
+308583,嘿Siri播放Kim Kyung Hee的歌,Kim Kyung Hee,,,김경희,569073735,False,False,False
+309362,嘿Siri播放Mogwai的歌,Mogwai,,,Mogwai,2989748,False,False,True
+308735,嘿Siri播放ALMA的歌,ALMA,,,ALMA,1124753799,False,False,True
+309531,嘿Siri播放安德拉斯席夫的歌,安德拉斯席夫,,,András Schiff,3520027,False,False,True
+310229,嘿Siri播放Troye Sivan的歌,Troye Sivan,,,Troye Sivan,396295677,False,False,True
+308885,嘿Siri播放DAY6的歌,DAY6,,,DAY6,1037939997,False,False,True
+308331,嘿Siri播放Journey的歌,Journey,,,Journey,486597,False,False,True
+310255,嘿Siri播放Rae Sremmurd的歌,Rae Sremmurd,,,Rae Sremmurd,829356035,False,False,True
+309976,嘿Siri播放藍又時的歌,藍又時,,,藍又時,543205896,False,True,True
+309405,嘿Siri播放Relaxing Orgel的歌,Relaxing Orgel,,,Relaxing Orgel,259295296,False,False,True
+308763,嘿Siri播放Simply Red的歌,Simply Red,,,Simply Red,163002,False,False,True
+309308,嘿Siri播放Perfume的歌,Perfume,,,Perfume,351343399,False,False,True
+308325,嘿Siri播放DVBBS的歌,DVBBS,,,DVBBS,510436077,False,False,True
+310042,嘿Siri播放Madeleine Peyroux的歌,Madeleine Peyroux,,,Madeleine Peyroux,146232,False,False,True
+309173,嘿Siri播放Sam Smith的歌,Sam Smith,,,Sam Smith,156488786,False,False,True
+309719,嘿Siri播放Akon的歌,Akon,,,Akon,3261325,False,False,True
+310062,嘿Siri播放Mrs. Green Apple的歌,Mrs. Green Apple,,,Mrs. Green Apple,962221033,False,False,True
+309580,嘿Siri播放Leessang的歌,Leessang,,,Leessang,339950117,False,False,True
+309737,嘿Siri播放Travis Scott的歌,Travis Scott,,,Travis Scott,549236696,False,False,True
+309145,嘿Siri播放Jhené Aiko的歌,Jhené Aiko,,,Jhené Aiko,198431322,False,False,True
+309999,嘿Siri播放Martin Garrix的歌,Martin Garrix,,,Martin Garrix,430932944,False,True,True
+308344,嘿Siri播放 聖女合唱團 的歌,All Saints,,,All Saints,724744,False,False,True
+309216,嘿Siri播放White Noise的歌,White Noise,,,White Noise,975549040,False,False,True
+309764,嘿Siri播放Alina Baraz的歌,Alina Baraz,,,Alina Baraz,757852571,False,False,True
+308858,嘿Siri播放Alan Walker的歌,Alan Walker,,,Alan Walker,1062085272,False,False,True
+309247,嘿Siri播放SpeXial的歌,SpeXial,,,SpeXial,585062986,False,False,True
+309573,嘿Siri播放Sam Tsui的歌,Sam Tsui,,,Sam Tsui,352105098,False,False,True
+308984,嘿Siri播放Daft Punk的歌,Daft Punk,,,Daft Punk,5468295,False,False,True
+308394,嘿Siri播放Sean Kingston的歌,Sean Kingston,,,Sean Kingston,259760619,False,False,True
+309011,嘿Siri播放Porter Robinson的歌,Porter Robinson,,,Porter Robinson,282330711,False,False,True
+308343,"嘿Siri播放Earth, Wind & Fire的歌","Earth, Wind & Fire",,,"Earth, Wind & Fire",290699,False,False,True
+309784,嘿Siri播放우효的歌,우효,,,,,,,
+309714,嘿Siri播放Maurizio Pollini的歌,Maurizio Pollini,,,Maurizio Pollini,614978,False,False,True
+309959,嘿Siri播放Audien的歌,Audien,,,Audien,352711990,False,False,True
+310306,嘿Siri播放Sleep Baby Sleep的歌,Sleep Baby Sleep,,,Sleep Baby Sleep,376676887,False,False,True
+309361,嘿Siri播放Vampire Weekend的歌,Vampire Weekend,,,Vampire Weekend,259437105,False,False,True
+309605,嘿Siri播放Ed Sheeran的歌,Ed Sheeran,,,Ed Sheeran,183313439,False,False,True
+309091,嘿Siri播放MONSTA X的歌,MONSTA X,,,MONSTA X,992315362,False,False,False
+310036,嘿Siri播放申昇勳的歌,申昇勳,,,申昇勳,268959215,False,True,True
+309309,嘿Siri播放宋旻浩的歌,宋旻浩,,,宋旻浩,847965934,False,True,True
+308619,嘿Siri播放Daryl Hall & John Oates的歌,Daryl Hall & John Oates,,,Daryl Hall & John Oates,180586,False,False,True
+309376,嘿Siri播放The Verve的歌,The Verve,,,The Verve,528110,False,False,True
+309626,嘿Siri播放The Veronicas的歌,The Veronicas,,,The Veronicas,74214491,False,False,True
+308674,嘿Siri播放Sarah Vaughan的歌,Sarah Vaughan,,,Sarah Vaughan,79995,False,False,True
+309159,嘿Siri播放Melanie Martinez的歌,Melanie Martinez,,,Melanie Martinez,993014053,False,False,False
+308629,嘿Siri播放Young Thug的歌,Young Thug,,,Young Thug,81886939,False,False,True
+310081,嘿Siri播放Slushii的歌,Slushii,,,Slushii,1079527964,False,False,True
+310002,嘿Siri播放ZICO的歌,ZICO,,,ZICO,656726368,False,False,True
+308745,嘿Siri播放Keane的歌,Keane,,,Keane,1187178,False,False,True
+310230,嘿Siri播放Newborn Sleep Music Lullabies的歌,Newborn Sleep Music Lullabies,,,Newborn Sleep Music Lullabies,520809845,False,False,False
+308477,嘿Siri播放Herbert von Karajan的歌,Herbert von Karajan,,,Herbert von Karajan,504189,False,False,True
+308775,嘿Siri播放Richard Marx的歌,Richard Marx,,,Richard Marx,16542,False,False,True
+309494,嘿Siri播放Desiigner的歌,Desiigner,,,Desiigner,1068985672,False,False,True
+310226,嘿Siri播放Dal Shabet的歌,Dal Shabet,,,Dal★Shabet,460873499,False,False,True
+308351,嘿Siri播放929的歌,929,,,929,392580653,False,False,True
+309749,嘿Siri播放Faith Hill的歌,Faith Hill,,,Faith Hill,168620,False,False,True
+309682,嘿Siri播放Min Kyung Hoon的歌,Min Kyung Hoon,,,Min Kyung Hoon,356338751,False,True,True
+309217,嘿Siri播放MoonMoon的歌,MoonMoon,,,MoonMoon,1140818003,False,False,True
+308524,嘿Siri播放Ben E. King的歌,Ben E. King,,,Ben E. King,479144,False,False,True
+310039,嘿Siri播放Bette Midler的歌,Bette Midler,,,Bette Midler,148261,False,False,True
+310269,嘿Siri播放Dok2的歌,Dok2,,,Dok2,306707542,False,False,True
+310149,嘿Siri播放李欣芸的歌,李欣芸,,,李欣芸,422749818,False,True,True
+309668,嘿Siri播放Zee Avi的歌,Zee Avi,,,Zee Avi,295071694,False,False,True
+310053,嘿Siri播放Hush!的歌,Hush!,,,Hush!,1059080598,False,False,True
+309715,嘿Siri播放Lady Antebellum的歌,Lady Antebellum,,,Lady Antebellum,215542909,False,False,True
+309563,嘿Siri播放Kidsongs的歌,Kidsongs,,,Kidsongs,461753224,False,False,True
+308489,嘿Siri播放H.E.R.的歌,H.E.R.,,,H.E.R.,123049323,False,False,True
+308529,嘿Siri播放w-inds.的歌,w-inds.,,,w-inds.,252870232,False,False,True
+309143,嘿Siri播放Alexandros的歌,Alexandros,,,[Alexandros],350239299,False,False,True
+310289,嘿Siri播放Daniel Ho的歌,Daniel Ho,,,Daniel Ho,6654468,False,False,True
+309599,"嘿Siri播放Nat ""King"" Cole的歌","Nat ""King"" Cole",,,"Nat ""King"" Cole",42616562,False,False,True
+309951,嘿Siri播放Tinashe的歌,Tinashe,,,Tinashe,464835513,False,False,True
+309047,嘿Siri播放Paul Cardall的歌,Paul Cardall,,,Paul Cardall,4312819,False,False,True
+309287,嘿Siri播放Hayley Westenra的歌,Hayley Westenra,,,Hayley Westenra,5634331,False,False,True
+308459,嘿Siri播放Stray Kids的歌,Stray Kids,,,Stray Kids,1304823362,False,False,True
+308662,嘿Siri播放Empire Cast的歌,Empire Cast,,,Empire Cast,949663588,False,False,True
+310024,嘿Siri播放Daniel Hope的歌,Daniel Hope,,,Daniel Hope,73671116,False,False,True
+309277,嘿Siri播放R. City的歌,R. City,,,R. City,269180970,False,False,True
+310130,嘿Siri播放Florida Georgia Line的歌,Florida Georgia Line,,,Florida Georgia Line,399241518,False,False,True
+310298,嘿Siri播放瓦倫廷娜李斯蒂莎的歌,瓦倫廷娜李斯蒂莎,,,Valentina Lisitsa,469262802,False,False,True
+310019,嘿Siri播放3LAU的歌,3LAU,,,3LAU,519374658,False,False,True
+308818,嘿Siri播放INFINITE的歌,INFINITE,,,INFINITE,407674485,False,False,True
+309872,嘿Siri播放Sleep Music Academy的歌,Sleep Music Academy,,,睡眠音楽のアカデミー,981653553,False,False,False
+309939,嘿Siri播放The Police的歌,The Police,,,The Police,93818,False,False,True
+309631,嘿Siri播放Joyce Jonathan的歌,Joyce Jonathan,,,Joyce Jonathan,342296339,False,False,True
+308804,嘿Siri播放Super Junior-D&E的歌,Super Junior-D&E,,,Super Junior-D&E,972910437,False,False,True
+308871,嘿Siri播放Louis Tomlinson的歌,Louis Tomlinson,,,Louis Tomlinson,471260295,False,False,True
+309500,嘿Siri播放Hoody的歌,Hoody,,,Hoody,934991070,False,False,True
+309446,嘿Siri播放기리보이的歌,기리보이,,,,,,,
+310013,嘿Siri播放Two Door Cinema Club的歌,Two Door Cinema Club,,,Two Door Cinema Club,291005449,False,False,True
+308525,嘿Siri播放New Order的歌,New Order,,,New Order,176722,False,False,True
+308749,嘿Siri播放Cigarettes After Sex的歌,Cigarettes After Sex,,,Cigarettes After Sex,1069739468,False,False,True
+308484,嘿Siri播放MBLAQ的歌,MBLAQ,,,MBLAQ,458029220,False,False,True
+308364,嘿Siri播放Chris Tomlin的歌,Chris Tomlin,,,Chris Tomlin,569510,False,False,True
+309124,嘿Siri播放Cafe Music BGM channel的歌,Cafe Music BGM channel,,,Cafe Music BGM channel,1028904635,False,False,True
+309228,嘿Siri播放HIRAI DAI的歌,HIRAI DAI,,,HIRAI DAI,429610343,False,False,True
+310138,嘿Siri播放玖壹壹的歌,玖壹壹,,,玖壹壹,935194104,False,True,True
+308883,嘿Siri播放Deuter的歌,Deuter,,,Deuter,4340299,False,False,True
+308782,嘿Siri播放Trash的歌,Trash,,,Trash,1159018201,False,False,True
+339119,嘿Siri播放安田瑞的歌,安田瑞,,,安田レイ,656607894,False,False,False
+308415,嘿Siri播放Ziv Zaifman的歌,Ziv Zaifman,,,Ziv Zaifman,1299844948,False,False,True
+309871,嘿Siri播放Frank Sinatra的歌,Frank Sinatra,,,Frank Sinatra,171366,False,False,True
+308327,嘿Siri播放安德拉戴的歌,安德拉戴,,,Andra Day,677081663,False,False,False
+309037,嘿Siri播放The Cure的歌,The Cure,,,The Cure,566519,False,False,True
+308509,嘿Siri播放Fort Minor的歌,Fort Minor,,,Fort Minor,80800060,False,False,True
+308884,嘿Siri播放Adam Levine的歌,Adam Levine,,,Adam Levine,16053191,False,False,True
+309786,嘿Siri播放Vicetone的歌,Vicetone,,,Vicetone,586782209,False,False,True
+309076,嘿Siri播放Vance Joy的歌,Vance Joy,,,Vance Joy,594135753,False,False,True
+308996,嘿Siri播放Charlie Puth的歌,Charlie Puth,,,Charlie Puth,336249253,False,False,True
+309253,嘿Siri播放Jessica的歌,Jessica,,,Jessica,560450151,False,False,True
+308805,嘿Siri播放강승윤的歌,강승윤,,,,,,,
+310033,嘿Siri播放Pink Floyd的歌,Pink Floyd,,,Pink Floyd,487143,False,False,False
+309559,嘿Siri播放Mstislav Rostropovich的歌,Mstislav Rostropovich,,,Mstislav Rostropovich,616531,False,False,True
+308698,嘿Siri播放DREAMS COME TRUE的歌,DREAMS COME TRUE,,,DREAMS COME TRUE,74493322,False,False,True
+309181,嘿Siri播放10th Anniversary Concert Cast of Les Misérables的歌,10th Anniversary Concert Cast of Les Misérables,,,10th Anniversary Concert Cast of Les Misérables,289942995,False,False,False
+309946,嘿Siri播放The Corrs的歌,The Corrs,,,The Corrs,146684,False,False,True
+309671,嘿Siri播放Henrik Birk Aaboe的歌,Henrik Birk Aaboe,,,Henrik Birk Aaboe,533311986,False,False,True
+310016,嘿Siri播放Sufjan Stevens的歌,Sufjan Stevens,,,Sufjan Stevens,4273404,False,False,True
+309246,嘿Siri播放The Kiboomers的歌,The Kiboomers,,,The Kiboomers,395585033,False,False,True
+309785,嘿Siri播放m.o.v.e的歌,m.o.v.e,,,m.o.v.e,79142857,False,False,True
+308613,嘿Siri播放Hillsong Young & Free的歌,Hillsong Young & Free,,,Hillsong Young & Free,661271604,False,True,True
+308594,嘿Siri播放World of Orgel的歌,World of Orgel,,,オルゴールの世界,104047903,False,False,False
+309636,嘿Siri播放Bernward Koch的歌,Bernward Koch,,,Bernward Koch,17298383,False,False,True
+309980,嘿Siri播放NCT的歌,NCT,,,NCT,1101892886,False,False,True
+308492,"嘿Siri播放Tyler, The Creator的歌","Tyler, The Creator",,,"Tyler, The Creator",420368335,False,False,True
+309171,嘿Siri播放Zedd的歌,Zedd,,,Zedd,368433979,False,False,True
+308798,嘿Siri播放Sum 41的歌,Sum 41,,,Sum 41,249591,False,False,True
+309028,嘿Siri播放It's的歌,It's,,,It's,1246271195,False,False,True
+309223,嘿Siri播放Carrie Underwood的歌,Carrie Underwood,,,Carrie Underwood,63399334,False,False,True
+309780,嘿Siri播放Jessi的歌,Jessi,,,Jessi,911707693,False,False,True
+308618,嘿Siri播放The fin.的歌,The fin.,,,The fin.,843286677,False,False,True
+308705,嘿Siri播放Foo Fighters的歌,Foo Fighters,,,Foo Fighters,6906197,False,False,True
+308722,嘿Siri播放Lianne La Havas的歌,Lianne La Havas,,,Lianne La Havas,469983553,False,False,True
+308672,嘿Siri播放filous的歌,filous,,,filous,992144771,False,False,True
+310004,嘿Siri播放Lyn的歌,Lyn,,,Lyn,345292912,False,False,True
+308655,嘿Siri播放Kassy的歌,Kassy,,,Kassy,1033401146,False,False,True
+308982,嘿Siri播放Arthur Rubinstein的歌,Arthur Rubinstein,,,Arthur Rubinstein,79980320,False,False,False
+308383,嘿Siri播放Kevin Kern的歌,Kevin Kern,,,Kevin Kern,58620320,False,False,True
+310312,嘿Siri播放的歌Park Yong In的歌,Park Yong In,,,박용인,808635510,False,False,True
+308568,嘿Siri播放Macklemore & Ryan Lewis的歌,Macklemore & Ryan Lewis,,,Macklemore & Ryan Lewis,543948286,False,False,True
+310243,嘿Siri播放肯尼貝爾的歌,肯尼貝爾,,,Corinne Bailey Rae,64996022,False,False,False
+309408,嘿Siri播放Redfoo的歌,Redfoo,,,Redfoo,466835015,False,False,True
+309487,嘿Siri播放João Gilberto的歌,João Gilberto,,,João Gilberto,43976,False,False,True
+309728,嘿Siri播放Stan Getz的歌,Stan Getz,,,Stan Getz,94445,False,True,True
+309141,嘿Siri播放RELAX WORLD的歌,RELAX WORLD,,,RELAX WORLD,422510610,False,False,True
+308422,嘿Siri播放Ólafur Arnalds的歌,Ólafur Arnalds,,,Ólafur Arnalds,265425550,False,False,True
+309619,嘿Siri播放AURORA的歌,AURORA,,,AURORA,947171999,False,False,True
+309395,嘿Siri播放K.Will的歌,K.Will,,,K.Will,145416394,False,False,True
+309316,嘿Siri播放f(x)的歌,f(x),,,f(x),425076892,False,False,True
+308381,嘿Siri播放BOL4的歌,BOL4,,,BOL4,1188975595,False,False,True
+308470,嘿Siri播放Ruth B.的歌,Ruth B.,,,Ruth B.,1037048423,False,False,True
+309288,嘿Siri播放Calum Scott的歌,Calum Scott,,,Calum Scott,190876590,False,False,True
+308976,嘿Siri播放MONGOL800的歌,MONGOL800,,,MONGOL800,202191113,False,False,True
+309085,嘿Siri播放Lukas Graham的歌,Lukas Graham,,,Lukas Graham,473219952,False,False,True
+308954,嘿Siri播放VIXX的歌,VIXX,,,VIXX,531227182,False,False,True
+309683,嘿Siri播放New Age 睡眠 Star的歌,New Age 睡眠 Star,,,New Age 睡眠 Star,616636575,False,False,False
+310027,嘿Siri播放aimyon的歌,aimyon,,,aimyon,1165017710,False,False,True
+308535,嘿Siri播放Within Temptation的歌,Within Temptation,,,Within Temptation,2898551,False,False,True
+309393,嘿Siri播放Flo Rida的歌,Flo Rida,,,Flo Rida,255303209,False,False,True
+308353,嘿Siri播放dvsn的歌,dvsn,,,dvsn,1036952578,False,False,True
+309922,嘿Siri播放Alex Aiono的歌,Alex Aiono,,,Alex Aiono,395473396,False,False,True
+309938,嘿Siri播放Children's Music的歌,Children's Music,,,Children's Music,302225987,False,False,True
+308624,嘿Siri播放Kurt Hugo Schneider的歌,Kurt Hugo Schneider,,,Kurt Hugo Schneider,700973869,False,False,True
+308941,嘿Siri播放M83的歌,M83,,,M83,46086389,False,False,True
+308960,嘿Siri播放埃里克 克莱普顿的歌,埃里克 克莱普顿,,,Eric Clapton,123853,False,True,True
+309634,嘿Siri播放 Sayuri 的歌,さユり,,,さユり,1025773252,False,False,True
+309278,嘿Siri播放馬克曼西納的歌,馬克曼西納,,,馬克曼西納,393363,False,False,True
+309491,嘿Siri播放Showtek的歌,Showtek,,,Showtek,74062258,False,True,True
+309621,嘿Siri播放Orange Caramel的歌,Orange Caramel,,,Orange Caramel,530145103,False,False,True
+310187,嘿Siri播放Starley的歌,Starley,,,Starley,1091849160,False,False,True
+308903,嘿Siri播放Daniil Trifonov的歌,Daniil Trifonov,,,Daniil Trifonov,325037863,False,False,True
+309545,嘿Siri播放CHUNG HA的歌,CHUNG HA,,,CHUNG HA,1148527055,False,False,True
+310308,嘿Siri播放M.I.A.的歌,M.I.A.,,,M.I.A.,14677454,False,False,True
+309748,嘿Siri播放Luis Fonsi的歌,Luis Fonsi,,,Luis Fonsi,102834,False,False,True
+309567,嘿Siri播放希拉蕊韓的歌,希拉蕊韓,,,希拉蕊韓,20536649,False,False,True
+309055,嘿Siri播放FKA twigs的歌,FKA twigs,,,FKA twigs,679661890,False,False,True
+308699,嘿Siri播放沐月的歌,沐月,,,moumoon,213598724,False,False,True
+310313,嘿Siri播放London Grammar的歌,London Grammar,,,London Grammar,604064576,False,False,True
+309349,嘿Siri播放Van Halen的歌,Van Halen,,,Van Halen,166529,False,False,True
+309151,嘿Siri播放Einstein Baby Lullaby Academy的歌,Einstein Baby Lullaby Academy,,,Einstein Baby Lullaby Academy,996163524,False,False,True
+308367,嘿Siri播放Kiana Ledé的歌,Kiana Ledé,,,Kiana Ledé,1121723557,False,False,True
+309399,嘿Siri播放Pitbull的歌,Pitbull,,,Pitbull,27044968,False,False,True
+308645,嘿Siri播放M.O的歌,M.O,,,M.O,267526361,False,False,True
+309797,嘿Siri播放Lil Wayne的歌,Lil Wayne,,,Lil Wayne,5869117,False,False,True
+309924,嘿Siri播放George Benson的歌,George Benson,,,George Benson,1523080,False,False,True
+309221,嘿Siri播放Above & Beyond的歌,Above & Beyond,,,Above & Beyond,20318188,False,False,True
+308592,嘿Siri播放iKON的歌,iKON,,,iKON,1044506362,False,False,True
+308738,嘿Siri播放Khalid的歌,Khalid,,,Khalid,82842423,False,False,True
+309576,嘿Siri播放X Ambassadors的歌,X Ambassadors,,,X Ambassadors,622429974,False,False,True
+308428,嘿Siri播放The Cranberries的歌,The Cranberries,,,The Cranberries,122615,False,True,True
+309158,嘿Siri播放Dawin的歌,Dawin,,,Dawin,492391156,False,False,True
+309302,嘿Siri播放Han Dong Geun的歌,Han Dong Geun,,,Han Dong Geun,578840142,False,False,True
+309804,嘿Siri播放Jeff Bernat的歌,Jeff Bernat,,,Jeff Bernat,481861675,False,False,True
+308346,嘿Siri播放Jungyup的歌,Jungyup,,,정엽,428922888,False,False,True
+308769,嘿Siri播放Gael García Bernal的歌,Gael García Bernal,,,Gael García Bernal,268823430,False,False,True
+309520,嘿Siri播放CamelPhat的歌,CamelPhat,,,CamelPhat,385810888,False,False,True
+310068,嘿Siri播放Triple H的歌,Triple H,,,Triple H,3611746,False,False,True
+309736,嘿Siri播放The Black Eyed Peas的歌,The Black Eyed Peas,,,The Black Eyed Peas,360391,False,True,True
+309465,嘿Siri播放Gallant的歌,Gallant,,,Gallant,281891356,False,False,True
+309642,嘿Siri播放Savage Garden的歌,Savage Garden,,,Savage Garden,463177,False,False,True
+309136,嘿Siri播放First Aid Kit的歌,First Aid Kit,,,First Aid Kit,370729254,False,True,True
+310184,嘿Siri播放Galantis的歌,Galantis,,,Galantis,543322169,False,False,True
+310035,嘿Siri播放Lee Hyori的歌,Lee Hyori,,,Lee Hyori,464985628,False,False,True
+309413,嘿Siri播放蘇芮的歌,蘇芮,,,蘇芮,161606129,False,False,True
+310213,嘿Siri播放fromis_9的歌,fromis_9,,,fromis_9,1319150216,False,False,True
+310246,嘿Siri播放Dimitri Vegas & Like Mike的歌,Dimitri Vegas & Like Mike,,,Dimitri Vegas & Like Mike,323230893,False,False,True
+309440,嘿Siri播放Two Steps From Hell的歌,Two Steps From Hell,,,Two Steps From Hell,372716646,False,False,True
+310038,嘿Siri播放ヒーリング・ライフ的歌,ヒーリング・ライフ,,,,,,,
+309497,嘿Siri播放Jordi Savall的歌,Jordi Savall,,,Jordi Savall,1127168,False,False,True
+309638,嘿Siri播放Vince Staples的歌,Vince Staples,,,Vince Staples,566639154,False,False,True
+309555,嘿Siri播放Little Mix的歌,Little Mix,,,Little Mix,477515548,False,False,True
+309651,嘿Siri播放Van Morrison的歌,Van Morrison,,,Van Morrison,253638,False,False,True
+309426,嘿Siri播放Nightwish的歌,Nightwish,,,Nightwish,2898807,False,False,True
+309616,嘿Siri播放Dream Theater的歌,Dream Theater,,,Dream Theater,730091,False,False,True
+309453,嘿Siri播放Ofenbach的歌,Ofenbach,,,Ofenbach,451785386,False,False,True
+309850,嘿Siri播放PRODUCE 101的歌,PRODUCE 101,,,PRODUCE 101,1069276984,False,False,True
+309418,嘿Siri播放Khatia Buniatishvili的歌,Khatia Buniatishvili,,,Khatia Buniatishvili,384871592,False,False,True
+310252,嘿Siri播放Florence + The Machine的歌,Florence + The Machine,,,Florence + The Machine,281070699,False,True,True
+310283,嘿Siri播放Sleepaholics的歌,Sleepaholics,,,Sleepaholics,1219112962,False,False,True
+309540,嘿Siri播放Tame Impala的歌,Tame Impala,,,Tame Impala,290242959,False,False,True
+309923,嘿Siri播放白藝潾的歌,白藝潾,,,Yerin Baek,1053924796,False,False,True
+309367,嘿Siri播放Sing Street的歌,Sing Street,,,Sing Street,1092163738,False,False,True
+308567,嘿Siri播放Tizzy Bac的歌,Tizzy Bac,,,Tizzy Bac,308554746,False,False,True
+309096,嘿Siri播放Post Malone的歌,Post Malone,,,Post Malone,966309175,False,False,True
+309823,嘿Siri播放Bethel Music的歌,Bethel Music,,,Bethel Music,480438107,False,False,True
+309857,嘿Siri播放The Strokes的歌,The Strokes,,,The Strokes,560289,False,False,True
+308793,嘿Siri播放Chris Hart的歌,Chris Hart,,,Chris Hart,650228597,False,False,True
+308671,嘿Siri播放Josh Gad的歌,Josh Gad,,,Josh Gad,284749120,False,False,False
+308522,嘿Siri播放The Temptations的歌,The Temptations,,,The Temptations,127358,False,False,True
+308371,嘿Siri播放BENI的歌,BENI,,,BENI,290868758,False,False,True
+309013,嘿Siri播放麂皮合唱團的歌,麂皮合唱團,,,Suede,31209505,False,False,True
+309791,嘿Siri播放Das Sound Machine的歌,Das Sound Machine,,,Das Sound Machine,993737359,False,False,True
+308646,嘿Siri播放W&W的歌,W&W,,,W&W,251032563,False,False,True
+309713,嘿Siri播放Max Richter的歌,Max Richter,,,Max Richter,54782697,False,False,True
+308638,嘿Siri播放Nathan Sykes的歌,Nathan Sykes,,,Nathan Sykes,472632653,False,False,True
+310018,嘿Siri播放Jazz Guitar Club的歌,Jazz Guitar Club,,,Jazz Guitar Club,989379262,False,False,True
+309827,嘿Siri播放Diana Krall的歌,Diana Krall,,,Diana Krall,72783,False,False,True
+308474,嘿Siri播放Panic! At the Disco的歌,Panic! At the Disco,,,Panic! At the Disco,80456331,False,False,True
+309131,嘿Siri播放Phillip Phillips的歌,Phillip Phillips,,,Phillip Phillips,199170038,False,False,True
+309099,嘿Siri播放Jung Joonil的歌,Jung Joonil,,,Jung Joonil,489742312,False,False,True
+309508,嘿Siri播放Dillon Francis的歌,Dillon Francis,,,Dillon Francis,366828522,False,False,True
+309103,嘿Siri播放GENERATIONS from EXILE TRIBE的歌,GENERATIONS from EXILE TRIBE,,,GENERATIONS from EXILE TRIBE,591740317,False,False,True
+309495,嘿Siri播放紅的歌,紅,,,紅,1300274640,False,True,True
+308362,嘿Siri播放蒙福之子樂園的歌,蒙福之子樂園,,,Mumford & Sons,307699986,False,False,False
+308575,嘿Siri播放Sigala的歌,Sigala,,,Sigala,912773746,False,False,True
+308928,嘿Siri播放Auli'i Cravalho的歌,Auli'i Cravalho,,,Auli'i Cravalho,1168828428,False,False,True
+310120,嘿Siri播放Enrique Iglesias的歌,Enrique Iglesias,,,Enrique Iglesias,90895,False,False,True
+309983,嘿Siri播放Mindy Gledhill的歌,Mindy Gledhill,,,Mindy Gledhill,65177365,False,False,True
+308377,嘿Siri播放SISTAR的歌,SISTAR,,,SISTAR,380432623,False,False,True
+309060,嘿Siri播放ClariS的歌,ClariS,,,ClariS,548139430,False,False,True
+309237,嘿Siri播放RAIN的歌,RAIN,,,RAIN,415442801,False,False,True
+310180,嘿Siri播放Kiesza的歌,Kiesza,,,Kiesza,301580396,False,False,True
+308469,嘿Siri播放Slate的歌,Slate,,,Slate,27881485,False,False,True
+309690,嘿Siri播放Maggie Lindemann的歌,Maggie Lindemann,,,Maggie Lindemann,1035916223,False,False,True
+308959,嘿Siri播放MAGIC!的歌,MAGIC!,,,MAGIC!,779604886,False,False,True
+309863,嘿Siri播放Meditation Masters的歌,Meditation Masters,,,Meditation Masters,396078539,False,False,True
+309851,嘿Siri播放HYUKOH的歌,HYUKOH,,,HYUKOH,927548906,False,False,True
+309117,嘿Siri播放SILENT SIREN的歌,SILENT SIREN,,,SILENT SIREN,1205768846,False,False,True
+308401,嘿Siri播放Lovelyz的歌,Lovelyz,,,Lovelyz,941496190,False,False,True
+309900,嘿Siri播放Piano Bar Music Specialists的歌,Piano Bar Music Specialists,,,Piano Bar Music Specialists,474332775,False,False,True
+309920,嘿Siri播放Kim Feel的歌,Kim Feel,,,Kim Feel,767877371,False,False,True
+308684,嘿Siri播放FS的歌,FS,,,FS (Fuying & Sam),1284161227,False,False,True
+310273,嘿Siri播放Iron & Wine的歌,Iron & Wine,,,Iron & Wine,3274302,False,False,True
+309468,嘿Siri播放Yuji Nomi的歌,Yuji Nomi,,,Yuji Nomi,541768542,False,False,True
+309564,嘿Siri播唐妮布蕾斯頓的歌,唐妮布蕾斯頓,,,Toni Braxton,15935,False,True,True
+309483,嘿Siri播放Wee Sing的歌,Wee Sing,,,Wee Sing,406180641,False,False,True
+310237,嘿Siri播放澤野弘之的歌,澤野弘之,,,SawanoHiroyuki[nZk],912316913,False,False,True
+309990,嘿Siri播放Solange的歌,Solange,,,Solange,927803,False,False,True
+310277,嘿Siri播放Sam Hunt的歌,Sam Hunt,,,Sam Hunt,214150835,False,False,True
+308402,嘿Siri播放Martin Solveig的歌,Martin Solveig,,,Martin Solveig,15201848,False,False,True
+309867,嘿Siri播放Robin Schulz的歌,Robin Schulz,,,Robin Schulz,347433400,False,False,True
+308965,嘿Siri播放BTOB的歌,BTOB,,,BTOB,515372357,False,False,True
+308700,嘿Siri播放A$AP Mob的歌,A$AP Mob,,,A$AP Mob,560677601,False,False,True
+308901,嘿Siri播放Mr. Big的歌,Mr. Big,,,Mr. Big,157174,False,True,True
+309798,嘿Siri播放Tank的歌,Tank,,,Tank Lu,549411173,False,False,False
+309742,嘿Siri播放WINNER的歌,WINNER,,,WINNER,908222845,False,False,True
+308938,嘿Siri播放Rag'n'Bone Man的歌,Rag'n'Bone Man,,,Rag'n'Bone Man,579281370,False,False,True
+309518,嘿Siri播放Anthony Gonzalez的歌,Anthony Gonzalez,,,Anthony Gonzalez,218158594,False,False,False
+308438,嘿Siri播放Imagine Dragons的歌,Imagine Dragons,,,Imagine Dragons,358714030,False,False,True
+309778,嘿Siri播放LABOUM的歌,LABOUM,,,LABOUM,913457894,False,False,True
+310012,嘿Siri播放SHISHAMO的歌,SHISHAMO,,,SHISHAMO,689946203,False,False,True
+308597,嘿Siri播放Fifth Harmony的歌,Fifth Harmony,,,Fifth Harmony,577354628,False,False,True
+310291,嘿Siri播放Labrinth的歌,Labrinth,,,Labrinth,205732582,False,True,True
+309120,嘿Siri播放NU’EST W的歌,NU’EST W,,,NU’EST W,1263330798,False,True,True
+309205,嘿Siri播放Nico and Vinz的歌,Nico and Vinz,,,Nico & Vinz,793640807,False,False,True
+309227,嘿Siri播放21 Savage的歌,21 Savage,,,21 Savage,894820464,False,False,True
+309489,嘿Siri播放CLOVES的歌,CLOVES,,,CLOVES,394553618,False,False,True
+308585,嘿Siri播放Dire Straits的歌,Dire Straits,,,Dire Straits,648427,False,False,True
+308891,嘿Siri播放PRISTIN的歌,PRISTIN,,,프리스틴,1217755255,False,False,True
+309404,嘿Siri播放Ailee的歌,Ailee,,,Ailee,415508441,False,False,True
+309654,嘿Siri播放Karmin的歌,Karmin,,,Karmin,367987770,False,False,True
+309801,嘿Siri播放The Countdown Kids的歌,The Countdown Kids,,,The Countdown Kids,106129135,False,False,True
+309382,嘿Siri播放SEKAI NO OWARI的歌,SEKAI NO OWARI,,,SEKAI NO OWARI,454694621,False,False,True
+309881,嘿Siri播放Matzka的歌,Matzka,,,Matzka,372621995,False,False,True
+308461,嘿Siri播放FIESTAR的歌,FIESTAR,,,FIESTAR,693968912,False,False,True
+309185,嘿Siri播放Jesse McCartney的歌,Jesse McCartney,,,Jesse McCartney,17554155,False,False,True
+308605,嘿Siri播放Dizzy Dizzo的歌,Dizzy Dizzo,,,Dizzy Dizzo,854398592,False,False,True
+309444,嘿Siri播放Noah Kahan的歌,Noah Kahan,,,Noah Kahan,328583953,False,False,True
+309029,嘿Siri播放Park Kyung的歌,Park Kyung,,,Park Kyung,719374189,False,False,True
+309093,嘿Siri播放Enya的歌,Enya,,,Enya,160847,False,True,True
+309326,嘿Siri播放Alice Sara Ott的歌,Alice Sara Ott,,,Alice Sara Ott,295447371,False,False,True
+308626,嘿Siri播放io樂團的歌,io樂團,,,io樂團,679499330,False,False,True
+309269,嘿Siri播放George Winston的歌,George Winston,,,George Winston,12814,False,False,True
+310250,嘿Siri播放Boyce Avenue的歌,Boyce Avenue,,,Boyce Avenue,251854427,False,True,True
+308839,嘿Siri播放Hillsong Worship的歌,Hillsong Worship,,,Hillsong Worship,878620224,False,False,True
+309844,嘿Siri播放LANY的歌,LANY,,,LANY,867853783,False,False,True
+339122,嘿Siri播放韓秀智的歌,韓秀智,,,한수지,883877800,False,False,False
+310181,嘿Siri播放6LACK的歌,6LACK,,,6LACK,1016633280,False,False,True
+308606,嘿Siri播放Jess Glynne的歌,Jess Glynne,,,Jess Glynne,704309129,False,False,True
+308533,嘿Siri播放FKJ的歌,FKJ,,,FKJ,644688726,False,False,True
+310065,嘿Siri播放弗里德里希古爾達的歌,弗里德里希古爾達,,,Friedrich Gulda,4333310,False,False,False
+308581,嘿Siri播放Etta James的歌,Etta James,,,Etta James,10811,False,False,True
+308620,嘿Siri播放Grimes的歌,Grimes,,,Grimes,2756920,False,False,True
+309845,嘿Siri播放Simon & Garfunkel的歌,Simon & Garfunkel,,,Simon & Garfunkel,461503,False,True,True
+309513,嘿Siri播放French Montana的歌,French Montana,,,French Montana,475816358,False,False,True
+310285,嘿Siri播放Disciples的歌,Disciples,,,Disciples,215276022,False,True,True
+308865,嘿Siri播放Kungs的歌,Kungs,,,Kungs,885054140,False,False,True
+309486,嘿Siri播放AGA的歌,AGA,,,AGA,950360832,False,False,True
+308360,嘿Siri播放2CELLOS的歌,2CELLOS,,,2CELLOS,431165069,False,False,True
+308341,嘿Siri播放Broods的歌,Broods,,,Broods,781291269,False,False,True
+310195,嘿Siri播放Duke Dumont的歌,Duke Dumont,,,Duke Dumont,257148267,False,False,True
+308528,嘿Siri播放GLAY的歌,GLAY,,,GLAY,705683182,False,False,True
+309289,嘿Siri播放Sik-K的歌,Sik-K,,,Sik-K,1044952521,False,False,True
+308627,嘿Siri播放布蘭蒂的歌,布蘭蒂,,,Brandy,17416,False,False,False
+309666,嘿Siri播放SISTAR19的歌,SISTAR19,,,SISTAR19,435883186,False,False,True
+310127,嘿Siri播放Janine Jansen的歌,Janine Jansen,,,Janine Jansen,4374111,False,False,True
+308743,嘿Siri播放Mabel的歌,Mabel,,,Mabel,1056294097,False,False,True
+308849,嘿Siri播放Ella Fitzgerald的歌,Ella Fitzgerald,,,Ella Fitzgerald,73568,False,False,True
+309293,嘿Siri播放Fitz and The Tantrums的歌,Fitz and The Tantrums,,,Fitz and The Tantrums,321144807,False,False,True
+308692,嘿Siri播放twenty one pilots的歌,twenty one pilots,,,twenty one pilots,349736311,False,False,False
+309886,嘿Siri播放DIA的歌,DIA,,,DIA,1082663564,False,False,True
+309917,嘿Siri播放J.Y. Park的歌,J.Y. Park,,,J.Y. Park,418893613,False,False,True
+310209,嘿Siri播放Power Music Workout的歌,Power Music Workout,,,Power Music Workout,112115157,False,False,True
+309901,嘿Siri播放Korn的歌,Korn,,,Korn,466532,False,False,True
+308513,嘿Siri播放Sampha的歌,Sampha,,,Sampha,376517823,False,False,True
+308598,嘿Siri播放Train的歌,Train,,,Train,469476,False,False,True
+308349,嘿Siri播放Falcom Sound Team jdk的歌,Falcom Sound Team jdk,,,Falcom Sound Team jdk,120174391,False,False,True
+308808,嘿Siri播放The Treblemakers的歌,The Treblemakers,,,The Treblemakers,293934687,False,False,True
+309840,嘿Siri播放 托里 凱莉 的歌,Tori Kelly,,,Tori Kelly,437581991,False,False,True
+309604,嘿Siri播放N.E.R.D的歌,N.E.R.D,,,N.E.R.D,626510,False,False,True
+309609,嘿Siri播放A$AP Rocky的歌,A$AP Rocky,,,A$AP Rocky,481488005,False,False,True
+308452,嘿Siri播放MØ的歌,MØ,,,MØ,511617296,False,False,True
+308652,嘿Siri播放Estelle的歌,Estelle,,,Estelle,27060010,False,False,True
+308914,嘿Siri播放Europe的歌,Europe,,,Europe,461932,False,False,True
+308636,嘿Siri播放Yuna的歌,Yuna,,,Yuna,423966062,False,False,True
+309515,嘿Siri播放Prince Royce的歌,Prince Royce,,,Prince Royce,333299061,False,False,True
+309708,嘿Siri播放路易斯 阿姆斯特朗的歌,路易斯 阿姆斯特朗,,,Louis Armstrong,518462,False,True,True
+310254,嘿Siri播放SZA的歌,SZA,,,SZA,605800394,False,False,True
+309194,嘿Siri播放Grace的歌,Grace,,,Grace,1014754272,False,False,False
+310174,嘿Siri播放TheFatRat的歌,TheFatRat,,,TheFatRat,395664545,False,False,True
+308906,嘿Siri播放Akira Kosemura的歌,Akira Kosemura,,,Akira Kosemura,216327255,False,False,True
+309617,嘿Siri播放Jacob Banks的歌,Jacob Banks,,,Jacob Banks,625014171,False,False,True
+309771,嘿Siri播放Rob Thaller的歌,Rob Thaller,,,Rob Thaller,331645446,False,False,True
